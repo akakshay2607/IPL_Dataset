@@ -1,0 +1,1075 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Capitals,lost,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",576
+1,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Capitals,lost,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",10276
+2,Anmolpreet Singh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Capitals,lost,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",10947
+3,Tilak Varma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Capitals,lost,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",14504
+4,Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Capitals,lost,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",657
+5,Tim David,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Capitals,lost,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",13169
+6,Daniel Sams,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Capitals,lost,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",13162
+7,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Mumbai Indians,won,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",12094
+8,Tim Seifert,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Mumbai Indians,won,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",9443
+9,Mandeep Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Mumbai Indians,won,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",6319
+10,Rishabh Pant (c & wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Mumbai Indians,won,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",10744
+11,Lalit Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Mumbai Indians,won,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",13252
+12,Rovman Powell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Mumbai Indians,won,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",11445
+13,Shardul Thakur,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Mumbai Indians,won,45891,15:30:00,27,2022,3,"Brabourne Stadium, Mumbai",8683
+14,Rahul (c),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Gujarat Titans,lost,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",8733
+15,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Gujarat Titans,lost,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",8520
+16,Lewis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Gujarat Titans,lost,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",8579
+17,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Gujarat Titans,lost,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",1836
+18,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Gujarat Titans,lost,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",9427
+19,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Gujarat Titans,lost,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",13907
+20,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Gujarat Titans,lost,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",11311
+21,Shubman Gill,not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Lucknow Super Giants,won,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",11808
+22,Matthew Wade (wk),b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Lucknow Super Giants,won,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",1649
+23,Vijay Shankar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Lucknow Super Giants,won,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",8204
+24,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Lucknow Super Giants,won,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",9647
+25,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Lucknow Super Giants,won,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",6349
+26,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Lucknow Super Giants,won,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",9693
+27,Abhinav Manohar,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Lucknow Super Giants,won,45901,19:30:00,28,2022,3,"Wankhede Stadium, Mumbai",10499
+28,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Sunrisers Hyderabad,won,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",2258
+29,Jaiswal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Sunrisers Hyderabad,won,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",13940
+30,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Sunrisers Hyderabad,won,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",8271
+31,Padikkal,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Sunrisers Hyderabad,won,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",13088
+32,Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Sunrisers Hyderabad,won,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",9789
+33,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Sunrisers Hyderabad,won,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",12305
+34,Coulter-Nile,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Sunrisers Hyderabad,won,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",7774
+35,Kane Williamson (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Rajasthan Royals,lost,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",6326
+36,Abhishek Sharma,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,lost,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",12086
+37,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Rajasthan Royals,lost,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",9012
+38,Nicholas Pooran (wk),not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Rajasthan Royals,lost,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",9406
+39,Aiden Markram,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Rajasthan Royals,lost,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",9582
+40,Abdul Samad,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,lost,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",14628
+41,Romario Shepherd,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Rajasthan Royals,lost,45906,19:30:00,29,2022,3,"Maharashtra Cricket Association Stadium, Pune",13646
+42,Rahane,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",1447
+43,Venkatesh Iyer,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",10917
+44,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",9428
+45,Nitish Rana,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",9204
+46,Narine,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",2276
+47,Billings,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",7990
+48,Jackson (wk),b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",8846
+49,Faf du Plessis (c),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",7825
+50,Anuj Rawat,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",13135
+51,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",1413
+52,David Willey,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",6592
+53,Sherfane Rutherford,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",13748
+54,Shahbaz Ahmed,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",14606
+55,Dinesh Karthik (wk),b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,45911,19:30:00,30,2022,3,"Dr DY Patil Sports Academy, Mumbai",145
+56,Uthappa,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Lucknow Super Giants,lost,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",527
+57,Ruturaj Gaikwad,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Lucknow Super Giants,lost,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",11813
+58,Moeen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Lucknow Super Giants,lost,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",6692
+59,Shivam Dube,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Lucknow Super Giants,lost,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",11195
+60,Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Lucknow Super Giants,lost,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",6311
+61,Ravindra Jadeja (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Lucknow Super Giants,lost,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",587
+62,Dhoni (wk),b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Lucknow Super Giants,lost,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",265
+63,KL Rahul (c),not out,31,14,3,2,221.43,Inn2,Lucknow Super Giants,Chennai Super Kings,won,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",8733
+64,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Lucknow Super Giants,Chennai Super Kings,won,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",8520
+65,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Lucknow Super Giants,Chennai Super Kings,won,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",1836
+66,Evin Lewis,not out,116,54,8,9,214.81,Inn2,Lucknow Super Giants,Chennai Super Kings,won,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",8579
+67,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Lucknow Super Giants,Chennai Super Kings,won,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",9427
+68,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Lucknow Super Giants,Chennai Super Kings,won,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",13907
+69,18,b Pathan,25,17,4,1,147.06,Inn2,Lucknow Super Giants,Chennai Super Kings,won,45916,19:30:00,31,2022,3,"Brabourne Stadium, Mumbai",
+70,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn1,Punjab Kings,Kolkata Knight Riders,lost,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",2195
+71,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Kolkata Knight Riders,lost,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",1446
+72,B Rajapaksa (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Kolkata Knight Riders,lost,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",7869
+73,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Kolkata Knight Riders,lost,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",10045
+74,Raj Bawa,lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Kolkata Knight Riders,lost,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",22601
+75,Shahrukh Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Kolkata Knight Riders,lost,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",10226
+76,Harpreet Brar,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Kolkata Knight Riders,lost,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",14452
+77,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Punjab Kings,won,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",1447
+78,Venkatesh Iyer,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Punjab Kings,won,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",10917
+79,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Punjab Kings,won,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",9428
+80,Sam Billings (wk),not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Punjab Kings,won,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",7990
+81,Nitish Rana,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Punjab Kings,won,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",9204
+82,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Punjab Kings,won,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",7736
+83,6,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Punjab Kings,won,45921,19:30:00,1,2022,4,"Wankhede Stadium, Mumbai",
+84,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Mumbai Indians,won,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",2258
+85,Jaiswal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Mumbai Indians,won,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",13940
+86,Padikkal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Mumbai Indians,won,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",13088
+87,Samson (c & wk),not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Mumbai Indians,won,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",8271
+88,Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Mumbai Indians,won,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",9789
+89,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Mumbai Indians,won,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",12305
+90,Ashwin,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Mumbai Indians,won,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",1593
+91,Ishan Kishan (wk),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Rajasthan Royals,lost,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",10276
+92,Rohit Sharma (c),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Rajasthan Royals,lost,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",576
+93,Anmolpreet Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Rajasthan Royals,lost,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",10947
+94,Tilak Varma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,lost,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",14504
+95,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,lost,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",657
+96,Tim David,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,lost,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",13169
+97,Daniel Sams,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,lost,45926,15:30:00,2,2022,4,"Dr DY Patil Sports Academy, Mumbai",13162
+98,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn1,Punjab Kings,Chennai Super Kings,won,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",2195
+99,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Chennai Super Kings,won,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",1446
+100,B Rajapaksa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Chennai Super Kings,won,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",7869
+101,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Chennai Super Kings,won,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",10045
+102,Jitesh Sharma (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Chennai Super Kings,won,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",10214
+103,Shahrukh Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Chennai Super Kings,won,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",10226
+104,Odean Smith,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Chennai Super Kings,won,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",11215
+105,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Punjab Kings,lost,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",527
+106,Ruturaj Gaikwad,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Punjab Kings,lost,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",11813
+107,Moeen Ali,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Punjab Kings,lost,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",6692
+108,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Punjab Kings,lost,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",6311
+109,Ravindra Jadeja (c),lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Punjab Kings,lost,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",587
+110,Shivam Dube,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Punjab Kings,lost,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",11195
+111,MS Dhoni (wk),b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Punjab Kings,lost,45936,19:30:00,3,2022,4,"Brabourne Stadium, Mumbai",265
+112,Rahul (c),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Sunrisers Hyderabad,won,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",8733
+113,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Sunrisers Hyderabad,won,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",8520
+114,Lewis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Sunrisers Hyderabad,won,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",8579
+115,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Sunrisers Hyderabad,won,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",1836
+116,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Sunrisers Hyderabad,won,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",9427
+117,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Sunrisers Hyderabad,won,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",13907
+118,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Sunrisers Hyderabad,won,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",11311
+119,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Lucknow Super Giants,lost,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",12086
+120,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Lucknow Super Giants,lost,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",6326
+121,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Lucknow Super Giants,lost,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",9012
+122,Aiden Markram,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Lucknow Super Giants,lost,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",9582
+123,Nicholas Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Lucknow Super Giants,lost,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",9406
+124,Washington Sundar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Lucknow Super Giants,lost,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",10945
+125,Abdul Samad,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Lucknow Super Giants,lost,45941,19:30:00,4,2022,4,"Dr DY Patil Sports Academy, Mumbai",14628
+126,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",2258
+127,Jaiswal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",13940
+128,Padikkal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",13088
+129,Samson (c & wk),not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",8271
+130,Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",9789
+131,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",
+132,,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",
+133,Faf du Plessis (c),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",7825
+134,Anuj Rawat,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",13135
+135,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",1413
+136,David Willey,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",6592
+137,Sherfane Rutherford,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",13748
+138,Shahbaz Ahmed,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",14606
+139,Dinesh Karthik (wk),b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,45946,19:30:00,5,2022,4,"Wankhede Stadium, Mumbai",145
+140,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",576
+141,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",10276
+142,Dewald Brevis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",20538
+143,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",7915
+144,Tilak Varma,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",14504
+145,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",657
+146,3,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",
+147,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,won,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",1447
+148,Venkatesh Iyer,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,won,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",10917
+149,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,won,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",9428
+150,Sam Billings (wk),not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,won,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",7990
+151,Nitish Rana,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,won,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",9204
+152,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,won,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",7736
+153,Pat Cummins,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,won,45951,19:30:00,6,2022,4,"Maharashtra Cricket Association Stadium, Pune",8095
+154,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Lucknow Super Giants,lost,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",12094
+155,Warner,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Lucknow Super Giants,lost,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",1739
+156,Rovman Powell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Lucknow Super Giants,lost,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",11445
+157,Pant (c & wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Lucknow Super Giants,lost,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",10744
+158,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Lucknow Super Giants,lost,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",9429
+159,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Lucknow Super Giants,lost,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+160,,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Lucknow Super Giants,lost,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+161,KL Rahul (c),not out,31,14,3,2,221.43,Inn2,Lucknow Super Giants,Delhi Capitals,won,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",8733
+162,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Lucknow Super Giants,Delhi Capitals,won,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",8520
+163,Evin Lewis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Lucknow Super Giants,Delhi Capitals,won,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",8579
+164,Deepak Hooda,not out,116,54,8,9,214.81,Inn2,Lucknow Super Giants,Delhi Capitals,won,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",9427
+165,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Lucknow Super Giants,Delhi Capitals,won,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",11311
+166,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Lucknow Super Giants,Delhi Capitals,won,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",13907
+167,6,b Pathan,25,17,4,1,147.06,Inn2,Lucknow Super Giants,Delhi Capitals,won,45956,19:30:00,7,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+168,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn1,Punjab Kings,Gujarat Titans,lost,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",2195
+169,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Gujarat Titans,lost,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",1446
+170,Bairstow (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Gujarat Titans,lost,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",6507
+171,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Gujarat Titans,lost,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",10045
+172,Jitesh Sharma,lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Gujarat Titans,lost,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",10214
+173,Odean Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Gujarat Titans,lost,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",11215
+174,Shahrukh Khan,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Gujarat Titans,lost,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",10226
+175,Matthew Wade (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Punjab Kings,won,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",1649
+176,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Punjab Kings,won,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",11808
+177,Sai Sudharsan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Punjab Kings,won,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",13866
+178,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Punjab Kings,won,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",9647
+179,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Punjab Kings,won,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",6349
+180,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Punjab Kings,won,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",9693
+181,7,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Punjab Kings,won,45961,19:30:00,8,2022,4,"Brabourne Stadium, Mumbai",
+182,Uthappa,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",527
+183,Ruturaj Gaikwad,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",11813
+184,Moeen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",6692
+185,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",6311
+186,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",11195
+187,Ravindra Jadeja (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",587
+188,Dhoni (wk),b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",265
+189,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",12086
+190,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",6326
+191,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",9012
+192,Nicholas Pooran (wk),not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",9406
+193,4,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+194,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+195,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+196,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+197,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,45966,15:30:00,9,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+198,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Kolkata Knight Riders,won,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",12094
+199,Warner,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Kolkata Knight Riders,won,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",1739
+200,Pant (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Kolkata Knight Riders,won,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",10744
+201,Lalit Yadav,not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Kolkata Knight Riders,won,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",13252
+202,Rovman Powell,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Kolkata Knight Riders,won,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",11445
+203,Axar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Kolkata Knight Riders,won,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",8808
+204,Thakur,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Kolkata Knight Riders,won,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",8683
+205,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",1447
+206,Venkatesh Iyer,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",10917
+207,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",9428
+208,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",9204
+209,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",7736
+210,Sam Billings (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",7990
+211,Pat Cummins,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,45976,15:30:00,10,2022,4,"Brabourne Stadium, Mumbai",8095
+212,Wade (wk),not out,31,14,3,2,221.43,Inn1,Gujarat Titans,Sunrisers Hyderabad,lost,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",1649
+213,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Titans,Sunrisers Hyderabad,lost,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",11808
+214,Sai Sudharsan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Titans,Sunrisers Hyderabad,lost,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",13866
+215,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn1,Gujarat Titans,Sunrisers Hyderabad,lost,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",9647
+216,Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Titans,Sunrisers Hyderabad,lost,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",6349
+217,Abhinav Manohar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Titans,Sunrisers Hyderabad,lost,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",10499
+218,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Titans,Sunrisers Hyderabad,lost,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",9693
+219,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Gujarat Titans,won,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",12086
+220,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Gujarat Titans,won,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",6326
+221,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Gujarat Titans,won,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",9012
+222,Nicholas Pooran (wk),not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Gujarat Titans,won,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",9406
+223,Aiden Markram,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Gujarat Titans,won,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",9582
+224,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Gujarat Titans,won,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+225,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Gujarat Titans,won,45986,19:30:00,11,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+226,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",11813
+227,Uthappa,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",527
+228,Moeen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",6692
+229,Shivam Dube,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",11195
+230,Ravindra Jadeja (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",587
+231,Dhoni (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",265
+232,13,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+233,Faf du Plessis (c),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",7825
+234,Anuj Rawat,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",13135
+235,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",1413
+236,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",7662
+237,Shahbaz Ahmed,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",14606
+238,Suyash Prabhudessai,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",12669
+239,Dinesh Karthik (wk),b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,45991,19:30:00,12,2022,4,"Dr DY Patil Sports Academy, Mumbai",145
+240,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn1,Punjab Kings,Mumbai Indians,won,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",2195
+241,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Mumbai Indians,won,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",1446
+242,Bairstow,c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Mumbai Indians,won,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",6507
+243,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Mumbai Indians,won,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",10045
+244,Jitesh Sharma (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Mumbai Indians,won,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",10214
+245,Shahrukh Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Mumbai Indians,won,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",10226
+246,Odean Smith,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Mumbai Indians,won,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",11215
+247,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Punjab Kings,lost,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",576
+248,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Punjab Kings,lost,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",10276
+249,Dewald Brevis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Punjab Kings,lost,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",20538
+250,Tilak Varma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Punjab Kings,lost,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",14504
+251,Suryakumar Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Punjab Kings,lost,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",7915
+252,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Punjab Kings,lost,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",657
+253,Jaydev Unadkat,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Punjab Kings,lost,45996,19:30:00,13,2022,4,"Maharashtra Cricket Association Stadium, Pune",6327
+254,Wade (wk),not out,31,14,3,2,221.43,Inn1,Gujarat Titans,Rajasthan Royals,won,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",1649
+255,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Titans,Rajasthan Royals,won,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",11808
+256,Vijay Shankar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Titans,Rajasthan Royals,won,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",8204
+257,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn1,Gujarat Titans,Rajasthan Royals,won,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",9647
+258,Abhinav Manohar,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Titans,Rajasthan Royals,won,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",10499
+259,Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Titans,Rajasthan Royals,won,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",6349
+260,4,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Titans,Rajasthan Royals,won,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+261,Jos Buttler,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Gujarat Titans,lost,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",2258
+262,Devdutt Padikkal,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Gujarat Titans,lost,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",13088
+263,Ravichandran Ashwin,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Gujarat Titans,lost,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",1593
+264,Sanju Samson (c & wk),not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Gujarat Titans,lost,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",8271
+265,Rassie van der Dussen,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Gujarat Titans,lost,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",9554
+266,Shimron Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Gujarat Titans,lost,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",9789
+267,Riyan Parag,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Gujarat Titans,lost,46001,19:30:00,14,2022,4,"Dr DY Patil Sports Academy, Mumbai",12305
+268,Venkatesh Iyer,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",10917
+269,Finch,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",1643
+270,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",9428
+271,Narine,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",2276
+272,Nitish Rana,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",9204
+273,Jackson (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",8846
+274,Russell,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",7736
+275,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",12086
+276,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",6326
+277,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",9012
+278,Aiden Markram,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",9582
+279,Nicholas Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",9406
+280,12,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",
+281,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,46006,19:30:00,15,2022,4,"Brabourne Stadium, Mumbai",
+282,Rahul (c),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Mumbai Indians,won,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",8733
+283,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Mumbai Indians,won,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",8520
+284,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Mumbai Indians,won,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",1836
+285,Stoinis,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Mumbai Indians,won,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",8989
+286,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Mumbai Indians,won,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",9427
+287,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Mumbai Indians,won,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",11311
+288,8,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Mumbai Indians,won,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",
+289,Ishan Kishan (wk),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",10276
+290,Rohit Sharma (c),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",576
+291,Dewald Brevis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",20538
+292,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",7915
+293,Tilak Varma,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",14504
+294,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",657
+295,Fabian Allen,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46011,15:30:00,16,2022,4,"Brabourne Stadium, Mumbai",9785
+296,Dhawan (c),not out,31,14,3,2,221.43,Inn1,Punjab Kings,Sunrisers Hyderabad,lost,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",1446
+297,Prabhsimran,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Sunrisers Hyderabad,lost,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",14254
+298,Bairstow,c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Sunrisers Hyderabad,lost,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",6507
+299,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Sunrisers Hyderabad,lost,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",10045
+300,Jitesh Sharma (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Sunrisers Hyderabad,lost,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",10214
+301,Shahrukh Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Sunrisers Hyderabad,lost,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",10226
+302,Odean Smith,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Sunrisers Hyderabad,lost,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",11215
+303,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Punjab Kings,won,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",12086
+304,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Punjab Kings,won,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",6326
+305,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Punjab Kings,won,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",9012
+306,Aiden Markram,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Punjab Kings,won,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",9582
+307,Nicholas Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Punjab Kings,won,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",9406
+308,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Punjab Kings,won,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+309,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Punjab Kings,won,46021,15:30:00,17,2022,4,"Dr DY Patil Sports Academy, Mumbai",
+310,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",2258
+311,Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",13088
+312,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",8271
+313,Hetmyer,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",9789
+314,Riyan Parag,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",12305
+315,Karun Nair,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",8257
+316,Ashwin,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",1593
+317,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",1643
+318,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",2276
+319,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",9428
+320,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",9204
+321,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",7736
+322,Venkatesh Iyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",10917
+323,Sheldon Jackson (wk),b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,46031,19:30:00,18,2022,4,"Brabourne Stadium, Mumbai",8846
+324,Anuj Rawat,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",13135
+325,du Plessis (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",7825
+326,Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",1413
+327,Maxwell,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",7662
+328,Prabhudessai,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",12669
+329,Shahbaz Ahmed,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",14606
+330,Karthik (wk),b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",145
+331,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",8520
+332,KL Rahul (c),b Pathan,13,10,0,1,130.00,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",8733
+333,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",1836
+334,Krunal Pandya,not out,116,54,8,9,214.81,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",11311
+335,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",9427
+336,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",13907
+337,Marcus Stoinis,b Pathan,25,17,4,1,147.06,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,46036,19:30:00,19,2022,4,"Dr DY Patil Sports Academy, Mumbai",8989
+338,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn1,Punjab Kings,Delhi Capitals,lost,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",2195
+339,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Delhi Capitals,lost,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",1446
+340,Bairstow,c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Delhi Capitals,lost,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",6507
+341,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Delhi Capitals,lost,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",10045
+342,Jitesh Sharma (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Delhi Capitals,lost,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",10214
+343,Shahrukh Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Delhi Capitals,lost,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",10226
+344,Rabada,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Delhi Capitals,lost,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",9585
+345,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",12094
+346,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",1739
+347,Sarfaraz Khan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",9429
+348,6,not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+349,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+350,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+351,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+352,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+353,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+354,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+355,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+356,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+357,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Punjab Kings,won,46041,19:30:00,20,2022,4,"Brabourne Stadium, Mumbai",
+358,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",576
+359,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",10276
+360,Dewald Brevis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",20538
+361,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",7915
+362,Tilak Varma,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",14504
+363,Hrithik Shokeen,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",14595
+364,Pollard,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",657
+365,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",11813
+366,Robin Uthappa,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",527
+367,Mitchell Santner,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",10100
+368,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",6311
+369,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",11195
+370,Ravindra Jadeja (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",587
+371,MS Dhoni (wk),b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,46046,19:30:00,21,2022,4,"Dr DY Patil Sports Academy, Mumbai",265
+372,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",2258
+373,Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",13088
+374,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",8271
+375,Hetmyer,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",9789
+376,5,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",
+377,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",
+378,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",
+379,,b Pathan,25,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",
+380,,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Capitals,won,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",
+381,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Rajasthan Royals,lost,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",12094
+382,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Rajasthan Royals,lost,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",1739
+383,Sarfaraz Khan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Rajasthan Royals,lost,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",9429
+384,Rishabh Pant (c & wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Rajasthan Royals,lost,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",10744
+385,Lalit Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Rajasthan Royals,lost,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",13252
+386,Axar Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Rajasthan Royals,lost,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",8808
+387,Shardul Thakur,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Rajasthan Royals,lost,46051,19:30:00,22,2022,4,"Wankhede Stadium, Mumbai",8683
+388,W Saha (wk),not out,31,14,3,2,221.43,Inn1,Gujarat Titans,Kolkata Knight Riders,won,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",1465
+389,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Titans,Kolkata Knight Riders,won,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",11808
+390,Hardik Pandya (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Titans,Kolkata Knight Riders,won,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",9647
+391,Miller,not out,116,54,8,9,214.81,Inn1,Gujarat Titans,Kolkata Knight Riders,won,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",6349
+392,Rahul Tewatia,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Titans,Kolkata Knight Riders,won,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",9693
+393,Rashid Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Titans,Kolkata Knight Riders,won,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",10738
+394,Abhinav Manohar,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Titans,Kolkata Knight Riders,won,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",10499
+395,Sam Billings (wk),not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Gujarat Titans,lost,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",7990
+396,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Gujarat Titans,lost,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",2276
+397,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Gujarat Titans,lost,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",9428
+398,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Gujarat Titans,lost,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",9204
+399,Rinku Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Gujarat Titans,lost,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",10896
+400,Venkatesh Iyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Gujarat Titans,lost,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",10917
+401,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Gujarat Titans,lost,46056,15:30:00,23,2022,4,"Dr DY Patil Sports Academy, Mumbai",7736
+402,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Mumbai Indians,won,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",8520
+403,Rahul (c),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Mumbai Indians,won,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",8733
+404,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Mumbai Indians,won,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",1836
+405,Stoinis,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Mumbai Indians,won,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",8989
+406,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Mumbai Indians,won,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",11311
+407,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Mumbai Indians,won,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",9427
+408,Ayush Badoni,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Mumbai Indians,won,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",13907
+409,Ishan Kishan (wk),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",10276
+410,Rohit Sharma (c),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",576
+411,Dewald Brevis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",20538
+412,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",7915
+413,Tilak Varma,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",14504
+414,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",657
+415,Daniel Sams,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Lucknow Super Giants,lost,46066,19:30:00,24,2022,4,"Wankhede Stadium, Mumbai",13162
+416,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn1,Punjab Kings,Chennai Super Kings,won,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",2195
+417,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Chennai Super Kings,won,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",1446
+418,B Rajapaksa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Chennai Super Kings,won,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",7869
+419,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Chennai Super Kings,won,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",10045
+420,Bairstow,lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Chennai Super Kings,won,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",6507
+421,14,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Chennai Super Kings,won,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",
+422,,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Chennai Super Kings,won,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",
+423,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Punjab Kings,lost,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",11813
+424,Robin Uthappa,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Punjab Kings,lost,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",527
+425,Mitchell Santner,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Punjab Kings,lost,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",10100
+426,Shivam Dube,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Punjab Kings,lost,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",11195
+427,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Punjab Kings,lost,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",6311
+428,Ravindra Jadeja (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Punjab Kings,lost,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",587
+429,MS Dhoni (wk),b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Punjab Kings,lost,46071,19:30:00,25,2022,4,"Wankhede Stadium, Mumbai",265
+430,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",2258
+431,Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",13088
+432,Ashwin,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",1593
+433,Samson (c & wk),not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",8271
+434,Daryl Mitchell,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",10713
+435,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",12305
+436,Hetmyer,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",9789
+437,Virat Kohli,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",1413
+438,Faf du Plessis (c),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",7825
+439,Rajat Patidar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",10636
+440,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",7662
+441,Shahbaz Ahmed,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",14606
+442,Suyash Prabhudessai,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",12669
+443,Dinesh Karthik (wk),b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,46076,19:30:00,26,2022,4,"Maharashtra Cricket Association Stadium, Pune",145
+444,Abhishek Sharma,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Gujarat Titans,lost,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",12086
+445,Williamson (c),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Gujarat Titans,lost,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",6326
+446,Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Gujarat Titans,lost,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",9012
+447,Markram,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Gujarat Titans,lost,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",9582
+448,Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Gujarat Titans,lost,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",9406
+449,Washington Sundar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Gujarat Titans,lost,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",10945
+450,Shashank Singh,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Gujarat Titans,lost,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",10919
+451,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Sunrisers Hyderabad,won,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",1465
+452,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Sunrisers Hyderabad,won,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",11808
+453,Hardik Pandya (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Sunrisers Hyderabad,won,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",9647
+454,David Miller,not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Sunrisers Hyderabad,won,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",6349
+455,Rahul Tewatia,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Sunrisers Hyderabad,won,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",9693
+456,Abhinav Manohar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Sunrisers Hyderabad,won,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",10499
+457,Rashid Khan,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Sunrisers Hyderabad,won,46081,19:30:00,27,2022,4,"Wankhede Stadium, Mumbai",10738
+458,Finch,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Capitals,lost,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",1643
+459,Venkatesh Iyer,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Capitals,lost,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",10917
+460,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Capitals,lost,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",9428
+461,Indrajith (wk),not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Capitals,lost,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",9624
+462,Narine,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Capitals,lost,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",2276
+463,Nitish Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Capitals,lost,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",9204
+464,Russell,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Capitals,lost,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",7736
+465,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Kolkata Knight Riders,won,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",12094
+466,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Kolkata Knight Riders,won,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",1739
+467,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Kolkata Knight Riders,won,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",6250
+468,Lalit Yadav,not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Kolkata Knight Riders,won,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",13252
+469,Rishabh Pant (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Kolkata Knight Riders,won,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",10744
+470,Rovman Powell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Kolkata Knight Riders,won,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",11445
+471,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Kolkata Knight Riders,won,46086,19:30:00,28,2022,4,"Wankhede Stadium, Mumbai",8808
+472,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Punjab Kings,won,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",8520
+473,Rahul (c),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Punjab Kings,won,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",8733
+474,Deepak Hooda,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Punjab Kings,won,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",9427
+475,Krunal Pandya,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Punjab Kings,won,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",11311
+476,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Punjab Kings,won,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",8989
+477,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Punjab Kings,won,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",13907
+478,Holder,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Punjab Kings,won,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",8313
+479,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn2,Punjab Kings,Lucknow Super Giants,lost,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",2195
+480,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Punjab Kings,Lucknow Super Giants,lost,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",1446
+481,Jonny Bairstow,c Pathan b Mota,32,13,2,3,246.15,Inn2,Punjab Kings,Lucknow Super Giants,lost,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",6507
+482,Bhanuka Rajapaksa,not out,116,54,8,9,214.81,Inn2,Punjab Kings,Lucknow Super Giants,lost,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",7869
+483,Liam Livingstone,lbw b Hopes,2,3,0,0,66.67,Inn2,Punjab Kings,Lucknow Super Giants,lost,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",10045
+484,Jitesh Sharma (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Punjab Kings,Lucknow Super Giants,lost,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",10214
+485,Rishi Dhawan,b Pathan,25,17,4,1,147.06,Inn2,Punjab Kings,Lucknow Super Giants,lost,46091,19:30:00,29,2022,4,"Maharashtra Cricket Association Stadium, Pune",8616
+486,Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Gujarat Titans,lost,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",1413
+487,du Plessis (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Gujarat Titans,lost,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",7825
+488,Rajat Patidar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Gujarat Titans,lost,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",10636
+489,Maxwell,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Gujarat Titans,lost,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",7662
+490,Karthik (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Gujarat Titans,lost,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",145
+491,Shahbaz Ahmed,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Gujarat Titans,lost,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",14606
+492,Lomror,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Gujarat Titans,lost,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",10954
+493,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Royal Challengers Bangalore,won,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",1465
+494,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Royal Challengers Bangalore,won,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",11808
+495,Sai Sudharsan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Royal Challengers Bangalore,won,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",13866
+496,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Royal Challengers Bangalore,won,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",9647
+497,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Royal Challengers Bangalore,won,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",6349
+498,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Royal Challengers Bangalore,won,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",9693
+499,9,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Royal Challengers Bangalore,won,46096,15:30:00,30,2022,4,"Brabourne Stadium, Mumbai",
+500,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Delhi Capitals,won,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",8520
+501,Rahul (c),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Delhi Capitals,won,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",8733
+502,Deepak Hooda,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Delhi Capitals,won,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",9427
+503,Stoinis,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Delhi Capitals,won,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",8989
+504,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Delhi Capitals,won,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",11311
+505,17,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Delhi Capitals,won,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",
+506,,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Delhi Capitals,won,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",
+507,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Lucknow Super Giants,lost,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",12094
+508,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Lucknow Super Giants,lost,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",1739
+509,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Lucknow Super Giants,lost,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",6250
+510,Rishabh Pant (c & wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Lucknow Super Giants,lost,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",10744
+511,Lalit Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Lucknow Super Giants,lost,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",13252
+512,Rovman Powell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Lucknow Super Giants,lost,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",11445
+513,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Lucknow Super Giants,lost,46106,15:30:00,1,2022,5,"Wankhede Stadium, Mumbai",8808
+514,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",2258
+515,Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",13088
+516,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",8271
+517,Karun Nair,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",8257
+518,Riyan Parag,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",12305
+519,Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",9789
+520,Ashwin,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",1593
+521,Baba Indrajith (wk),not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",9624
+522,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",1643
+523,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",9428
+524,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",9204
+525,Rinku Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",10896
+526,15,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",
+527,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,46116,19:30:00,2,2022,5,"Wankhede Stadium, Mumbai",
+528,W Saha (wk),not out,31,14,3,2,221.43,Inn1,Gujarat Titans,Punjab Kings,lost,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",1465
+529,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Titans,Punjab Kings,lost,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",11808
+530,Sai Sudharsan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Titans,Punjab Kings,lost,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",13866
+531,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn1,Gujarat Titans,Punjab Kings,lost,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",9647
+532,Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Titans,Punjab Kings,lost,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",6349
+533,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Titans,Punjab Kings,lost,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",9693
+534,Rashid Khan,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Titans,Punjab Kings,lost,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",10738
+535,Jonny Bairstow,not out,31,14,3,2,221.43,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",6507
+536,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",1446
+537,Bhanuka Rajapaksa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",7869
+538,Liam Livingstone,not out,116,54,8,9,214.81,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",10045
+539,12,lbw b Hopes,2,3,0,0,66.67,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+540,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+541,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+542,,b Pathan,25,10,3,0,150.00,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+543,,b Pathan,25,17,4,1,147.06,Inn2,Punjab Kings,Gujarat Titans,won,46121,19:30:00,3,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+544,Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",1413
+545,du Plessis (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",7825
+546,Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",7662
+547,Lomror,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",10954
+548,Rajat Patidar,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",10636
+549,Karthik (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",145
+550,W Hasaranga,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",10926
+551,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",11813
+552,Devon Conway,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",9838
+553,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",527
+554,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",6311
+555,Moeen Ali,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",6692
+556,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",587
+557,MS Dhoni (c & wk),b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,46126,19:30:00,4,2022,5,"Maharashtra Cricket Association Stadium, Pune",265
+558,Mandeep,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",6319
+559,Warner,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",1739
+560,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",6250
+561,Pant (c & wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",10744
+562,Rovman Powell,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",11445
+563,12,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",
+564,,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",
+565,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",12086
+566,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",6326
+567,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",9012
+568,Aiden Markram,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",9582
+569,Nicholas Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",9406
+570,Shashank Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",10919
+571,Sean Abbott,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,46131,19:30:00,5,2022,5,"Brabourne Stadium, Mumbai",8136
+572,Ishan Kishan (wk),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Gujarat Titans,won,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",10276
+573,Rohit (c),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Gujarat Titans,won,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",576
+574,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Gujarat Titans,won,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",7915
+575,Tilak Varma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Gujarat Titans,won,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",14504
+576,Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Gujarat Titans,won,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",657
+577,Tim David,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Gujarat Titans,won,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",13169
+578,Daniel Sams,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Gujarat Titans,won,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",13162
+579,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Mumbai Indians,lost,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",1465
+580,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Mumbai Indians,lost,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",11808
+581,Hardik Pandya (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Mumbai Indians,lost,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",9647
+582,Sai Sudharsan,not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Mumbai Indians,lost,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",13866
+583,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Mumbai Indians,lost,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",6349
+584,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Mumbai Indians,lost,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",9693
+585,Rashid Khan,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Mumbai Indians,lost,46136,19:30:00,6,2022,5,"Brabourne Stadium, Mumbai",10738
+586,Bairstow,not out,31,14,3,2,221.43,Inn1,Punjab Kings,Rajasthan Royals,lost,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",6507
+587,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Rajasthan Royals,lost,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",1446
+588,B Rajapaksa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Rajasthan Royals,lost,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",7869
+589,Mayank Agarwal (c),not out,116,54,8,9,214.81,Inn1,Punjab Kings,Rajasthan Royals,lost,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",2195
+590,Jitesh Sharma (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Rajasthan Royals,lost,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",10214
+591,Livingstone,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Rajasthan Royals,lost,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",10045
+592,Rishi Dhawan,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Rajasthan Royals,lost,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",8616
+593,Yashasvi Jaiswal,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Punjab Kings,won,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",13940
+594,Jos Buttler,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Punjab Kings,won,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",2258
+595,Sanju Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Punjab Kings,won,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",8271
+596,Devdutt Padikkal,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Punjab Kings,won,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",13088
+597,Shimron Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Punjab Kings,won,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",9789
+598,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Punjab Kings,won,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",12305
+599,7,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Punjab Kings,won,46141,15:30:00,7,2022,5,"Wankhede Stadium, Mumbai",
+600,Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",1413
+601,du Plessis (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",7825
+602,Rajat Patidar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",10636
+603,Maxwell,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",7662
+604,Karthik (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",145
+605,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",
+606,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",
+607,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",12086
+608,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",6326
+609,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",9012
+610,Aiden Markram,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",9582
+611,Nicholas Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",9406
+612,Jagadeesha Suchith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",10357
+613,Shashank Singh,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,46151,15:30:00,8,2022,5,"Wankhede Stadium, Mumbai",10919
+614,Venkatesh Iyer,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,won,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",10917
+615,Rahane,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,won,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",1447
+616,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,won,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",9204
+617,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,won,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",9428
+618,Russell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,won,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",7736
+619,Rinku Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,won,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",10896
+620,Jackson (wk),b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,won,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",8846
+621,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",576
+622,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",10276
+623,Tilak Varma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",14504
+624,Ramandeep Singh,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",12337
+625,Tim David,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",13169
+626,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",657
+627,Daniel Sams,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,46161,19:30:00,9,2022,5,"Dr DY Patil Sports Academy, Mumbai",13162
+628,W Saha (wk),not out,31,14,3,2,221.43,Inn1,Gujarat Titans,Lucknow Super Giants,won,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",1465
+629,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Titans,Lucknow Super Giants,won,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",11808
+630,Wade,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Titans,Lucknow Super Giants,won,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",1649
+631,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn1,Gujarat Titans,Lucknow Super Giants,won,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",9647
+632,Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Titans,Lucknow Super Giants,won,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",6349
+633,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Titans,Lucknow Super Giants,won,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",9693
+634,7,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Titans,Lucknow Super Giants,won,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",
+635,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Lucknow Super Giants,Gujarat Titans,lost,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",8520
+636,KL Rahul (c),b Pathan,13,10,0,1,130.00,Inn2,Lucknow Super Giants,Gujarat Titans,lost,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",8733
+637,Deepak Hooda,c Pathan b Mota,32,13,2,3,246.15,Inn2,Lucknow Super Giants,Gujarat Titans,lost,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",9427
+638,Karan Sharma,not out,116,54,8,9,214.81,Inn2,Lucknow Super Giants,Gujarat Titans,lost,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",18738
+639,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Lucknow Super Giants,Gujarat Titans,lost,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",11311
+640,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Lucknow Super Giants,Gujarat Titans,lost,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",13907
+641,Marcus Stoinis,b Pathan,25,17,4,1,147.06,Inn2,Lucknow Super Giants,Gujarat Titans,lost,46166,19:30:00,10,2022,5,"Maharashtra Cricket Association Stadium, Pune",8989
+642,Jaiswal,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Capitals,lost,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",13940
+643,Jos Buttler,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Capitals,lost,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",2258
+644,Ashwin,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Capitals,lost,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",1593
+645,Padikkal,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Capitals,lost,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",13088
+646,Samson (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Capitals,lost,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",8271
+647,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Capitals,lost,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",12305
+648,van der Dussen,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Capitals,lost,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",9554
+649,Srikar Bharat,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",9025
+650,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",1739
+651,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",6250
+652,Rishabh Pant (c & wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",10744
+653,7,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+654,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+655,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+656,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+657,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Rajasthan Royals,won,46171,19:30:00,11,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+658,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,lost,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",11813
+659,Conway,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",9838
+660,Moeen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,lost,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",6692
+661,Uthappa,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,lost,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",527
+662,Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,lost,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",6311
+663,Dhoni (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",265
+664,Shivam Dube,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,lost,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",11195
+665,Ishan Kishan (wk),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,won,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",10276
+666,Rohit Sharma (c),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,won,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",576
+667,Daniel Sams,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,won,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",13162
+668,Tilak Varma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",14504
+669,Tristan Stubbs,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",19243
+670,Hrithik Shokeen,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",14595
+671,Tim David,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,46176,19:30:00,12,2022,5,"Wankhede Stadium, Mumbai",13169
+672,Bairstow,not out,31,14,3,2,221.43,Inn1,Punjab Kings,Royal Challengers Bangalore,won,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",6507
+673,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Punjab Kings,Royal Challengers Bangalore,won,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",1446
+674,B Rajapaksa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Punjab Kings,Royal Challengers Bangalore,won,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",7869
+675,Livingstone,not out,116,54,8,9,214.81,Inn1,Punjab Kings,Royal Challengers Bangalore,won,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",10045
+676,Mayank Agarwal (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Punjab Kings,Royal Challengers Bangalore,won,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",2195
+677,Jitesh Sharma (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Punjab Kings,Royal Challengers Bangalore,won,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",10214
+678,Harpreet Brar,b Pathan,25,17,4,1,147.06,Inn1,Punjab Kings,Royal Challengers Bangalore,won,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",14452
+679,Virat Kohli,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Punjab Kings,lost,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",1413
+680,Faf du Plessis (c),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Punjab Kings,lost,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",7825
+681,Rajat Patidar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Punjab Kings,lost,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",10636
+682,Mahipal Lomror,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Punjab Kings,lost,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",10954
+683,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Punjab Kings,lost,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",7662
+684,Dinesh Karthik (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Punjab Kings,lost,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",145
+685,Shahbaz Ahmed,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Punjab Kings,lost,46181,19:30:00,13,2022,5,"Brabourne Stadium, Mumbai",14606
+686,Venkatesh Iyer,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",10917
+687,Rahane,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",1447
+688,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",9204
+689,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",9428
+690,Billings (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",7990
+691,Rinku Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",10896
+692,Russell,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",7736
+693,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",12086
+694,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",6326
+695,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",9012
+696,Aiden Markram,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",9582
+697,Nicholas Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",9406
+698,Washington Sundar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",10945
+699,Shashank Singh,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,46186,19:30:00,14,2022,5,"Maharashtra Cricket Association Stadium, Pune",10919
+700,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Gujarat Titans,lost,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",11813
+701,Conway,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Gujarat Titans,lost,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",9838
+702,Moeen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Gujarat Titans,lost,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",6692
+703,N Jagadeesan,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Gujarat Titans,lost,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",11675
+704,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Gujarat Titans,lost,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",11195
+705,Dhoni (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Gujarat Titans,lost,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",265
+706,Santner,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Gujarat Titans,lost,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",10100
+707,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Chennai Super Kings,won,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",1465
+708,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Chennai Super Kings,won,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",11808
+709,Matthew Wade,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Chennai Super Kings,won,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",1649
+710,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Chennai Super Kings,won,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",9647
+711,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Chennai Super Kings,won,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",6349
+712,10,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Chennai Super Kings,won,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",
+713,,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Chennai Super Kings,won,46191,15:30:00,15,2022,5,"Wankhede Stadium, Mumbai",
+714,Warner,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Punjab Kings,won,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",1739
+715,Sarfaraz Khan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Punjab Kings,won,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",9429
+716,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Punjab Kings,won,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",6250
+717,Lalit Yadav,not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Punjab Kings,won,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",13252
+718,Pant (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Punjab Kings,won,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",10744
+719,Rovman Powell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Punjab Kings,won,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",11445
+720,Axar,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Punjab Kings,won,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",8808
+721,Jonny Bairstow,not out,31,14,3,2,221.43,Inn2,Punjab Kings,Delhi Capitals,lost,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",6507
+722,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Punjab Kings,Delhi Capitals,lost,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",1446
+723,Bhanuka Rajapaksa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Punjab Kings,Delhi Capitals,lost,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",7869
+724,Liam Livingstone,not out,116,54,8,9,214.81,Inn2,Punjab Kings,Delhi Capitals,lost,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",10045
+725,Mayank Agarwal (c),lbw b Hopes,2,3,0,0,66.67,Inn2,Punjab Kings,Delhi Capitals,lost,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",2195
+726,Jitesh Sharma (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Punjab Kings,Delhi Capitals,lost,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",10214
+727,Harpreet Brar,b Pathan,25,17,4,1,147.06,Inn2,Punjab Kings,Delhi Capitals,lost,46201,19:30:00,16,2022,5,"Dr DY Patil Sports Academy, Mumbai",14452
+728,Abhishek Sharma,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",12086
+729,Priyam Garg,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",12089
+730,Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",9012
+731,Pooran (wk),not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",9406
+732,Markram,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",9582
+733,Williamson (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",6326
+734,Washington Sundar,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",10945
+735,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",576
+736,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",10276
+737,Daniel Sams,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",13162
+738,Tilak Varma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",14504
+739,Tim David,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",13169
+740,Tristan Stubbs,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",19243
+741,Ramandeep Singh,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,46206,19:30:00,17,2022,5,"Wankhede Stadium, Mumbai",12337
+742,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",8520
+743,Rahul (c),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",8733
+744,2,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+745,,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+746,,not out,116,3,0,0,66.67,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+747,,not out,116,10,3,0,150.00,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+748,,not out,116,17,4,1,147.06,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+749,,lbw b Hopes,2,54,8,9,214.81,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+750,,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+751,,lbw b Hopes,2,10,3,0,150.00,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+752,,lbw b Hopes,2,17,4,1,147.06,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+753,,c Sangakkara b Lee,15,54,8,9,214.81,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+754,,c Sangakkara b Lee,15,3,0,0,66.67,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+755,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+756,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+757,,b Pathan,25,54,8,9,214.81,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+758,,b Pathan,25,3,0,0,66.67,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+759,,b Pathan,25,10,3,0,150.00,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+760,,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",
+761,Venkatesh Iyer,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",10917
+762,Abhijeet Tomar,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",12813
+763,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",9204
+764,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",9428
+765,Sam Billings (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",7990
+766,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",7736
+767,Rinku Singh,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46211,19:30:00,18,2022,5,"Dr DY Patil Sports Academy, Mumbai",10896
+768,W Saha,not out,31,14,3,2,221.43,Inn1,Gujarat Titans,Royal Challengers Bangalore,lost,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",1465
+769,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Titans,Royal Challengers Bangalore,lost,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",11808
+770,Wade (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Titans,Royal Challengers Bangalore,lost,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",1649
+771,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn1,Gujarat Titans,Royal Challengers Bangalore,lost,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",9647
+772,Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Titans,Royal Challengers Bangalore,lost,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",6349
+773,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Titans,Royal Challengers Bangalore,lost,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",9693
+774,Rashid Khan,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Titans,Royal Challengers Bangalore,lost,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",10738
+775,Virat Kohli,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",1413
+776,Faf du Plessis (c),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",7825
+777,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",7662
+778,Dinesh Karthik (wk),not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",145
+779,11,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",
+780,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",
+781,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",
+782,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",
+783,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Gujarat Titans,won,46216,19:30:00,19,2022,5,"Wankhede Stadium, Mumbai",
+784,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,lost,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",11813
+785,Conway,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",9838
+786,Moeen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,lost,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",6692
+787,N Jagadeesan,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,lost,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",11675
+788,Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,lost,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",6311
+789,Dhoni (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",265
+790,Santner,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,lost,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",10100
+791,Yashasvi Jaiswal,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,won,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",13940
+792,Jos Buttler,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",2258
+793,Sanju Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,won,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",8271
+794,Devdutt Padikkal,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,won,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",13088
+795,Ravichandran Ashwin,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",1593
+796,Shimron Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",9789
+797,Riyan Parag,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,46221,19:30:00,20,2022,5,"Brabourne Stadium, Mumbai",12305
+798,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Mumbai Indians,lost,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",12094
+799,Warner,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Mumbai Indians,lost,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",1739
+800,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Mumbai Indians,lost,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",6250
+801,Pant (c & wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Mumbai Indians,lost,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",10744
+802,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Mumbai Indians,lost,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",9429
+803,Rovman Powell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Mumbai Indians,lost,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",11445
+804,Axar,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Mumbai Indians,lost,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",8808
+805,Ishan Kishan (wk),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Capitals,won,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",10276
+806,Rohit Sharma (c),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Capitals,won,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",576
+807,Dewald Brevis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Capitals,won,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",20538
+808,Tilak Varma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Capitals,won,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",14504
+809,Tim David,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Capitals,won,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",13169
+810,Ramandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Capitals,won,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",12337
+811,Daniel Sams,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Capitals,won,46226,19:30:00,21,2022,5,"Wankhede Stadium, Mumbai",13162
+812,Priyam Garg,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Punjab Kings,lost,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",12089
+813,Abhishek Sharma,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Punjab Kings,lost,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",12086
+814,Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Punjab Kings,lost,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",9012
+815,Markram,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Punjab Kings,lost,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",9582
+816,Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Punjab Kings,lost,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",9406
+817,Washington Sundar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Punjab Kings,lost,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",10945
+818,Romario Shepherd,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Punjab Kings,lost,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",13646
+819,Jonny Bairstow,not out,31,14,3,2,221.43,Inn2,Punjab Kings,Sunrisers Hyderabad,won,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",6507
+820,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Punjab Kings,Sunrisers Hyderabad,won,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",1446
+821,Shahrukh Khan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Punjab Kings,Sunrisers Hyderabad,won,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",10226
+822,Mayank Agarwal (c),not out,116,54,8,9,214.81,Inn2,Punjab Kings,Sunrisers Hyderabad,won,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",2195
+823,Liam Livingstone,lbw b Hopes,2,3,0,0,66.67,Inn2,Punjab Kings,Sunrisers Hyderabad,won,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",10045
+824,Jitesh Sharma (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Punjab Kings,Sunrisers Hyderabad,won,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",10214
+825,Prerak Mankad,b Pathan,25,17,4,1,147.06,Inn2,Punjab Kings,Sunrisers Hyderabad,won,46231,19:30:00,22,2022,5,"Wankhede Stadium, Mumbai",11054
+826,Jaiswal,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Gujarat Titans,lost,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",13940
+827,Jos Buttler,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Gujarat Titans,lost,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",2258
+828,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Gujarat Titans,lost,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",8271
+829,Padikkal,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Gujarat Titans,lost,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",13088
+830,Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Gujarat Titans,lost,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",9789
+831,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Gujarat Titans,lost,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",12305
+832,Ashwin,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Gujarat Titans,lost,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",1593
+833,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Rajasthan Royals,won,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",1465
+834,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Rajasthan Royals,won,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",11808
+835,Matthew Wade,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Rajasthan Royals,won,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",1649
+836,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Rajasthan Royals,won,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",9647
+837,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Rajasthan Royals,won,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",6349
+838,13,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Rajasthan Royals,won,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",
+839,,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Rajasthan Royals,won,47584,19:30:00,24,2022,5,"Eden Gardens, Kolkata",
+840,Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",1413
+841,du Plessis (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",7825
+842,Rajat Patidar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",10636
+843,Maxwell,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",7662
+844,Lomror,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",10954
+845,Karthik (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",145
+846,10,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Lucknow Super Giants,won,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",
+847,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",8520
+848,KL Rahul (c),b Pathan,13,10,0,1,130.00,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",8733
+849,Manan Vohra,c Pathan b Mota,32,13,2,3,246.15,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",8358
+850,Deepak Hooda,not out,116,54,8,9,214.81,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",9427
+851,Marcus Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",8989
+852,Evin Lewis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",8579
+853,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn2,Lucknow Super Giants,Royal Challengers Bangalore,lost,47591,19:30:00,25,2022,5,"Eden Gardens, Kolkata",11311
+854,Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",1413
+855,du Plessis (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",7825
+856,Rajat Patidar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",10636
+857,Maxwell,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",7662
+858,Lomror,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",10954
+859,Karthik (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",145
+860,Shahbaz Ahmed,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",14606
+861,Yashasvi Jaiswal,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",13940
+862,Jos Buttler,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",2258
+863,Sanju Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",8271
+864,Devdutt Padikkal,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",13088
+865,Shimron Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",9789
+866,0,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",
+867,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,47598,19:30:00,27,2022,5,"Narendra Modi Stadium, Ahmedabad",
+868,Jaiswal,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Gujarat Titans,lost,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",13940
+869,Jos Buttler,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Gujarat Titans,lost,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",2258
+870,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Gujarat Titans,lost,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",8271
+871,Padikkal,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Gujarat Titans,lost,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",13088
+872,Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Gujarat Titans,lost,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",9789
+873,Ashwin,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Gujarat Titans,lost,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",1593
+874,Riyan Parag,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Gujarat Titans,lost,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",12305
+875,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Rajasthan Royals,won,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",1465
+876,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Rajasthan Royals,won,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",11808
+877,Matthew Wade,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Rajasthan Royals,won,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",1649
+878,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Rajasthan Royals,won,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",9647
+879,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Rajasthan Royals,won,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",6349
+880,9,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Rajasthan Royals,won,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",
+881,,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Rajasthan Royals,won,47605,20:00:00,29,2022,5,"Narendra Modi Stadium, Ahmedabad",
+882,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",11813
+883,Conway,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",9838
+884,Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",527
+885,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",6311
+886,Ravindra Jadeja (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",587
+887,Shivam Dube,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",11195
+888,Dhoni (wk),b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",265
+889,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",1447
+890,Venkatesh Iyer,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",10917
+891,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",9204
+892,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",9428
+893,Sam Billings,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",7990
+894,Sheldon Jackson (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",8846
+895,4,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,45886,19:30:00,26,2022,3,"Wankhede Stadium, Mumbai",
+896,du Plessis (c),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",7825
+897,Anuj Rawat,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",13135
+898,Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",1413
+899,Karthik (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",145
+900,23,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",
+901,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",
+902,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",
+903,,b Pathan,25,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",
+904,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Punjab Kings,lost,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",
+905,Mayank Agarwal (c),not out,31,14,3,2,221.43,Inn2,Punjab Kings,Royal Challengers Bangalore,won,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",2195
+906,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Punjab Kings,Royal Challengers Bangalore,won,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",1446
+907,Bhanuka Rajapaksa (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Punjab Kings,Royal Challengers Bangalore,won,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",7869
+908,Liam Livingstone,not out,116,54,8,9,214.81,Inn2,Punjab Kings,Royal Challengers Bangalore,won,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",10045
+909,Raj Bawa,lbw b Hopes,2,3,0,0,66.67,Inn2,Punjab Kings,Royal Challengers Bangalore,won,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",22601
+910,Shahrukh Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Punjab Kings,Royal Challengers Bangalore,won,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",10226
+911,Odean Smith,b Pathan,25,17,4,1,147.06,Inn2,Punjab Kings,Royal Challengers Bangalore,won,45896,19:30:00,27,2022,3,"Dr DY Patil Sports Academy, Mumbai",11215
+912,Wade (wk),not out,31,14,3,2,221.43,Inn1,Gujarat Titans,Delhi Capitals,won,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",1649
+913,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Titans,Delhi Capitals,won,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",11808
+914,Vijay Shankar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Titans,Delhi Capitals,won,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",8204
+915,Hardik Pandya (c),not out,116,54,8,9,214.81,Inn1,Gujarat Titans,Delhi Capitals,won,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",9647
+916,Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Titans,Delhi Capitals,won,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",6349
+917,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Titans,Delhi Capitals,won,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",9693
+918,Abhinav Manohar,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Titans,Delhi Capitals,won,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",10499
+919,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Gujarat Titans,lost,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",12094
+920,Tim Seifert,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Gujarat Titans,lost,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",9443
+921,Mandeep Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Gujarat Titans,lost,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",6319
+922,Rishabh Pant (c & wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Gujarat Titans,lost,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",10744
+923,Lalit Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Gujarat Titans,lost,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",13252
+924,Rovman Powell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Gujarat Titans,lost,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",11445
+925,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Gujarat Titans,lost,45931,19:30:00,2,2022,4,"Maharashtra Cricket Association Stadium, Pune",8808
+926,Ishan Kishan (wk),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",10276
+927,Rohit (c),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",576
+928,Dewald Brevis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",20538
+929,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",7915
+930,Tilak Varma,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",14504
+931,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",657
+932,Ramandeep Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",12337
+933,Faf du Plessis (c),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",7825
+934,Anuj Rawat,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",13135
+935,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",1413
+936,Dinesh Karthik (wk),not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",145
+937,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",7662
+938,7,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",
+939,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,45971,19:30:00,9,2022,4,"Maharashtra Cricket Association Stadium, Pune",
+940,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Lucknow Super Giants,won,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",2258
+941,Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Lucknow Super Giants,won,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",13088
+942,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Lucknow Super Giants,won,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",8271
+943,van der Dussen,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Lucknow Super Giants,won,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",9554
+944,Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Lucknow Super Giants,won,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",9789
+945,Ashwin,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Lucknow Super Giants,won,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",1593
+946,Riyan Parag,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Lucknow Super Giants,won,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",12305
+947,KL Rahul (c),not out,31,14,3,2,221.43,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",8733
+948,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",8520
+949,Krishnappa Gowtham,c Pathan b Mota,32,13,2,3,246.15,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",8925
+950,Jason Holder,not out,116,54,8,9,214.81,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",8313
+951,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",9427
+952,Ayush Badoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",13907
+953,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,45981,19:30:00,10,2022,4,"Wankhede Stadium, Mumbai",11311
+954,du Plessis (c),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Capitals,won,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",7825
+955,Anuj Rawat,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Capitals,won,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",13135
+956,Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Capitals,won,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",1413
+957,Maxwell,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Capitals,won,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",7662
+958,Prabhudessai,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Capitals,won,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",12669
+959,Shahbaz Ahmed,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Capitals,won,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",14606
+960,Karthik (wk),b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Capitals,won,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",145
+961,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Royal Challengers Bangalore,lost,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",12094
+962,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Royal Challengers Bangalore,lost,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",1739
+963,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Royal Challengers Bangalore,lost,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",6250
+964,Rishabh Pant (c & wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Royal Challengers Bangalore,lost,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",10744
+965,Rovman Powell,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Royal Challengers Bangalore,lost,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",11445
+966,Lalit Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Royal Challengers Bangalore,lost,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",13252
+967,Shardul Thakur,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Royal Challengers Bangalore,lost,46016,19:30:00,16,2022,4,"Wankhede Stadium, Mumbai",8683
+968,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Gujarat Titans,lost,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",11813
+969,Uthappa,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Gujarat Titans,lost,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",527
+970,Moeen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Gujarat Titans,lost,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",6692
+971,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Gujarat Titans,lost,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",6311
+972,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Gujarat Titans,lost,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",11195
+973,Ravindra Jadeja (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Gujarat Titans,lost,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",587
+974,5,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Gujarat Titans,lost,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",
+975,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Gujarat Titans,Chennai Super Kings,won,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",1465
+976,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Titans,Chennai Super Kings,won,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",11808
+977,Vijay Shankar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Titans,Chennai Super Kings,won,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",8204
+978,Abhinav Manohar,not out,116,54,8,9,214.81,Inn2,Gujarat Titans,Chennai Super Kings,won,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",10499
+979,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Titans,Chennai Super Kings,won,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",6349
+980,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Titans,Chennai Super Kings,won,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",9693
+981,Rashid Khan (c),b Pathan,25,17,4,1,147.06,Inn2,Gujarat Titans,Chennai Super Kings,won,46026,19:30:00,17,2022,4,"Maharashtra Cricket Association Stadium, Pune",10738
+982,du Plessis (c),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",7825
+983,Anuj Rawat,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",13135
+984,Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",1413
+985,Maxwell,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",7662
+986,Prabhudessai,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",12669
+987,Shahbaz Ahmed,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",14606
+988,Karthik (wk),b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",145
+989,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",12086
+990,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",6326
+991,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",9012
+992,2,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+993,,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+994,,lbw b Hopes,2,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+995,,lbw b Hopes,2,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+996,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+997,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+998,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+999,,b Pathan,25,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+1000,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+1001,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,46061,19:30:00,23,2022,4,"Brabourne Stadium, Mumbai",
+1002,Jos Buttler,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Mumbai Indians,lost,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",2258
+1003,Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",13088
+1004,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Mumbai Indians,lost,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",8271
+1005,Daryl Mitchell,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Mumbai Indians,lost,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",10713
+1006,Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Mumbai Indians,lost,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",9789
+1007,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",12305
+1008,Ashwin,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Mumbai Indians,lost,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",1593
+1009,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Rajasthan Royals,won,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",576
+1010,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Rajasthan Royals,won,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",10276
+1011,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Rajasthan Royals,won,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",7915
+1012,Tilak Varma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,won,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",14504
+1013,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,won,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",657
+1014,Tim David,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",13169
+1015,Daniel Sams,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,46101,19:30:00,30,2022,4,"Dr DY Patil Sports Academy, Mumbai",13162
+1016,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",11813
+1017,Conway,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",9838
+1018,Dhoni (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",265
+1019,Ravindra Jadeja,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",587
+1020,9,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",
+1021,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",
+1022,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",
+1023,,b Pathan,25,10,3,0,150.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",
+1024,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",
+1025,Abhishek Sharma,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",12086
+1026,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",6326
+1027,Rahul Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",9012
+1028,Aiden Markram,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",9582
+1029,Nicholas Pooran (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",9406
+1030,Shashank Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",10919
+1031,Washington Sundar,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,46111,19:30:00,1,2022,5,"Maharashtra Cricket Association Stadium, Pune",10945
+1032,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",8520
+1033,Rahul (c),b Pathan,13,10,0,1,130.00,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",8733
+1034,Deepak Hooda,c Pathan b Mota,32,13,2,3,246.15,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",9427
+1035,Krunal Pandya,not out,116,54,8,9,214.81,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",11311
+1036,Ayush Badoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",13907
+1037,Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",8989
+1038,Holder,b Pathan,25,17,4,1,147.06,Inn1,Lucknow Super Giants,Kolkata Knight Riders,won,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",8313
+1039,Baba Indrajith (wk),not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",9624
+1040,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",1643
+1041,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",9428
+1042,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",9204
+1043,Rinku Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",10896
+1044,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",7736
+1045,Sunil Narine,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Lucknow Super Giants,lost,46146,19:30:00,7,2022,5,"Maharashtra Cricket Association Stadium, Pune",2276
+1046,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Capitals,won,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",11813
+1047,Conway,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Capitals,won,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",9838
+1048,Shivam Dube,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Capitals,won,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",11195
+1049,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Capitals,won,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",6311
+1050,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Capitals,won,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",265
+1051,Moeen,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Capitals,won,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",6692
+1052,Uthappa,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Capitals,won,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",527
+1053,David Warner,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Chennai Super Kings,lost,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",1739
+1054,Srikar Bharat,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Chennai Super Kings,lost,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",9025
+1055,Mitchell Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Chennai Super Kings,lost,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",6250
+1056,Rishabh Pant (c & wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Chennai Super Kings,lost,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",10744
+1057,Rovman Powell,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Chennai Super Kings,lost,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",11445
+1058,Ripal Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Chennai Super Kings,lost,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",15516
+1059,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Chennai Super Kings,lost,46156,19:30:00,8,2022,5,"Dr DY Patil Sports Academy, Mumbai",8808
+1060,Jaiswal,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Lucknow Super Giants,won,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",13940
+1061,Jos Buttler,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Lucknow Super Giants,won,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",2258
+1062,Samson (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Lucknow Super Giants,won,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",8271
+1063,Padikkal,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Lucknow Super Giants,won,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",13088
+1064,Riyan Parag,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Lucknow Super Giants,won,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",12305
+1065,Neesham,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Lucknow Super Giants,won,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",8983
+1066,Ashwin,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Lucknow Super Giants,won,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",1593
+1067,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",8520
+1068,KL Rahul (c),b Pathan,13,10,0,1,130.00,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",8733
+1069,Ayush Badoni,c Pathan b Mota,32,13,2,3,246.15,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",13907
+1070,Deepak Hooda,not out,116,54,8,9,214.81,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",9427
+1071,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",11311
+1072,Marcus Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",8989
+1073,Jason Holder,b Pathan,25,17,4,1,147.06,Inn2,Lucknow Super Giants,Rajasthan Royals,lost,46196,19:30:00,15,2022,5,"Brabourne Stadium, Mumbai",8313

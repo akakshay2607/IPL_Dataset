@@ -1,0 +1,971 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,S Badrinath,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kings XI Punjab,won,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",574
+1,Jacob Oram,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",59
+2,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kings XI Punjab,won,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",413
+3,Michael Hussey,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kings XI Punjab,won,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",4772
+4,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kings XI Punjab,won,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",265
+5,Parthiv Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",74
+6,Matthew Hayden,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kings XI Punjab,won,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",157
+7,Irfan Pathan,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",73
+8,Karan Goel,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1823
+9,Simon Katich,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",280
+10,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+11,Kumar Sangakkara,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",104
+12,James Hopes,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",364
+13,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10556,17:00:00,19,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+14,Pragyan Ojha,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",1356
+15,RP Singh,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",434
+16,Chaminda Vaas,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",108
+17,Arjun Yadav,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",1595
+18,Sanjay Bangar,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",1814
+19,Scott Styris,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",58
+20,Rohit Sharma,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",576
+21,Laxmi Shukla,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Deccan Chargers,won,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",1600
+22,Wriddhiman Saha,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Deccan Chargers,won,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",1465
+23,Mohammad Hafeez,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Deccan Chargers,won,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",360
+24,David Hussey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Deccan Chargers,won,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",562
+25,Sourav Ganguly,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Deccan Chargers,won,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",29
+26,Ricky Ponting,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Deccan Chargers,won,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",38
+27,Brendon McCullum,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Deccan Chargers,won,10554,16:00:00,20,2008,4,"Eden Gardens, Kolkata",201
+28,Wilkin Mota,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Rajasthan Royals,lost,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",1825
+29,Piyush Chawla,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Rajasthan Royals,lost,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",466
+30,Sunny Sohal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Rajasthan Royals,lost,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",1827
+31,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Rajasthan Royals,lost,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",69
+32,Irfan Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,lost,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",73
+33,Mahela Jayawardene,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,lost,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",101
+34,Kumar Sangakkara,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,lost,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",104
+35,Ravindra Jadeja,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kings XI Punjab,won,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",587
+36,Mohammad Kaif,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kings XI Punjab,won,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",70
+37,Darren Lehmann,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kings XI Punjab,won,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",1794
+38,Kamran Akmal,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kings XI Punjab,won,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",77
+39,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kings XI Punjab,won,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",158
+40,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kings XI Punjab,won,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",790
+41,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kings XI Punjab,won,10552,20:00:00,21,2008,4,"Sawai Mansingh Stadium, Jaipur",
+42,RP Singh,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Delhi Daredevils,lost,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",434
+43,Arjun Yadav,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",1595
+44,Sanjay Bangar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Delhi Daredevils,lost,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",1814
+45,Shahid Afridi,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Delhi Daredevils,lost,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",142
+46,Rohit Sharma,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Delhi Daredevils,lost,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",576
+47,Andrew Symonds,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",39
+48,VVS Laxman,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Delhi Daredevils,lost,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",28
+49,Gautam Gambhir,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",308
+50,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+51,Virender Sehwag,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",26
+52,,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+53,,not out,116,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+54,,not out,116,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+55,,not out,116,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+56,,lbw b Hopes,2,54,8,9,214.81,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+57,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+58,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+59,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+60,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+61,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+62,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+63,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+64,,b Pathan,25,54,8,9,214.81,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+65,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+66,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+67,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,10551,20:00:00,22,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+68,S Badrinath,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,won,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",574
+69,Jacob Oram,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,won,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",59
+70,MS Dhoni,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,won,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",265
+71,Suresh Raina,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,won,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",413
+72,Michael Hussey,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,won,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",4772
+73,Parthiv Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,won,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",74
+74,Matthew Hayden,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,won,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",157
+75,Ashish Nehra,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,lost,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",269
+76,Musavir Khote,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,lost,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",1835
+77,Harbhajan Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,lost,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",75
+78,Abhishek Nayar,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,lost,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",1463
+79,Luke Ronchi,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,lost,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",1396
+80,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,lost,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",242
+81,Shaun Pollock,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,lost,10550,20:00:00,23,2008,4,"MA Chidambaram Stadium, Chennai",218
+82,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Rajasthan Royals,lost,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",576
+83,Arjun Yadav,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",1595
+84,Andrew Symonds,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Rajasthan Royals,lost,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",39
+85,Shahid Afridi,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Rajasthan Royals,lost,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",142
+86,Adam Gilchrist,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Rajasthan Royals,lost,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",36
+87,VVS Laxman,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",28
+88,,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Rajasthan Royals,lost,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",
+89,Dinesh Salunkhe,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Deccan Chargers,won,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",1799
+90,Pankaj Singh,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Deccan Chargers,won,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",6328
+91,Shane Warne,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Deccan Chargers,won,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",135
+92,Ravindra Jadeja,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Deccan Chargers,won,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",587
+93,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Deccan Chargers,won,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",158
+94,Mohammad Kaif,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Deccan Chargers,won,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",70
+95,Graeme Smith,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Deccan Chargers,won,10549,20:00:00,24,2008,4,"Rajiv Gandhi International Stadium, Hyderabad",207
+96,Vikram Singh,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,won,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",456
+97,S Sreesanth,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,won,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",463
+98,Piyush Chawla,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,won,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",466
+99,Brett Lee,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,won,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",42
+100,Sunny Sohal,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,won,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1827
+101,Ramnaresh Sarwan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,won,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",252
+102,Mahela Jayawardene,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,won,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",101
+103,Dhawal Kulkarni,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,lost,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1451
+104,Musavir Khote,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1835
+105,Harbhajan Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,lost,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",75
+106,Abhishek Nayar,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,lost,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1463
+107,Luke Ronchi,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,lost,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1396
+108,Ashish Nehra,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",269
+109,Shaun Pollock,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,lost,10548,20:00:00,25,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",218
+110,Ashok Dinda,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",1467
+111,Ishant Sharma,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",702
+112,Ajit Agarkar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",146
+113,Murali Kartik,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",300
+114,Laxmi Shukla,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",1600
+115,Mohammad Hafeez,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",360
+116,David Hussey,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",562
+117,Parthiv Patel,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",74
+118,MS Dhoni,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",265
+119,Matthew Hayden,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",157
+120,,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+121,,not out,116,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+122,,not out,116,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+123,,not out,116,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+124,,lbw b Hopes,2,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+125,,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+126,,lbw b Hopes,2,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+127,,lbw b Hopes,2,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+128,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+129,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+130,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+131,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+132,,b Pathan,25,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+133,,b Pathan,25,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+134,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+135,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10547,16:00:00,26,2008,4,"MA Chidambaram Stadium, Chennai",
+136,Yo Mahesh,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1719
+137,Farveez Maharoof,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",112
+138,Rajat Bhatia,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1468
+139,Manoj Tiwary,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",694
+140,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",145
+141,Shoaib Malik,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",33
+142,Virender Sehwag,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",26
+143,Brett Lee,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Daredevils,won,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",42
+144,Irfan Pathan,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",73
+145,Simon Katich,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Daredevils,won,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",280
+146,Karan Goel,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Daredevils,won,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1823
+147,Tanmay Srivastava,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Daredevils,won,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",590
+148,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+149,Mahela Jayawardene,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Daredevils,won,10545,16:00:00,27,2008,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",101
+150,Jacob Oram,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",59
+151,MS Dhoni,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",265
+152,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",413
+153,Matthew Hayden,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",157
+154,Michael Hussey,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",4772
+155,Parthiv Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",74
+156,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",
+157,Balachandra Akhil,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",1803
+158,Dale Steyn,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",508
+159,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",592
+160,Zaheer Khan,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",71
+161,Rahul Dravid,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",27
+162,Virat Kohli,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+163,Mark Boucher,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10544,20:00:00,28,2008,4,"M.Chinnaswamy Stadium, Bengaluru",208
+164,Ishant Sharma,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",702
+165,Murali Kartik,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",300
+166,Ajit Agarkar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",146
+167,Laxmi Shukla,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",1600
+168,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",562
+169,Mohammad Hafeez,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",360
+170,Debabrata Das,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",1829
+171,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",1447
+172,Dwayne Bravo,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",242
+173,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",527
+174,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",1836
+175,Sanath Jayasuriya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",102
+176,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",
+177,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",
+178,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",
+179,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10542,20:00:00,29,2008,4,"Eden Gardens, Kolkata",
+180,Rajat Bhatia,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,won,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",1468
+181,Manoj Tiwary,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,won,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",694
+182,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,won,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",145
+183,Shoaib Malik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,won,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",33
+184,Virender Sehwag,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,won,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",26
+185,Shikhar Dhawan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,won,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",1446
+186,Gautam Gambhir,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,won,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",308
+187,Mark Boucher,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",208
+188,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",1413
+189,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",592
+190,Rahul Dravid,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",27
+191,Jacques Kallis,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",213
+192,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",521
+193,Wasim Jaffer,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,10541,20:00:00,30,2008,4,"Arun Jaitley Stadium, Delhi",499
+194,Mahesh Rawat,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",1797
+195,Sohail Tanvir,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",859
+196,Shane Warne,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",135
+197,Ravindra Jadeja,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",587
+198,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",158
+199,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",790
+200,Swapnil Asnodkar,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",1462
+201,Ishant Sharma,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",702
+202,Ashok Dinda,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",1467
+203,Umar Gul,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",504
+204,Debabrata Das,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",1829
+205,Wriddhiman Saha,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",1465
+206,Laxmi Shukla,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",1600
+207,David Hussey,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10540,16:00:00,1,2008,5,"Sawai Mansingh Stadium, Jaipur",562
+208,S Badrinath,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,lost,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",574
+209,Joginder Sharma,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,lost,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",270
+210,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,lost,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",413
+211,Albie Morkel,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,lost,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",484
+212,Vidyut Sivaramakrishnan,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,lost,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",452
+213,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,lost,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",265
+214,Stephen Fleming,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,lost,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",49
+215,Gautam Gambhir,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",308
+216,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",1446
+217,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",370
+218,Virender Sehwag,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",26
+219,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+220,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+221,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+222,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+223,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+224,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+225,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+226,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+227,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,won,10538,20:00:00,2,2008,5,"MA Chidambaram Stadium, Chennai",
+228,Zaheer Khan,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",71
+229,Praveen Kumar,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",592
+230,Mark Boucher,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",208
+231,Misbah-ul-Haq,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",274
+232,Jacques Kallis,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",213
+233,Virat Kohli,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+234,Wasim Jaffer,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",499
+235,Arjun Yadav,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1595
+236,Scott Styris,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",58
+237,Shahid Afridi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",142
+238,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",576
+239,Adam Gilchrist,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",36
+240,Sanjay Bangar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1814
+241,Herschelle Gibbs,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10537,16:00:00,3,2008,5,"M.Chinnaswamy Stadium, Bengaluru",212
+242,Rohan Raje,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,won,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",1700
+243,Ashish Nehra,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,won,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",269
+244,Saurabh Tiwary,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,won,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",1601
+245,Shaun Pollock,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,won,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",218
+246,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,won,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",242
+247,Abhishek Nayar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,won,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",1463
+248,Dominic Thornely,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,won,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",1839
+249,Glenn McGrath,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,lost,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",41
+250,Mohammad Asif,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,lost,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",326
+251,Yo Mahesh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,lost,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",1719
+252,Pradeep Sangwan,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,lost,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",1472
+253,Rajat Bhatia,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,lost,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",1468
+254,Shoaib Malik,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,lost,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",33
+255,Dinesh Karthik,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,lost,10536,16:00:00,4,2008,5,"Dr DY Patil Sports Academy, Mumbai",145
+256,Dale Steyn,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",508
+257,Zaheer Khan,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",71
+258,Anil Kumble,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",98
+259,Devraj Patil,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1809
+260,Praveen Kumar,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",592
+261,Misbah-ul-Haq,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",274
+262,Rahul Dravid,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",27
+263,Irfan Pathan,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",73
+264,Shaun Marsh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",563
+265,Mahela Jayawardene,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",101
+266,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",69
+267,Ramnaresh Sarwan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",252
+268,James Hopes,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",364
+269,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10532,20:00:00,5,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+270,Manpreet Gony,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Deccan Chargers,lost,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",1358
+271,Albie Morkel,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Deccan Chargers,lost,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",484
+272,Joginder Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Deccan Chargers,lost,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",270
+273,S Badrinath,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Deccan Chargers,lost,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",574
+274,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Deccan Chargers,lost,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",265
+275,Suresh Raina,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Deccan Chargers,lost,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",413
+276,Stephen Fleming,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Deccan Chargers,lost,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",49
+277,Adam Gilchrist,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Chennai Super Kings,won,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",36
+278,Shahid Afridi,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Chennai Super Kings,won,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",142
+279,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Chennai Super Kings,won,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",576
+280,Scott Styris,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Chennai Super Kings,won,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",58
+281,Herschelle Gibbs,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Chennai Super Kings,won,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",212
+282,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Chennai Super Kings,won,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",
+283,,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Chennai Super Kings,won,10533,20:00:00,6,2008,5,"MA Chidambaram Stadium, Chennai",
+284,Munaf Patel,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Mumbai Indians,lost,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",522
+285,Mahesh Rawat,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",1797
+286,Siddharth Trivedi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Mumbai Indians,lost,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",1594
+287,Sohail Tanvir,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Mumbai Indians,lost,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",859
+288,Shane Warne,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Mumbai Indians,lost,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",135
+289,Mohammad Kaif,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",70
+290,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Mumbai Indians,lost,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",587
+291,Yogesh Takawale,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",1477
+292,Robin Uthappa,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",527
+293,Abhishek Nayar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",1463
+294,Dwayne Bravo,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",242
+295,Sanath Jayasuriya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",102
+296,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",
+297,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",
+298,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",
+299,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,10530,20:00:00,7,2008,5,"Dr DY Patil Sports Academy, Mumbai",
+300,Manoj Tiwary,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Chennai Super Kings,lost,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",694
+301,Dinesh Karthik,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Chennai Super Kings,lost,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",145
+302,Shikhar Dhawan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Chennai Super Kings,lost,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",1446
+303,Shoaib Malik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Chennai Super Kings,lost,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",33
+304,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Chennai Super Kings,lost,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",370
+305,Gautam Gambhir,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Chennai Super Kings,lost,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",308
+306,Virender Sehwag,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Chennai Super Kings,lost,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",26
+307,Manpreet Gony,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Delhi Daredevils,won,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",1358
+308,S Badrinath,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",574
+309,Albie Morkel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Delhi Daredevils,won,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",484
+310,Chamara Kapugedera,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Delhi Daredevils,won,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",491
+311,Suresh Raina,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Daredevils,won,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",413
+312,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",265
+313,Stephen Fleming,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,won,10531,16:00:00,8,2008,5,"Arun Jaitley Stadium, Delhi",49
+314,RP Singh,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Rajasthan Royals,lost,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",434
+315,Pragyan Ojha,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",1356
+316,Dwaraka Ravi Teja,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Rajasthan Royals,lost,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",1464
+317,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Rajasthan Royals,lost,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",576
+318,Shahid Afridi,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Rajasthan Royals,lost,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",142
+319,Scott Styris,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",58
+320,Herschelle Gibbs,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Rajasthan Royals,lost,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",212
+321,Shane Watson,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",158
+322,Graeme Smith,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",207
+323,Mohammad Kaif,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",70
+324,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",790
+325,11,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",
+326,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",
+327,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",
+328,,b Pathan,25,10,3,0,150.00,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",
+329,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Deccan Chargers,won,10527,20:00:00,9,2008,5,"Sawai Mansingh Stadium, Jaipur",
+330,Albie Morkel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kings XI Punjab,won,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",484
+331,MS Dhoni,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",265
+332,S Badrinath,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kings XI Punjab,won,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",574
+333,Stephen Fleming,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kings XI Punjab,won,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",49
+334,Suresh Raina,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kings XI Punjab,won,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",413
+335,Vidyut Sivaramakrishnan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",452
+336,15,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kings XI Punjab,won,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",
+337,Vikram Singh,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",456
+338,Uday Kaul,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",1824
+339,S Sreesanth,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",463
+340,Piyush Chawla,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",466
+341,Irfan Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",73
+342,Mahela Jayawardene,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",101
+343,Shaun Marsh,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10528,20:00:00,10,2008,5,"MA Chidambaram Stadium, Chennai",563
+344,Laxmi Shukla,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Deccan Chargers,won,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1600
+345,Tatenda Taibu,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Deccan Chargers,won,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",169
+346,David Hussey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Deccan Chargers,won,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",562
+347,Sourav Ganguly,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Deccan Chargers,won,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",29
+348,Salman Butt,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Deccan Chargers,won,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",143
+349,Aakash Chopra,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Deccan Chargers,won,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",257
+350,5,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Deccan Chargers,won,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",
+351,RP Singh,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Kolkata Knight Riders,lost,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",434
+352,Chaminda Vaas,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Kolkata Knight Riders,lost,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",108
+353,Venugopal Rao,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Kolkata Knight Riders,lost,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",412
+354,Sanjay Bangar,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Kolkata Knight Riders,lost,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1814
+355,Scott Styris,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Kolkata Knight Riders,lost,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",58
+356,Adam Gilchrist,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Kolkata Knight Riders,lost,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",36
+357,Rohit Sharma,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Kolkata Knight Riders,lost,10526,16:00:00,11,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",576
+358,Anil Kumble,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",98
+359,Zaheer Khan,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",71
+360,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",592
+361,Rahul Dravid,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",27
+362,Misbah-ul-Haq,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",274
+363,Cameron White,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",282
+364,Virat Kohli,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1413
+365,Luke Pomersbach,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1006
+366,James Hopes,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",364
+367,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+368,9,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+369,,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+370,,lbw b Hopes,2,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+371,,lbw b Hopes,2,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+372,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+373,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+374,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+375,,b Pathan,25,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+376,,b Pathan,25,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+377,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10525,20:00:00,12,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+378,Iqbal Abdulla,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",1830
+379,Wriddhiman Saha,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",1465
+380,Tatenda Taibu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",169
+381,Laxmi Shukla,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",1600
+382,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",562
+383,Aakash Chopra,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",257
+384,Sourav Ganguly,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",29
+385,Glenn McGrath,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",41
+386,Pradeep Sangwan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",1472
+387,Farveez Maharoof,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",112
+388,Yo Mahesh,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",1719
+389,Tillakaratne Dilshan,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",105
+390,Amit Mishra,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",1454
+391,Gautam Gambhir,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,10523,20:00:00,13,2008,5,"Eden Gardens, Kolkata",308
+392,Albie Morkel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,lost,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",484
+393,MS Dhoni,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",265
+394,Chamara Kapugedera,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,lost,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",491
+395,Suresh Raina,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,lost,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",413
+396,S Badrinath,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,lost,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",574
+397,Vidyut Sivaramakrishnan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",452
+398,Stephen Fleming,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,lost,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",49
+399,Sanath Jayasuriya,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",102
+400,Robin Uthappa,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",527
+401,Sachin Tendulkar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",25
+402,,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+403,,not out,116,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+404,,not out,116,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+405,,not out,116,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+406,,lbw b Hopes,2,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+407,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+408,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+409,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+410,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+411,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+412,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+413,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+414,,b Pathan,25,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+415,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+416,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+417,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,10522,20:00:00,14,2008,5,"Wankhede Stadium, Mumbai",
+418,Manoj Tiwary,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Deccan Chargers,won,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",694
+419,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Deccan Chargers,won,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",105
+420,Farveez Maharoof,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Deccan Chargers,won,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",112
+421,Shikhar Dhawan,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Deccan Chargers,won,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",1446
+422,Gautam Gambhir,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Deccan Chargers,won,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",308
+423,Virender Sehwag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Deccan Chargers,won,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",26
+424,,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Deccan Chargers,won,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",
+425,Sarvesh Kumar,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Delhi Daredevils,lost,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",1817
+426,Pragyan Ojha,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Delhi Daredevils,lost,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",1356
+427,RP Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Delhi Daredevils,lost,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",434
+428,Dwaraka Ravi Teja,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Delhi Daredevils,lost,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",1464
+429,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Delhi Daredevils,lost,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",412
+430,Scott Styris,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Delhi Daredevils,lost,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",58
+431,Adam Gilchrist,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Delhi Daredevils,lost,10521,20:00:00,15,2008,5,"Arun Jaitley Stadium, Delhi",36
+432,Ishant Sharma,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",702
+433,Ashok Dinda,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",1467
+434,Ajit Agarkar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",146
+435,Laxmi Shukla,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",1600
+436,Wriddhiman Saha,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",1465
+437,Mohammad Hafeez,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",360
+438,Sourav Ganguly,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",29
+439,Sachin Tendulkar,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",25
+440,Sanath Jayasuriya,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",102
+441,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",527
+442,Dominic Thornely,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",1839
+443,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+444,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+445,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+446,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+447,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+448,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+449,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+450,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+451,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,10520,20:00:00,16,2008,5,"Wankhede Stadium, Mumbai",
+452,Shane Watson,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",158
+453,Graeme Smith,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",207
+454,Swapnil Asnodkar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",1462
+455,,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+456,,not out,116,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+457,,not out,116,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+458,,not out,116,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+459,,lbw b Hopes,2,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+460,,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+461,,lbw b Hopes,2,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+462,,lbw b Hopes,2,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+463,,c Sangakkara b Lee,15,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+464,,c Sangakkara b Lee,15,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+465,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+466,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+467,,b Pathan,25,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+468,,b Pathan,25,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+469,,b Pathan,25,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+470,,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",
+471,Abdur Razzak,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",127
+472,Zaheer Khan,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",71
+473,Anil Kumble,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",98
+474,Praveen Kumar,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",592
+475,Devraj Patil,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",1809
+476,Jagadeesh Arunkumar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",1805
+477,Cameron White,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,10518,16:00:00,17,2008,5,"Sawai Mansingh Stadium, Jaipur",282
+478,Wriddhiman Saha,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",1465
+479,Laxmi Shukla,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",1600
+480,David Hussey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",562
+481,Debabrata Das,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",1829
+482,Sourav Ganguly,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",29
+483,Mohammad Hafeez,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",360
+484,Salman Butt,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",143
+485,Stephen Fleming,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",49
+486,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",74
+487,,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+488,,c Pathan b Mota,32,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+489,,c Pathan b Mota,32,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+490,,c Pathan b Mota,32,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+491,,c Pathan b Mota,32,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+492,,not out,116,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+493,,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+494,,not out,116,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+495,,not out,116,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+496,,not out,116,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+497,,lbw b Hopes,2,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+498,,lbw b Hopes,2,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+499,,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+500,,lbw b Hopes,2,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+501,,lbw b Hopes,2,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+502,,c Sangakkara b Lee,15,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+503,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+504,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+505,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+506,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+507,,b Pathan,25,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+508,,b Pathan,25,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+509,,b Pathan,25,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+510,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+511,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,10517,16:00:00,18,2008,5,"Eden Gardens, Kolkata",
+512,Praveen Kumar,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",592
+513,Balachandra Akhil,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1803
+514,Cameron White,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",282
+515,Misbah-ul-Haq,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",274
+516,Shreevats Goswami,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1807
+517,Rahul Dravid,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",27
+518,Bharath Chipli,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1806
+519,Farveez Maharoof,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",112
+520,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1446
+521,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",145
+522,Gautam Gambhir,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",308
+523,Tillakaratne Dilshan,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",105
+524,AB de Villiers,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",370
+525,Virender Sehwag,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10516,20:00:00,19,2008,5,"M.Chinnaswamy Stadium, Bengaluru",26
+526,Ishant Sharma,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Rajasthan Royals,lost,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",702
+527,Umar Gul,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,lost,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",504
+528,Ajit Agarkar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Rajasthan Royals,lost,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",146
+529,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Rajasthan Royals,lost,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",1465
+530,Debabrata Das,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Rajasthan Royals,lost,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",1829
+531,Sourav Ganguly,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,lost,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",29
+532,David Hussey,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Rajasthan Royals,lost,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",562
+533,Yusuf Pathan,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kolkata Knight Riders,won,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",790
+534,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,won,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",158
+535,Graeme Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kolkata Knight Riders,won,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",207
+536,Mohammad Kaif,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kolkata Knight Riders,won,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",70
+537,Sohail Tanvir,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kolkata Knight Riders,won,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",859
+538,Swapnil Asnodkar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,won,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",1462
+539,7,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kolkata Knight Riders,won,10514,20:00:00,20,2008,5,"Eden Gardens, Kolkata",
+540,Irfan Pathan,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,won,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",73
+541,Mahela Jayawardene,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,won,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",101
+542,Yuvraj Singh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,won,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",69
+543,Luke Pomersbach,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,won,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",1006
+544,Shaun Marsh,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,won,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",563
+545,James Hopes,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,won,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",364
+546,12,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,won,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",
+547,Vikrant Yeligati,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,lost,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",1840
+548,Dilhara Fernando,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",222
+549,Ashish Nehra,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,lost,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",269
+550,Siddharth Chitnis,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,lost,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",1833
+551,Pinal Shah,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,lost,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",1837
+552,Shaun Pollock,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",218
+553,Sanath Jayasuriya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,lost,10512,16:00:00,21,2008,5,"Wankhede Stadium, Mumbai",102
+554,Scott Styris,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Kings XI Punjab,lost,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",58
+555,Chamara Silva,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",602
+556,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Kings XI Punjab,lost,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",576
+557,Venugopal Rao,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Kings XI Punjab,lost,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",412
+558,Herschelle Gibbs,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Kings XI Punjab,lost,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",212
+559,Adam Gilchrist,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",36
+560,,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Kings XI Punjab,lost,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+561,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Deccan Chargers,won,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",101
+562,Piyush Chawla,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Deccan Chargers,won,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",466
+563,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Deccan Chargers,won,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+564,Luke Pomersbach,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Deccan Chargers,won,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1006
+565,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Deccan Chargers,won,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+566,Kumar Sangakkara,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Deccan Chargers,won,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",104
+567,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Deccan Chargers,won,10510,20:00:00,23,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+568,Taruwar Kohli,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Chennai Super Kings,won,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",1793
+569,Mohammad Kaif,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Chennai Super Kings,won,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",70
+570,Yusuf Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Chennai Super Kings,won,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",790
+571,Kamran Akmal,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Chennai Super Kings,won,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",77
+572,Swapnil Asnodkar,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Chennai Super Kings,won,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",1462
+573,Graeme Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Chennai Super Kings,won,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",207
+574,7,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Chennai Super Kings,won,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",
+575,Abhinav Mukund,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Rajasthan Royals,lost,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",1720
+576,Manpreet Gony,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Rajasthan Royals,lost,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",1358
+577,S Badrinath,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Rajasthan Royals,lost,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",574
+578,Albie Morkel,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Rajasthan Royals,lost,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",484
+579,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Rajasthan Royals,lost,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",265
+580,Parthiv Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Rajasthan Royals,lost,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",74
+581,Suresh Raina,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Rajasthan Royals,lost,10509,16:00:00,24,2008,5,"MA Chidambaram Stadium, Chennai",413
+582,Paidikalva Vijaykumar,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1818
+583,RP Singh,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",434
+584,Sanjay Bangar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1814
+585,Arjun Yadav,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1595
+586,Dwaraka Ravi Teja,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1464
+587,Chamara Silva,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",602
+588,Venugopal Rao,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",412
+589,Balachandra Akhil,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1803
+590,Cameron White,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",282
+591,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1413
+592,Rahul Dravid,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",27
+593,Misbah-ul-Haq,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",274
+594,Wasim Jaffer,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",499
+595,Jacques Kallis,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,10507,16:00:00,25,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",213
+596,Rohan Raje,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,lost,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",1700
+597,Yogesh Takawale,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",1477
+598,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,lost,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",1836
+599,Shaun Pollock,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,lost,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",218
+600,Dwayne Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,lost,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",255
+601,Abhishek Nayar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",1463
+602,Robin Uthappa,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,lost,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",527
+603,Ravindra Jadeja,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,won,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",587
+604,Niraj Patel,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,won,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",1796
+605,Kamran Akmal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,won,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",77
+606,Mohammad Kaif,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,won,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",70
+607,Swapnil Asnodkar,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,won,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",1462
+608,Shane Watson,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,won,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",158
+609,Yusuf Pathan,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,won,10505,20:00:00,26,2008,5,"Sawai Mansingh Stadium, Jaipur",790
+610,RP Singh,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Chennai Super Kings,lost,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",434
+611,Pragyan Ojha,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Chennai Super Kings,lost,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1356
+612,Arjun Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Chennai Super Kings,lost,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1595
+613,Shahid Afridi,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Chennai Super Kings,lost,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",142
+614,Dwaraka Ravi Teja,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Chennai Super Kings,lost,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1464
+615,Venugopal Rao,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Chennai Super Kings,lost,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",412
+616,Herschelle Gibbs,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Chennai Super Kings,lost,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",212
+617,Parthiv Patel,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Deccan Chargers,won,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+618,Albie Morkel,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Deccan Chargers,won,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",484
+619,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Deccan Chargers,won,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",413
+620,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Deccan Chargers,won,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",265
+621,Stephen Fleming,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Deccan Chargers,won,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",49
+622,11,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Deccan Chargers,won,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",
+623,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Deccan Chargers,won,10504,20:00:00,27,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",
+624,Anil Kumble,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",98
+625,Vinay Kumar,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1449
+626,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+627,Balachandra Akhil,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",1803
+628,Cameron White,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",282
+629,Misbah-ul-Haq,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",274
+630,Rahul Dravid,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",27
+631,Sachin Tendulkar,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",25
+632,Robin Uthappa,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",527
+633,Sanath Jayasuriya,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",102
+634,13,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+635,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+636,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+637,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+638,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+639,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+640,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+641,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+642,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+643,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,10503,16:00:00,28,2008,5,"M.Chinnaswamy Stadium, Bengaluru",
+644,Siddharth Trivedi,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Daredevils,won,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",1594
+645,Munaf Patel,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",522
+646,Mahesh Rawat,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Daredevils,won,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",1797
+647,Shane Warne,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Daredevils,won,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",135
+648,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Daredevils,won,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",587
+649,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",790
+650,Mohammad Kaif,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Daredevils,won,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",70
+651,Mohammad Asif,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Rajasthan Royals,lost,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",326
+652,Yo Mahesh,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",1719
+653,Farveez Maharoof,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Rajasthan Royals,lost,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",112
+654,Amit Mishra,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,lost,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",1454
+655,Gautam Gambhir,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,lost,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",308
+656,Tillakaratne Dilshan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",105
+657,Glenn McGrath,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,lost,10500,20:00:00,30,2008,5,"Wankhede Stadium, Mumbai",41
+658,S Sreesanth,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,lost,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",463
+659,Ramesh Powar,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",513
+660,Piyush Chawla,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,lost,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",466
+661,Wilkin Mota,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,lost,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",1825
+662,Irfan Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,lost,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",73
+663,Mahela Jayawardene,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",101
+664,Yuvraj Singh,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,lost,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",69
+665,Parthiv Patel,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",74
+666,Suresh Raina,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",413
+667,Vidyut Sivaramakrishnan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",452
+668,,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+669,,not out,116,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+670,,not out,116,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+671,,not out,116,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+672,,lbw b Hopes,2,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+673,,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+674,,lbw b Hopes,2,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+675,,lbw b Hopes,2,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+676,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+677,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+678,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+679,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+680,,b Pathan,25,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+681,,b Pathan,25,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+682,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+683,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,10501,20:00:00,31,2008,5,"Wankhede Stadium, Mumbai",
+684,Parthiv Patel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",74
+685,Vidyut Sivaramakrishnan,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",452
+686,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",413
+687,Albie Morkel,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",484
+688,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",265
+689,Chamara Kapugedera,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",491
+690,S Badrinath,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",574
+691,Niraj Patel,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,won,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",1796
+692,Swapnil Asnodkar,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",1462
+693,Kamran Akmal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,won,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",77
+694,Shane Watson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,won,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",158
+695,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",790
+696,Mohammad Kaif,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",70
+697,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,10558,20:15:00,1,2008,6,"Dr DY Patil Sports Academy, Mumbai",587
+698,Sourav Ganguly,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",29
+699,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",201
+700,Ricky Ponting,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",38
+701,David Hussey,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",562
+702,Mohammad Hafeez,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",360
+703,17,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",
+704,,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",
+705,Rahul Dravid,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",27
+706,Wasim Jaffer,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",499
+707,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+708,Jacques Kallis,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",213
+709,Cameron White,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",282
+710,Mark Boucher,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",208
+711,Balachandra Akhil,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10557,20:00:00,18,2008,4,"M.Chinnaswamy Stadium, Bengaluru",1803
+712,Ravindra Jadeja,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Daredevils,lost,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",587
+713,Darren Lehmann,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Daredevils,lost,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",1794
+714,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Daredevils,lost,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",158
+715,Mohammad Kaif,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Daredevils,lost,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",70
+716,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Daredevils,lost,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",790
+717,Taruwar Kohli,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Daredevils,lost,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",1793
+718,Siddharth Trivedi,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Daredevils,lost,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",1594
+719,Gautam Gambhir,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",308
+720,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",1446
+721,Virender Sehwag,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",26
+722,,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+723,,not out,116,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+724,,not out,116,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+725,,not out,116,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+726,,lbw b Hopes,2,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+727,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+728,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+729,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+730,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+731,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+732,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+733,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+734,,b Pathan,25,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+735,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+736,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+737,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,won,10555,20:30:00,19,2008,4,"Arun Jaitley Stadium, Delhi",
+738,Harbhajan Singh,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",75
+739,Abhishek Nayar,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",1463
+740,Shaun Pollock,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",218
+741,Pinal Shah,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",1837
+742,Robin Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",527
+743,Sanath Jayasuriya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",102
+744,Dominic Thornely,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",1839
+745,Balachandra Akhil,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",1803
+746,Mark Boucher,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",208
+747,Shivnarine Chanderpaul,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",244
+748,Virat Kohli,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",1413
+749,Jacques Kallis,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",213
+750,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",521
+751,Rahul Dravid,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10553,20:00:00,20,2008,4,"Wankhede Stadium, Mumbai",27
+752,Vinay Kumar,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",1449
+753,Zaheer Khan,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",71
+754,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",592
+755,Sunil Joshi,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",1808
+756,Mark Boucher,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",208
+757,Jacques Kallis,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",213
+758,Rahul Dravid,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",27
+759,Mohammad Kaif,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",70
+760,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",158
+761,Yusuf Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",790
+762,Mahesh Rawat,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",1797
+763,Graeme Smith,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",207
+764,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",
+765,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",
+766,,b Pathan,25,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",
+767,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10546,20:00:00,26,2008,4,"M.Chinnaswamy Stadium, Bengaluru",
+768,Musavir Khote,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Deccan Chargers,lost,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",1835
+769,Dwayne Bravo,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Deccan Chargers,lost,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",242
+770,Abhishek Nayar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Deccan Chargers,lost,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",1463
+771,Shaun Pollock,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Deccan Chargers,lost,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",218
+772,Robin Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Deccan Chargers,lost,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",527
+773,Ajinkya Rahane,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Deccan Chargers,lost,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",1447
+774,Luke Ronchi,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Deccan Chargers,lost,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",1396
+775,Adam Gilchrist,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",36
+776,VVS Laxman,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",28
+777,,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+778,,c Pathan b Mota,32,54,8,9,214.81,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+779,,c Pathan b Mota,32,3,0,0,66.67,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+780,,c Pathan b Mota,32,10,3,0,150.00,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+781,,c Pathan b Mota,32,17,4,1,147.06,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+782,,not out,116,13,2,3,246.15,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+783,,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+784,,not out,116,3,0,0,66.67,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+785,,not out,116,10,3,0,150.00,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+786,,not out,116,17,4,1,147.06,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+787,,lbw b Hopes,2,13,2,3,246.15,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+788,,lbw b Hopes,2,54,8,9,214.81,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+789,,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+790,,lbw b Hopes,2,10,3,0,150.00,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+791,,lbw b Hopes,2,17,4,1,147.06,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+792,,c Sangakkara b Lee,15,13,2,3,246.15,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+793,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+794,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+795,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+796,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+797,,b Pathan,25,13,2,3,246.15,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+798,,b Pathan,25,54,8,9,214.81,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+799,,b Pathan,25,3,0,0,66.67,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+800,,b Pathan,25,10,3,0,150.00,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+801,,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Mumbai Indians,won,10543,20:00:00,27,2008,4,"Dr DY Patil Sports Academy, Mumbai",
+802,RP Singh,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Kings XI Punjab,lost,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",434
+803,Doddapaneni Kalyankrishna,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1816
+804,Sanjay Bangar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Kings XI Punjab,lost,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1814
+805,Nuwan Zoysa,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Kings XI Punjab,lost,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",109
+806,Shahid Afridi,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Kings XI Punjab,lost,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",142
+807,Venugopal Rao,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",412
+808,Rohit Sharma,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Kings XI Punjab,lost,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",576
+809,Shaun Marsh,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",563
+810,Yuvraj Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",69
+811,Mahela Jayawardene,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",101
+812,Kumar Sangakkara,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",104
+813,Ramnaresh Sarwan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",252
+814,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",
+815,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",
+816,,b Pathan,25,10,3,0,150.00,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",
+817,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Deccan Chargers,won,10539,20:00:00,1,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",
+818,Piyush Chawla,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",466
+819,Irfan Pathan,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",73
+820,Karan Goel,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1823
+821,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",101
+822,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+823,James Hopes,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",364
+824,Kumar Sangakkara,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",104
+825,Wriddhiman Saha,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+826,Ajit Agarkar,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",146
+827,Laxmi Shukla,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1600
+828,David Hussey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",562
+829,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",283
+830,Debabrata Das,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1829
+831,Sourav Ganguly,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,10535,20:00:00,3,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",29
+832,Makhaya Ntini,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",216
+833,Muttiah Muralitharan,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",110
+834,Manpreet Gony,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",1358
+835,Albie Morkel,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",484
+836,Joginder Sharma,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",270
+837,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",265
+838,Suresh Raina,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,lost,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",413
+839,Graeme Smith,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",207
+840,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",158
+841,Yusuf Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",790
+842,Swapnil Asnodkar,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",1462
+843,,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+844,,lbw b Hopes,2,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+845,,lbw b Hopes,2,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+846,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+847,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+848,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+849,,b Pathan,25,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+850,,b Pathan,25,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+851,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,10534,20:00:00,4,2008,5,"Sawai Mansingh Stadium, Jaipur",
+852,Umar Gul,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",504
+853,Murali Kartik,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",300
+854,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",1465
+855,Laxmi Shukla,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",1600
+856,Tatenda Taibu,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",169
+857,Sourav Ganguly,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",29
+858,David Hussey,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",562
+859,Shivnarine Chanderpaul,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",244
+860,Jagadeesh Arunkumar,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",1805
+861,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",592
+862,Cameron White,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",282
+863,Rahul Dravid,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",27
+864,Mark Boucher,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",208
+865,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,10529,20:00:00,8,2008,5,"Eden Gardens, Kolkata",
+866,Farveez Maharoof,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",112
+867,Amit Mishra,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",1454
+868,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",145
+869,Tillakaratne Dilshan,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",105
+870,Shikhar Dhawan,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",1446
+871,AB de Villiers,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",370
+872,Virender Sehwag,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",26
+873,Mahesh Rawat,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Daredevils,won,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",1797
+874,Shane Warne,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",135
+875,Niraj Patel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Daredevils,won,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",1796
+876,Dimitri Mascarenhas,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Daredevils,won,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",741
+877,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Daredevils,won,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",587
+878,Shane Watson,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",158
+879,Mohammad Kaif,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,won,10524,20:00:00,11,2008,5,"Sawai Mansingh Stadium, Jaipur",70
+880,Shoaib Malik,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",33
+881,Farveez Maharoof,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",112
+882,Shikhar Dhawan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",1446
+883,Tillakaratne Dilshan,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",105
+884,Virender Sehwag,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",26
+885,Gautam Gambhir,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",308
+886,10,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",
+887,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Daredevils,won,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",101
+888,Luke Pomersbach,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",1006
+889,Yuvraj Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Daredevils,won,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",69
+890,James Hopes,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Daredevils,won,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",364
+891,Shaun Marsh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Daredevils,won,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",563
+892,4,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",
+893,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Daredevils,won,10519,20:00:00,17,2008,5,"Arun Jaitley Stadium, Delhi",
+894,Rohan Raje,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Deccan Chargers,won,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1700
+895,Yogesh Takawale,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Deccan Chargers,won,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1477
+896,Pinal Shah,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Deccan Chargers,won,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1837
+897,Robin Uthappa,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Deccan Chargers,won,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",527
+898,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Deccan Chargers,won,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",242
+899,Abhishek Nayar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Deccan Chargers,won,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1463
+900,Dominic Thornely,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Deccan Chargers,won,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1839
+901,RP Singh,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Mumbai Indians,lost,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",434
+902,Nuwan Zoysa,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Mumbai Indians,lost,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",109
+903,Halhadar Das,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Mumbai Indians,lost,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1815
+904,Dwaraka Ravi Teja,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Mumbai Indians,lost,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",1464
+905,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Mumbai Indians,lost,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",412
+906,Rohit Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Mumbai Indians,lost,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",576
+907,Chamara Silva,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Mumbai Indians,lost,10515,20:00:00,18,2008,5,"Rajiv Gandhi International Stadium, Hyderabad",602
+908,Anil Kumble,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",98
+909,Vinay Kumar,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",1449
+910,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",592
+911,Balachandra Akhil,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",1803
+912,Misbah-ul-Haq,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",274
+913,Mark Boucher,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",208
+914,Virat Kohli,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",1413
+915,Makhaya Ntini,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",216
+916,Lakshmipathy Balaji,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",96
+917,Vidyut Sivaramakrishnan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",452
+918,Manpreet Gony,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",1358
+919,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",484
+920,S Badrinath,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",574
+921,Suresh Raina,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,10513,20:00:00,21,2008,5,"MA Chidambaram Stadium, Chennai",413
+922,Pinal Shah,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,lost,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",1837
+923,Andre Nel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",221
+924,Siddharth Chitnis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,lost,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",1833
+925,Shaun Pollock,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,lost,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",218
+926,Abhishek Nayar,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,lost,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",1463
+927,Robin Uthappa,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",527
+928,Dwayne Smith,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,lost,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",255
+929,Farveez Maharoof,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,won,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",112
+930,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,won,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",105
+931,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,won,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",145
+932,Gautam Gambhir,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,won,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",308
+933,Manoj Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,won,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",694
+934,Shikhar Dhawan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,won,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",1446
+935,Virender Sehwag,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,won,10508,20:00:00,24,2008,5,"Arun Jaitley Stadium, Delhi",26
+936,Tanmay Srivastava,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",590
+937,Piyush Chawla,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",466
+938,Kumar Sangakkara,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",104
+939,Shaun Marsh,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",563
+940,James Hopes,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",364
+941,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",73
+942,Mahela Jayawardene,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",101
+943,Ishant Sharma,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",702
+944,Umar Gul,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",504
+945,Aakash Chopra,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",257
+946,Laxmi Shukla,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",1600
+947,Wriddhiman Saha,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",1465
+948,David Hussey,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",562
+949,Debabrata Das,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10506,20:00:00,25,2008,5,"Eden Gardens, Kolkata",1829
+950,Luke Pomersbach,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1006
+951,Yuvraj Singh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+952,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+953,James Hopes,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",364
+954,,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+955,,lbw b Hopes,2,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+956,,lbw b Hopes,2,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+957,,c Sangakkara b Lee,15,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+958,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+959,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+960,,b Pathan,25,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+961,,b Pathan,25,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+962,,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,won,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+963,Pankaj Singh,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6328
+964,Dinesh Salunkhe,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1799
+965,Mahesh Rawat,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1797
+966,Kamran Akmal,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",77
+967,Mohammad Kaif,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",70
+968,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",790
+969,Niraj Patel,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10502,20:00:00,28,2008,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1796

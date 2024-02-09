@@ -1,0 +1,867 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",2195
+1,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",1597
+2,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",145
+3,Manoj Tiwary,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",694
+4,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",211
+5,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",521
+6,10,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",
+7,Parthiv Patel,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",74
+8,Nic Maddinson,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",6261
+9,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",1413
+10,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",69
+11,4,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",
+12,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",
+13,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",
+14,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",
+15,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,13638,20:00:00,17,2014,4,"Sharjah Cricket Stadium, Sharjah",
+16,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kings XI Punjab,lost,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",255
+17,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kings XI Punjab,lost,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",201
+18,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kings XI Punjab,lost,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",413
+19,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kings XI Punjab,lost,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",265
+20,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kings XI Punjab,lost,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",242
+21,14,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kings XI Punjab,lost,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",
+22,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kings XI Punjab,lost,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",
+23,Cheteshwar Pujara,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Chennai Super Kings,won,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1448
+24,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Chennai Super Kings,won,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",26
+25,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Chennai Super Kings,won,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7662
+26,Axar Patel,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Chennai Super Kings,won,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8808
+27,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Chennai Super Kings,won,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",6349
+28,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,won,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1440
+29,6,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,won,13639,16:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",
+30,Michael Hussey,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",4772
+31,Aditya Tare,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",6315
+32,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",6311
+33,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",576
+34,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",657
+35,Corey Anderson,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",8982
+36,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",75
+37,Nic Maddinson,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",6261
+38,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",74
+39,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",1413
+40,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",69
+41,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",370
+42,2,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",
+43,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,13641,16:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",
+44,Abhishek Nayar,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,lost,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",1463
+45,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,lost,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",1447
+46,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,lost,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",8271
+47,Shane Watson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,lost,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",158
+48,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,lost,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",1530
+49,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,lost,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",2250
+50,James Faulkner,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,lost,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",7789
+51,Cheteshwar Pujara,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,won,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",1448
+52,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,won,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",26
+53,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,won,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",1465
+54,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,won,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",7662
+55,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,won,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",6349
+56,9,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,won,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",
+57,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,won,13643,20:00:00,20,2014,4,"Sharjah Cricket Stadium, Sharjah",
+58,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,won,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",255
+59,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",201
+60,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,won,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",413
+61,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,won,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7825
+62,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,won,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",265
+63,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",587
+64,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,won,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",597
+65,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,lost,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",2195
+66,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1597
+67,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,lost,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",145
+68,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,lost,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",694
+69,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,lost,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",211
+70,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",521
+71,James Neesham,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,lost,13644,20:00:00,21,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8983
+72,Cheteshwar Pujara,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",1448
+73,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",26
+74,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",7662
+75,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",6349
+76,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",1440
+77,Mitchell Johnson,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",496
+78,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",8808
+79,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",1643
+80,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",1446
+81,David Warner,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",1739
+82,KL Rahul,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",8733
+83,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",412
+84,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",73
+85,Daren Sammy,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,13645,20:00:00,22,2014,4,"Sharjah Cricket Stadium, Sharjah",253
+86,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,won,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",255
+87,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",201
+88,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,won,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",413
+89,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,won,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",7825
+90,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,won,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",265
+91,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",587
+92,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,won,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",597
+93,Abhishek Nayar,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,lost,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",1463
+94,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",1447
+95,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,lost,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",8271
+96,Shane Watson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,lost,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",158
+97,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,lost,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",1530
+98,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",2250
+99,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,lost,13646,20:00:00,23,2014,4,"Dubai International Cricket Stadium, Dubai",1468
+100,Jacques Kallis,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",213
+101,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",308
+102,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",1836
+103,Chris Lynn,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",7752
+104,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",790
+105,Robin Uthappa,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",527
+106,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",7915
+107,Parthiv Patel,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",74
+108,Yogesh Takawale,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",1477
+109,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",1413
+110,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",69
+111,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",370
+112,Albie Morkel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",484
+113,Mitchell Starc,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13647,20:00:00,24,2014,4,"Sharjah Cricket Stadium, Sharjah",7710
+114,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",1446
+115,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",1643
+116,David Warner,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",1739
+117,5,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+118,,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+119,,lbw b Hopes,2,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+120,,lbw b Hopes,2,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+121,,c Sangakkara b Lee,15,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+122,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+123,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+124,,b Pathan,25,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+125,,b Pathan,25,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+126,,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+127,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",8520
+128,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",1597
+129,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",395
+130,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",145
+131,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",211
+132,Manoj Tiwary,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",694
+133,6,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,13648,16:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+134,Parthiv Patel,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",74
+135,Yogesh Takawale,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1477
+136,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1413
+137,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",69
+138,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",370
+139,Sachin Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1891
+140,Albie Morkel,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",484
+141,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1447
+142,Karun Nair,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8257
+143,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8271
+144,Abhishek Nayar,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1463
+145,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",158
+146,Stuart Binny,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1530
+147,3,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13650,16:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",
+148,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,lost,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",576
+149,Aditya Tare,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",6315
+150,Corey Anderson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,lost,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",8982
+151,Ambati Rayudu,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,lost,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",6311
+152,Michael Hussey,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,lost,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",4772
+153,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",657
+154,CM Gautam,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,lost,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",1852
+155,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,won,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",8520
+156,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,won,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",1597
+157,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,won,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",211
+158,Kevin Pietersen,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,won,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",395
+159,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,won,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",145
+160,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,won,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",1851
+161,9,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,won,13652,16:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",
+162,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",247
+163,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",74
+164,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",1413
+165,Yogesh Takawale,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",1477
+166,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",370
+167,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",69
+168,Albie Morkel,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",484
+169,Cheteshwar Pujara,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",1448
+170,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",26
+171,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",1465
+172,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",7662
+173,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",6349
+174,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",1440
+175,Rishi Dhawan,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,13654,20:00:00,28,2014,4,"Dubai International Cricket Stadium, Dubai",8616
+176,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1447
+177,Karun Nair,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8257
+178,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8271
+179,Shane Watson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",158
+180,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1530
+181,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",2250
+182,James Faulkner,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7789
+183,Gautam Gambhir,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",308
+184,Manvinder Bisla,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1901
+185,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",213
+186,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1836
+187,Suryakumar Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7915
+188,Shakib Al Hasan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",544
+189,Robin Uthappa,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13655,20:00:00,29,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",527
+190,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",1643
+191,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",1446
+192,KL Rahul,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",8733
+193,David Warner,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",1739
+194,Daren Sammy,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",253
+195,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",1599
+196,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",73
+197,Ben Dunk,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",8142
+198,Rohit Sharma,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",576
+199,Corey Anderson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",8982
+200,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",6311
+201,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",657
+202,Aditya Tare,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",6315
+203,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,13656,20:00:00,30,2014,4,"Dubai International Cricket Stadium, Dubai",75
+204,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",255
+205,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",201
+206,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",413
+207,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",265
+208,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",587
+209,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",
+210,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",
+211,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",527
+212,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",308
+213,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",213
+214,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",1836
+215,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",544
+216,Suryakumar Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",7915
+217,Yusuf Pathan,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,13678,20:00:00,2,2014,5,"JSCA International Stadium Complex, Ranchi",790
+218,Cheteshwar Pujara,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,lost,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",1448
+219,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",26
+220,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,lost,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",1465
+221,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,lost,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",7662
+222,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,lost,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",1440
+223,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",6349
+224,Mitchell Johnson,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,lost,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",496
+225,Ben Dunk,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,won,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",8142
+226,CM Gautam,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,won,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",1852
+227,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,won,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",6311
+228,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,won,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",576
+229,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,won,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",8982
+230,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,won,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",657
+231,Aditya Tare,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,won,13679,16:00:00,3,2014,5,"Wankhede Stadium, Mumbai",6315
+232,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1643
+233,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1446
+234,KL Rahul,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",8733
+235,David Warner,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1739
+236,Daren Sammy,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",253
+237,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1599
+238,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",73
+239,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",247
+240,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",74
+241,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+242,Rilee Rossouw,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",2244
+243,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",370
+244,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",69
+245,Mitchell Starc,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,13681,20:00:00,4,2014,5,"M.Chinnaswamy Stadium, Bengaluru",7710
+246,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",1447
+247,Karun Nair,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",8257
+248,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",8271
+249,Shane Watson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",158
+250,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",1530
+251,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",2250
+252,James Faulkner,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",7789
+253,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",527
+254,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",308
+255,Andre Russell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",7736
+256,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",1836
+257,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",544
+258,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",790
+259,Ryan ten Doeschate,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,13682,16:00:00,5,2014,5,"Narendra Modi Stadium, Ahmedabad",640
+260,Ben Dunk,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",8142
+261,CM Gautam,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",1852
+262,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",6311
+263,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",576
+264,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",8982
+265,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",657
+266,Aditya Tare,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",6315
+267,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",247
+268,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",74
+269,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",1413
+270,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",370
+271,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",69
+272,Rilee Rossouw,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",2244
+273,Mitchell Starc,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,13684,20:00:00,6,2014,5,"Wankhede Stadium, Mumbai",7710
+274,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",8520
+275,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",1597
+276,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",395
+277,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",145
+278,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",211
+279,Laxmi Shukla,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",1600
+280,Kedar Jadhav,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",1851
+281,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",527
+282,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",308
+283,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",1836
+284,Jacques Kallis,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",213
+285,12,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",
+286,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",
+287,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",
+288,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",
+289,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,13685,16:00:00,7,2014,5,"Arun Jaitley Stadium, Delhi",
+290,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1446
+291,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1643
+292,KL Rahul,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",8733
+293,Naman Ojha,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1599
+294,David Warner,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1739
+295,Moises Henriques,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1437
+296,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",73
+297,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1447
+298,Karun Nair,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",8257
+299,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",8271
+300,Shane Watson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",158
+301,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1530
+302,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",2250
+303,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,13687,20:00:00,8,2014,5,"Narendra Modi Stadium, Ahmedabad",1468
+304,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",26
+305,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",6319
+306,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",7662
+307,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",6349
+308,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1440
+309,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1465
+310,Mitchell Johnson,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",496
+311,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",247
+312,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",74
+313,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+314,Sachin Rana,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1891
+315,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",370
+316,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",69
+317,Albie Morkel,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,13688,20:00:00,9,2014,5,"M.Chinnaswamy Stadium, Bengaluru",484
+318,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",8520
+319,Kevin Pietersen,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",395
+320,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",2195
+321,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",145
+322,Laxmi Shukla,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",1600
+323,Jean-Paul Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",211
+324,Kedar Jadhav,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",1851
+325,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",1643
+326,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",1446
+327,David Warner,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",1739
+328,Naman Ojha,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",1599
+329,11,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",
+330,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",
+331,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",
+332,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",
+333,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,13689,16:00:00,10,2014,5,"Arun Jaitley Stadium, Delhi",
+334,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",26
+335,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",6319
+336,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",1465
+337,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",7662
+338,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",6349
+339,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",1440
+340,Rishi Dhawan,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",8616
+341,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",527
+342,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",308
+343,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",1836
+344,5,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+345,,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+346,,lbw b Hopes,2,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+347,,lbw b Hopes,2,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+348,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+349,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+350,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+351,,b Pathan,25,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+352,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+353,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13691,16:00:00,11,2014,5,"Barabati Stadium, Cuttack",
+354,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1643
+355,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+356,KL Rahul,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",8733
+357,David Warner,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+358,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+359,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+360,,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+361,Lendl Simmons,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",599
+362,CM Gautam,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1852
+363,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",6311
+364,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",576
+365,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",657
+366,3,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+367,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,13693,20:00:00,12,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+368,Ankit Sharma,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Chennai Super Kings,lost,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",7810
+369,Shane Watson,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",158
+370,Ajinkya Rahane,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Chennai Super Kings,lost,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",1447
+371,Karun Nair,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Chennai Super Kings,lost,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",8257
+372,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Chennai Super Kings,lost,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",1530
+373,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",2250
+374,James Faulkner,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Chennai Super Kings,lost,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",7789
+375,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Rajasthan Royals,won,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",255
+376,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",201
+377,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Rajasthan Royals,won,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",413
+378,Faf du Plessis,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Rajasthan Royals,won,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",7825
+379,Ravichandran Ashwin,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Rajasthan Royals,won,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",1593
+380,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",265
+381,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Rajasthan Royals,won,13694,16:00:00,13,2014,5,"JSCA International Stadium Complex, Ranchi",587
+382,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kings XI Punjab,lost,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1643
+383,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,lost,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+384,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kings XI Punjab,lost,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+385,David Warner,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kings XI Punjab,lost,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+386,Moises Henriques,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kings XI Punjab,lost,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1437
+387,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,lost,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",73
+388,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kings XI Punjab,lost,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1844
+389,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Sunrisers Hyderabad,won,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",26
+390,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,won,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",8358
+391,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Sunrisers Hyderabad,won,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1465
+392,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Sunrisers Hyderabad,won,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",7662
+393,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Sunrisers Hyderabad,won,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",6349
+394,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,won,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1440
+395,4,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Sunrisers Hyderabad,won,13696,16:00:00,14,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+396,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Daredevils,won,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",1447
+397,Karun Nair,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",8257
+398,Kevon Cooper,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Daredevils,won,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",1611
+399,Sanju Samson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Daredevils,won,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",8271
+400,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Daredevils,won,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",1530
+401,Ben Cutting,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",8118
+402,James Faulkner,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Daredevils,won,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",7789
+403,Kevin Pietersen,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Rajasthan Royals,lost,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",395
+404,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",2195
+405,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Rajasthan Royals,lost,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",145
+406,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,lost,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",211
+407,Manoj Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,lost,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",694
+408,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",521
+409,Kedar Jadhav,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,lost,13698,20:00:00,15,2014,5,"Narendra Modi Stadium, Ahmedabad",1851
+410,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",255
+411,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",201
+412,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",413
+413,David Hussey,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",562
+414,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",265
+415,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",587
+416,6,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",
+417,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",247
+418,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",74
+419,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",1413
+420,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",370
+421,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",69
+422,Sachin Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",1891
+423,Abu Nechim,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,13699,16:00:00,18,2014,5,"JSCA International Stadium Complex, Ranchi",6323
+424,Michael Hussey,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",4772
+425,Lendl Simmons,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",599
+426,Kieron Pollard,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",657
+427,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",576
+428,6,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",
+429,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",
+430,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",
+431,,b Pathan,25,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",
+432,,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,won,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",
+433,Karun Nair,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,lost,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",8257
+434,Unmukt Chand,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",7904
+435,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,lost,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",158
+436,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,lost,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",8271
+437,Kevon Cooper,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,lost,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",1611
+438,Ankit Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",7810
+439,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,lost,13701,16:00:00,19,2014,5,"Narendra Modi Stadium, Ahmedabad",1530
+440,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",247
+441,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+442,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1413
+443,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",69
+444,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",370
+445,Sachin Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1891
+446,Mitchell Starc,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",7710
+447,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+448,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+449,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+450,Aaron Finch,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1643
+451,Daren Sammy,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",253
+452,7,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+453,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,13703,16:00:00,20,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+454,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,lost,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",26
+455,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+456,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,lost,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+457,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,lost,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+458,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,lost,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1440
+459,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+460,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,lost,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+461,Lendl Simmons,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,won,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",599
+462,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,won,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",4772
+463,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,won,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6311
+464,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,won,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",576
+465,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,won,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",657
+466,10,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,won,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+467,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,won,13705,20:00:00,21,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+468,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",527
+469,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",308
+470,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",1836
+471,Yusuf Pathan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",790
+472,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",544
+473,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",640
+474,7,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",
+475,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",247
+476,Yogesh Takawale,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",1477
+477,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",1413
+478,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",69
+479,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",370
+480,Sachin Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",1891
+481,Mitchell Starc,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,13706,16:00:00,22,2014,5,"Eden Gardens, Kolkata",7710
+482,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,won,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",599
+483,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,won,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",4772
+484,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,won,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",576
+485,Kieron Pollard,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,won,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",657
+486,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,won,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",6311
+487,Aditya Tare,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,won,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",6315
+488,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,won,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",75
+489,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,lost,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",1597
+490,Kevin Pietersen,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,lost,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",395
+491,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,lost,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",145
+492,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,lost,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",694
+493,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,lost,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",211
+494,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,lost,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",1851
+495,6,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,lost,13708,16:00:00,23,2014,5,"Wankhede Stadium, Mumbai",
+496,Rilee Rossouw,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",2244
+497,Yogesh Takawale,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1477
+498,Vijay Zol,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",8258
+499,Virat Kohli,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+500,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",69
+501,AB de Villiers,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",370
+502,Sachin Rana,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1891
+503,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",255
+504,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",7825
+505,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",413
+506,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",265
+507,5,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",
+508,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",
+509,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",
+510,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",
+511,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,13710,16:00:00,24,2014,5,"M.Chinnaswamy Stadium, Bengaluru",
+512,Kevin Pietersen,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",395
+513,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",2195
+514,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",145
+515,Kedar Jadhav,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1851
+516,Manoj Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",694
+517,Jean-Paul Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",211
+518,James Neesham,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8983
+519,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Daredevils,won,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",26
+520,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+521,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Daredevils,won,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+522,David Miller,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Daredevils,won,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+523,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Daredevils,won,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1440
+524,15,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+525,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Daredevils,won,13712,16:00:00,25,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+526,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",527
+527,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",308
+528,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",1836
+529,Shakib Al Hasan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",544
+530,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",790
+531,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",640
+532,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",7915
+533,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",26
+534,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",8358
+535,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",1465
+536,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",7662
+537,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",6349
+538,Axar Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",8808
+539,George Bailey,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,13714,16:00:00,28,2014,5,"Eden Gardens, Kolkata",1440
+540,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,won,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",26
+541,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",8358
+542,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,won,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",7662
+543,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,won,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",6349
+544,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,won,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",1440
+545,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",1465
+546,Mitchell Johnson,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,won,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",496
+547,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",255
+548,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",7825
+549,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",413
+550,Brendon McCullum,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",201
+551,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",587
+552,David Hussey,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",562
+553,MS Dhoni,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13716,20:00:00,30,2014,5,"Wankhede Stadium, Mumbai",265
+554,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",26
+555,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",8358
+556,George Bailey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",1440
+557,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",1465
+558,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",7662
+559,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",6349
+560,8,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",
+561,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",527
+562,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",308
+563,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",1836
+564,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",790
+565,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",544
+566,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",640
+567,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,13717,20:00:00,1,2014,6,"M.Chinnaswamy Stadium, Bengaluru",7915
+568,Gautam Gambhir,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,won,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",308
+569,Jacques Kallis,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,won,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",213
+570,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,won,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1836
+571,Robin Uthappa,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,won,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",527
+572,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,won,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",790
+573,Shakib Al Hasan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,won,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",544
+574,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,won,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7915
+575,Michael Hussey,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",4772
+576,Aditya Tare,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",6315
+577,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",6311
+578,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",576
+579,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",657
+580,Corey Anderson,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8982
+581,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,13637,20:00:00,16,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",75
+582,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1643
+583,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1446
+584,David Warner,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1739
+585,KL Rahul,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8733
+586,Daren Sammy,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",253
+587,Venugopal Rao,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",412
+588,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1844
+589,Abhishek Nayar,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1463
+590,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1447
+591,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8271
+592,Shane Watson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",158
+593,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1530
+594,Brad Hodge,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",283
+595,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,13640,20:00:00,18,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1468
+596,Jacques Kallis,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",213
+597,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",308
+598,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",1836
+599,Robin Uthappa,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",527
+600,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",544
+601,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",790
+602,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",7915
+603,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",1597
+604,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",2195
+605,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",145
+606,Ross Taylor,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",521
+607,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",211
+608,Manoj Tiwary,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",694
+609,James Neesham,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,13642,20:00:00,19,2014,4,"Dubai International Cricket Stadium, Dubai",8983
+610,Michael Hussey,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",4772
+611,Aditya Tare,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",6315
+612,Corey Anderson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",8982
+613,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",576
+614,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",657
+615,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",6311
+616,CM Gautam,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",1852
+617,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",255
+618,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",201
+619,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",413
+620,Faf du Plessis,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",7825
+621,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",265
+622,7,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+623,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,13649,20:00:00,25,2014,4,"Dubai International Cricket Stadium, Dubai",
+624,Cheteshwar Pujara,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1448
+625,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",26
+626,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1465
+627,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7662
+628,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",6349
+629,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1440
+630,Rishi Dhawan,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",8616
+631,Manish Pandey,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",1836
+632,Jacques Kallis,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",213
+633,Gautam Gambhir,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",308
+634,Chris Lynn,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7752
+635,Robin Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",527
+636,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",790
+637,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,13651,20:00:00,26,2014,4,"Sheikh Zayed Stadium, Abu Dhabi",7915
+638,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",1643
+639,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",1446
+640,David Warner,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",1739
+641,KL Rahul,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",8733
+642,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",412
+643,Daren Sammy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",253
+644,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",1844
+645,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",255
+646,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",201
+647,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",413
+648,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",265
+649,Faf du Plessis,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",7825
+650,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",587
+651,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,13653,20:00:00,27,2014,4,"Sharjah Cricket Stadium, Sharjah",597
+652,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rajasthan Royals,lost,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",8520
+653,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",1597
+654,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rajasthan Royals,lost,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",395
+655,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rajasthan Royals,lost,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",145
+656,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rajasthan Royals,lost,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",211
+657,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",1851
+658,Wayne Parnell,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,lost,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",1692
+659,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Daredevils,won,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",1447
+660,Karun Nair,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",8257
+661,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Daredevils,won,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",8271
+662,Rajat Bhatia,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Daredevils,won,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",1468
+663,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Daredevils,won,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",158
+664,4,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",
+665,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,won,13680,20:00:00,3,2014,5,"Arun Jaitley Stadium, Delhi",
+666,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Chennai Super Kings,lost,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",8520
+667,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Chennai Super Kings,lost,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",1597
+668,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Chennai Super Kings,lost,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",395
+669,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Chennai Super Kings,lost,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",145
+670,Laxmi Shukla,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Chennai Super Kings,lost,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",1600
+671,Jean-Paul Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Chennai Super Kings,lost,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",211
+672,Kedar Jadhav,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Chennai Super Kings,lost,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",1851
+673,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",255
+674,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",201
+675,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",413
+676,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",265
+677,11,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",
+678,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",
+679,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",
+680,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",
+681,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,won,13683,20:00:00,5,2014,5,"Arun Jaitley Stadium, Delhi",
+682,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,won,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",26
+683,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",6319
+684,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,won,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",7662
+685,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,won,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",6349
+686,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,won,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",1440
+687,Mitchell Johnson,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",496
+688,10,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,won,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",
+689,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",255
+690,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",201
+691,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",413
+692,Ravindra Jadeja,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",587
+693,Faf du Plessis,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",7825
+694,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",265
+695,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,lost,13686,20:00:00,7,2014,5,"Barabati Stadium, Cuttack",597
+696,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",599
+697,CM Gautam,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",1852
+698,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",6311
+699,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",576
+700,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",657
+701,Corey Anderson,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",8982
+702,Aditya Tare,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",6315
+703,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",255
+704,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",201
+705,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",413
+706,Faf du Plessis,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",7825
+707,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",265
+708,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",587
+709,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,13690,20:00:00,10,2014,5,"Wankhede Stadium, Mumbai",597
+710,Virat Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+711,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",247
+712,Vijay Zol,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",8258
+713,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",370
+714,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",69
+715,Albie Morkel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",484
+716,Parthiv Patel,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",74
+717,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1447
+718,Karun Nair,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",8257
+719,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",158
+720,Stuart Binny,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1530
+721,Sanju Samson,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",8271
+722,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",2250
+723,James Faulkner,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,13692,20:00:00,11,2014,5,"M.Chinnaswamy Stadium, Bengaluru",7789
+724,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",247
+725,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",74
+726,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+727,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",370
+728,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",69
+729,Sachin Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1891
+730,9,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",
+731,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1597
+732,Quinton de Kock,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",8520
+733,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",2195
+734,Kevin Pietersen,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",395
+735,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",211
+736,Dinesh Karthik,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",145
+737,Kedar Jadhav,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,13695,20:00:00,13,2014,5,"M.Chinnaswamy Stadium, Bengaluru",1851
+738,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",599
+739,CM Gautam,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",1852
+740,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",6311
+741,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",576
+742,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",8982
+743,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",657
+744,Aditya Tare,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",6315
+745,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,won,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",527
+746,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,won,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",308
+747,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,won,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",1836
+748,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,won,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",790
+749,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,won,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",544
+750,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,won,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",640
+751,5,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,won,13697,20:00:00,14,2014,5,"Barabati Stadium, Cuttack",
+752,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1643
+753,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+754,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+755,David Warner,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+756,KL Rahul,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",8733
+757,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",73
+758,Daren Sammy,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",253
+759,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",527
+760,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",308
+761,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",1836
+762,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",790
+763,Ryan ten Doeschate,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",640
+764,1,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+765,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13700,20:00:00,18,2014,5,"Rajiv Gandhi International Stadium, Hyderabad",
+766,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",1597
+767,Kevin Pietersen,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",395
+768,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",145
+769,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",211
+770,Kedar Jadhav,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",1851
+771,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",2195
+772,Manoj Tiwary,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kings XI Punjab,lost,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",694
+773,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Daredevils,won,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",26
+774,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",8358
+775,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Daredevils,won,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",7662
+776,David Miller,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Daredevils,won,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",6349
+777,Wriddhiman Saha,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Daredevils,won,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",1465
+778,Axar Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",8808
+779,George Bailey,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Daredevils,won,13702,20:00:00,19,2014,5,"Arun Jaitley Stadium, Delhi",1440
+780,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",255
+781,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",201
+782,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",413
+783,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",7825
+784,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",265
+785,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",587
+786,3,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",
+787,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",527
+788,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",308
+789,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",1836
+790,Shakib Al Hasan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",544
+791,4,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",
+792,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",
+793,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",
+794,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",
+795,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,13704,20:00:00,20,2014,5,"Eden Gardens, Kolkata",
+796,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",255
+797,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",7825
+798,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",413
+799,David Hussey,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",562
+800,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",265
+801,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",
+802,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Sunrisers Hyderabad,lost,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",
+803,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",1739
+804,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",1446
+805,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",1599
+806,Aaron Finch,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",1643
+807,Daren Sammy,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",253
+808,Venugopal Rao,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",412
+809,5,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Chennai Super Kings,won,13707,20:00:00,22,2014,5,"JSCA International Stadium Complex, Ranchi",
+810,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Rajasthan Royals,won,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",26
+811,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+812,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Rajasthan Royals,won,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+813,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Rajasthan Royals,won,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+814,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,won,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+815,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1440
+816,14,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,won,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+817,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kings XI Punjab,lost,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1447
+818,Karun Nair,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kings XI Punjab,lost,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8257
+819,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kings XI Punjab,lost,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8271
+820,Shane Watson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kings XI Punjab,lost,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",158
+821,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kings XI Punjab,lost,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1530
+822,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kings XI Punjab,lost,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",9693
+823,Brad Hodge,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kings XI Punjab,lost,13709,20:00:00,23,2014,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",283
+824,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",1739
+825,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",1446
+826,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",1599
+827,Venugopal Rao,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",412
+828,Daren Sammy,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",253
+829,Srikkanth Anirudha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",1810
+830,Jason Holder,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",8313
+831,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",527
+832,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",308
+833,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",1836
+834,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",790
+835,Ryan ten Doeschate,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",640
+836,Shakib Al Hasan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",544
+837,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,13711,20:00:00,24,2014,5,"Eden Gardens, Kolkata",7915
+838,Shane Watson,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Mumbai Indians,lost,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",158
+839,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",8271
+840,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Mumbai Indians,lost,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",8257
+841,Brad Hodge,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Mumbai Indians,lost,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",283
+842,James Faulkner,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Mumbai Indians,lost,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",7789
+843,Kevon Cooper,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",1611
+844,5,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Mumbai Indians,lost,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",
+845,Lendl Simmons,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Rajasthan Royals,won,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",599
+846,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Rajasthan Royals,won,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",4772
+847,Corey Anderson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Rajasthan Royals,won,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",8982
+848,Kieron Pollard,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,won,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",657
+849,Rohit Sharma,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,won,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",576
+850,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",6311
+851,Aditya Tare,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,13713,20:00:00,25,2014,5,"Wankhede Stadium, Mumbai",6315
+852,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",599
+853,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",4772
+854,Corey Anderson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",8982
+855,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",576
+856,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",657
+857,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",6311
+858,Aditya Tare,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",6315
+859,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",255
+860,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",7825
+861,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",413
+862,Brendon McCullum,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",201
+863,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",562
+864,9,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",
+865,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,13715,20:00:00,28,2014,5,"Brabourne Stadium, Mumbai",

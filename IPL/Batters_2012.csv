@@ -1,0 +1,1099 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Brendon McCullum,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",201
+1,Jacques Kallis,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",213
+2,Gautam Gambhir,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",308
+3,Manoj Tiwary,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",694
+4,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",790
+5,Debabrata Das,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",1829
+6,Laxmi Shukla,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",1600
+7,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",1643
+8,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",26
+9,Irfan Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",73
+10,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",7662
+11,5,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",
+12,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",
+13,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",
+14,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",
+15,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,11182,20:00:00,5,2012,4,"Eden Gardens, Kolkata",
+16,Manish Pandey,not out,31,14,3,2,221.43,Inn1,Pune Warriors,Mumbai Indians,won,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",1836
+17,Sourav Ganguly,b Pathan,13,10,0,1,130.00,Inn1,Pune Warriors,Mumbai Indians,won,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",29
+18,Wayne Parnell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Pune Warriors,Mumbai Indians,won,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",1692
+19,Robin Uthappa,not out,116,54,8,9,214.81,Inn1,Pune Warriors,Mumbai Indians,won,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",527
+20,Callum Ferguson,lbw b Hopes,2,3,0,0,66.67,Inn1,Pune Warriors,Mumbai Indians,won,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",1745
+21,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Pune Warriors,Mumbai Indians,won,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",2250
+22,Marlon Samuels,b Pathan,25,17,4,1,147.06,Inn1,Pune Warriors,Mumbai Indians,won,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",356
+23,Richard Levi,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Pune Warriors,lost,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",2234
+24,Ambati Rayudu,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Pune Warriors,lost,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",6311
+25,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Pune Warriors,lost,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",576
+26,James Franklin,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Pune Warriors,lost,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",419
+27,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Pune Warriors,lost,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",145
+28,Suryakumar Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Pune Warriors,lost,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",7915
+29,Kieron Pollard,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Pune Warriors,lost,11183,16:00:00,6,2012,4,"Wankhede Stadium, Mumbai",657
+30,Andrew McDonald,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1645
+31,Cheteshwar Pujara,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1448
+32,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+33,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",370
+34,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1601
+35,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",2195
+36,Daniel Vettori,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",205
+37,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1643
+38,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",26
+39,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1599
+40,Venugopal Rao,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",412
+41,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",7662
+42,Yogesh Nagar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1800
+43,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11185,16:00:00,7,2012,4,"M.Chinnaswamy Stadium, Bengaluru",73
+44,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",27
+45,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",1447
+46,Shreevats Goswami,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",1807
+47,Ashok Menaria,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",7846
+48,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",283
+49,Owais Shah,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",520
+50,Kevon Cooper,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",1611
+51,Jacques Kallis,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",213
+52,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",201
+53,Gautam Gambhir,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",308
+54,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",694
+55,Debabrata Das,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",1829
+56,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",790
+57,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,11187,16:00:00,8,2012,4,"Sawai Mansingh Stadium, Jaipur",1468
+58,Parthiv Patel,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Mumbai Indians,lost,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",74
+59,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Mumbai Indians,lost,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1446
+60,Bharath Chipli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Mumbai Indians,lost,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1806
+61,Daniel Christian,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Mumbai Indians,lost,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6283
+62,Kumar Sangakkara,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Mumbai Indians,lost,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",104
+63,Cameron White,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Mumbai Indians,lost,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",282
+64,Dwaraka Ravi Teja,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Mumbai Indians,lost,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1464
+65,Tirumalsetti Suman,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Deccan Chargers,won,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1903
+66,Richard Levi,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Deccan Chargers,won,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2234
+67,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Deccan Chargers,won,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",576
+68,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Deccan Chargers,won,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6311
+69,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Deccan Chargers,won,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",657
+70,Dinesh Karthik,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Deccan Chargers,won,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",145
+71,James Franklin,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Deccan Chargers,won,11189,20:00:00,9,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",419
+72,Jacques Kallis,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",213
+73,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",308
+74,Manvinder Bisla,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1901
+75,Yusuf Pathan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",790
+76,Manoj Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",694
+77,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",640
+78,Shakib Al Hasan,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",544
+79,Cheteshwar Pujara,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1448
+80,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",247
+81,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+82,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",370
+83,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1601
+84,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",2195
+85,Daniel Vettori,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11190,16:00:00,10,2012,4,"M.Chinnaswamy Stadium, Bengaluru",205
+86,Richard Levi,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,won,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",2234
+87,Tirumalsetti Suman,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,won,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",1903
+88,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,won,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",576
+89,Ambati Rayudu,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,won,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",6311
+90,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,won,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",657
+91,Dinesh Karthik,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,won,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",145
+92,James Franklin,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,won,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",419
+93,Rahul Dravid,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,lost,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",27
+94,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",1447
+95,Shreevats Goswami,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,lost,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",1807
+96,Owais Shah,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,lost,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",520
+97,Ashok Menaria,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,lost,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",7846
+98,Johan Botha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",487
+99,Kevon Cooper,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,lost,11192,20:00:00,11,2012,4,"Wankhede Stadium, Mumbai",1611
+100,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",2195
+101,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",247
+102,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",1413
+103,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",370
+104,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",1601
+105,Raju Bhatkal,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",1853
+106,Cheteshwar Pujara,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",1448
+107,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",1597
+108,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",7825
+109,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",413
+110,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",265
+111,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",242
+112,Albie Morkel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",484
+113,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,11193,16:00:00,12,2012,4,"MA Chidambaram Stadium, Chennai",587
+114,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",27
+115,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",1447
+116,Ashok Menaria,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",7846
+117,Shreevats Goswami,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",1807
+118,Owais Shah,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",520
+119,Brad Hodge,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",283
+120,Johan Botha,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",487
+121,Jacques Kallis,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",213
+122,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",308
+123,Manvinder Bisla,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",1901
+124,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",694
+125,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",544
+126,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",790
+127,Ryan ten Doeschate,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,11195,20:00:00,13,2012,4,"Eden Gardens, Kolkata",640
+128,Faf du Plessis,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Pune Warriors,lost,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",7825
+129,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Pune Warriors,lost,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",1597
+130,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Pune Warriors,lost,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",413
+131,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Pune Warriors,lost,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",265
+132,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Pune Warriors,lost,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",587
+133,Albie Morkel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Pune Warriors,lost,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",484
+134,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Pune Warriors,lost,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",242
+135,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Chennai Super Kings,won,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",527
+136,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Chennai Super Kings,won,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",583
+137,Sourav Ganguly,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Chennai Super Kings,won,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",29
+138,Marlon Samuels,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Chennai Super Kings,won,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",356
+139,Steven Smith,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Chennai Super Kings,won,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",2250
+140,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Chennai Super Kings,won,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+141,,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Chennai Super Kings,won,11197,20:00:00,14,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+142,Adam Gilchrist,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",36
+143,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",6319
+144,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",563
+145,David Hussey,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",562
+146,Paras Dogra,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",1860
+147,Bipul Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",6296
+148,Dimitri Mascarenhas,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,won,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",741
+149,Jacques Kallis,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",213
+150,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",308
+151,Manvinder Bisla,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",1901
+152,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",694
+153,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",544
+154,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",790
+155,Debabrata Das,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,lost,11198,16:00:00,15,2012,4,"Eden Gardens, Kolkata",1829
+156,Richard Levi,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,lost,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",2234
+157,Davy Jacobs,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",7911
+158,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,lost,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",576
+159,Ambati Rayudu,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,lost,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",6311
+160,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,lost,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",657
+161,Dinesh Karthik,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",145
+162,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,lost,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",75
+163,Naman Ojha,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,won,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",1599
+164,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,won,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",26
+165,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,won,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",395
+166,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,won,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",101
+167,Ross Taylor,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,won,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",521
+168,11,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,won,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",
+169,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,won,11200,20:00:00,16,2012,4,"Wankhede Stadium, Mumbai",
+170,Kumar Sangakkara,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",104
+171,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",1446
+172,Daniel Christian,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",6283
+173,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",211
+174,13,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",
+175,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",
+176,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",
+177,,b Pathan,25,10,3,0,150.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",
+178,,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Rajasthan Royals,lost,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",
+179,Rahul Dravid,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Deccan Chargers,won,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",27
+180,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Deccan Chargers,won,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",1447
+181,Ashok Menaria,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Deccan Chargers,won,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",7846
+182,Owais Shah,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Deccan Chargers,won,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",520
+183,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Deccan Chargers,won,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",283
+184,Johan Botha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Deccan Chargers,won,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",487
+185,Dishant Yagnik,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Deccan Chargers,won,11201,16:00:00,17,2012,4,"Sawai Mansingh Stadium, Jaipur",7845
+186,Adam Gilchrist,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",36
+187,Paul Valthaty,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1865
+188,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+189,Mandeep Singh,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6319
+190,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",562
+191,Paras Dogra,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1860
+192,Dimitri Mascarenhas,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",741
+193,Brendon McCullum,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",201
+194,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",308
+195,Manvinder Bisla,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1901
+196,Jacques Kallis,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",213
+197,5,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+198,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+199,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+200,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+201,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,11203,20:00:00,18,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+202,Kumar Sangakkara,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Delhi Daredevils,lost,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",104
+203,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",1446
+204,Parthiv Patel,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Delhi Daredevils,lost,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",74
+205,Daniel Christian,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Delhi Daredevils,lost,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",6283
+206,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Delhi Daredevils,lost,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",211
+207,Bharath Chipli,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",1806
+208,Abhishek Jhunjhunwala,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Delhi Daredevils,lost,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",6290
+209,Naman Ojha,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Deccan Chargers,won,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",1599
+210,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Deccan Chargers,won,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",26
+211,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Deccan Chargers,won,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",395
+212,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Deccan Chargers,won,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",101
+213,Ross Taylor,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",521
+214,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",73
+215,Yogesh Nagar,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,11204,16:00:00,19,2012,4,"Arun Jaitley Stadium, Delhi",1800
+216,Nitin Saini,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1826
+217,Paul Valthaty,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1865
+218,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+219,David Hussey,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",562
+220,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+221,Mandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6319
+222,Azhar Mahmood,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",206
+223,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2195
+224,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",247
+225,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1413
+226,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1601
+227,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",370
+228,Andrew McDonald,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1645
+229,Daniel Vettori,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,11206,20:00:00,20,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",205
+230,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",27
+231,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",1447
+232,Owais Shah,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",520
+233,Ashok Menaria,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",7846
+234,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",283
+235,14,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",
+236,,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",
+237,S Badrinath,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Rajasthan Royals,won,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",574
+238,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",7825
+239,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Rajasthan Royals,won,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",413
+240,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Rajasthan Royals,won,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",265
+241,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Rajasthan Royals,won,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",242
+242,2,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",
+243,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Rajasthan Royals,won,11207,16:00:00,21,2012,4,"MA Chidambaram Stadium, Chennai",
+244,James Franklin,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kings XI Punjab,lost,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",419
+245,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kings XI Punjab,lost,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",25
+246,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kings XI Punjab,lost,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",576
+247,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kings XI Punjab,lost,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",145
+248,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kings XI Punjab,lost,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",657
+249,Harbhajan Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kings XI Punjab,lost,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",75
+250,Thisara Perera,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kings XI Punjab,lost,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",2281
+251,Nitin Saini,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Mumbai Indians,won,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",1826
+252,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Mumbai Indians,won,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",6319
+253,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Mumbai Indians,won,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",563
+254,David Hussey,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Mumbai Indians,won,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",562
+255,Azhar Mahmood,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Mumbai Indians,won,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",206
+256,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Mumbai Indians,won,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",6349
+257,6,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Mumbai Indians,won,11209,16:00:00,22,2012,4,"Wankhede Stadium, Mumbai",
+258,Virat Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",1413
+259,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",105
+260,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",2195
+261,Chris Gayle,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",247
+262,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",370
+263,19,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",
+264,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",
+265,Rahul Dravid,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",27
+266,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",1447
+267,Owais Shah,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",520
+268,Shreevats Goswami,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",1807
+269,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",283
+270,Stuart Binny,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",1530
+271,Kevon Cooper,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,11211,20:00:00,23,2012,4,"Sawai Mansingh Stadium, Jaipur",1611
+272,Jesse Ryder,not out,31,14,3,2,221.43,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",583
+273,Manish Pandey,b Pathan,13,10,0,1,130.00,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",1836
+274,Sourav Ganguly,c Pathan b Mota,32,13,2,3,246.15,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",29
+275,Robin Uthappa,not out,116,54,8,9,214.81,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",527
+276,5,lbw b Hopes,2,3,0,0,66.67,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+277,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+278,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+279,,b Pathan,25,10,3,0,150.00,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+280,,b Pathan,25,17,4,1,147.06,Inn1,Pune Warriors,Delhi Daredevils,lost,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+281,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",101
+282,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",26
+283,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",395
+284,Ross Taylor,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",521
+285,7,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+286,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+287,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+288,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+289,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Pune Warriors,won,11212,16:00:00,24,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+290,Nitin Saini,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,lost,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1826
+291,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6319
+292,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,lost,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+293,David Hussey,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,lost,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",562
+294,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,lost,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+295,10,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+296,,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,lost,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+297,James Franklin,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,won,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",419
+298,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,won,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",25
+299,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,won,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",576
+300,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,won,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",145
+301,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,won,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",657
+302,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,won,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6311
+303,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,won,11214,16:00:00,25,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",75
+304,Parthiv Patel,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Pune Warriors,won,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",74
+305,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Pune Warriors,won,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",1446
+306,Cameron White,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Pune Warriors,won,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",282
+307,Kumar Sangakkara,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Pune Warriors,won,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",104
+308,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Pune Warriors,won,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",211
+309,Ishank Jaggi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Pune Warriors,won,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",1855
+310,11,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Pune Warriors,won,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",
+311,Manish Pandey,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Deccan Chargers,lost,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",1836
+312,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Deccan Chargers,lost,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",583
+313,Sourav Ganguly,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Deccan Chargers,lost,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",29
+314,Robin Uthappa,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Deccan Chargers,lost,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",527
+315,Marlon Samuels,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Deccan Chargers,lost,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",356
+316,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Deccan Chargers,lost,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",2250
+317,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Deccan Chargers,lost,11216,20:00:00,26,2012,4,"Maharashtra Cricket Association Stadium, Pune",597
+318,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Mumbai Indians,won,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",101
+319,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Mumbai Indians,won,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",26
+320,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Mumbai Indians,won,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",395
+321,Irfan Pathan,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Mumbai Indians,won,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",73
+322,Ross Taylor,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Mumbai Indians,won,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",521
+323,Yogesh Nagar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Mumbai Indians,won,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",1800
+324,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Mumbai Indians,won,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",1599
+325,Aiden Blizzard,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Daredevils,lost,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",1641
+326,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",25
+327,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Daredevils,lost,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",576
+328,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Daredevils,lost,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",145
+329,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Daredevils,lost,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",6311
+330,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",657
+331,Robin Peterson,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Daredevils,lost,11217,20:00:00,27,2012,4,"Arun Jaitley Stadium, Delhi",318
+332,Mandeep Singh,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,won,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",6319
+333,Shaun Marsh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",563
+334,Azhar Mahmood,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,won,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",206
+335,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,won,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",6349
+336,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,won,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",562
+337,Bipul Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",6296
+338,Piyush Chawla,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,won,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",466
+339,Faf du Plessis,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,lost,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",7825
+340,S Badrinath,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",574
+341,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,lost,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",413
+342,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,lost,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",1465
+343,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,lost,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",587
+344,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",265
+345,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,lost,11218,16:00:00,28,2012,4,"MA Chidambaram Stadium, Chennai",242
+346,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rajasthan Royals,won,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",101
+347,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rajasthan Royals,won,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",26
+348,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rajasthan Royals,won,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",395
+349,Ross Taylor,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rajasthan Royals,won,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",521
+350,Yogesh Nagar,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rajasthan Royals,won,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",1800
+351,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,won,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",1599
+352,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,won,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",73
+353,Rahul Dravid,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",27
+354,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",1447
+355,Brad Hodge,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",283
+356,Owais Shah,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",520
+357,4,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",
+358,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",
+359,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",
+360,,b Pathan,25,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",
+361,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,lost,11220,16:00:00,29,2012,4,"Arun Jaitley Stadium, Delhi",
+362,Faf du Plessis,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",7825
+363,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",4772
+364,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",413
+365,Dwayne Bravo,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",242
+366,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",265
+367,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",587
+368,Albie Morkel,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",484
+369,Gautam Gambhir,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",308
+370,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",201
+371,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",213
+372,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",694
+373,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",790
+374,Debabrata Das,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",1829
+375,Laxmi Shukla,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11222,20:00:00,30,2012,4,"MA Chidambaram Stadium, Chennai",1600
+376,Parthiv Patel,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Pune Warriors,won,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",74
+377,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Pune Warriors,won,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",1446
+378,Cameron White,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Pune Warriors,won,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",282
+379,Kumar Sangakkara,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Pune Warriors,won,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",104
+380,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Pune Warriors,won,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",211
+381,Biplab Samantray,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Pune Warriors,won,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",8285
+382,11,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Pune Warriors,won,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",
+383,Manish Pandey,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Deccan Chargers,lost,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",1836
+384,Michael Clarke,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Deccan Chargers,lost,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",138
+385,Sourav Ganguly,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Deccan Chargers,lost,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",29
+386,Steven Smith,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Deccan Chargers,lost,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",2250
+387,Robin Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Deccan Chargers,lost,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",527
+388,Mithun Manhas,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Deccan Chargers,lost,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",597
+389,Marlon Samuels,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Deccan Chargers,lost,11223,16:00:00,1,2012,5,"Barabati Stadium, Cuttack",356
+390,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",2195
+391,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",247
+392,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+393,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",370
+394,Andrew McDonald,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1645
+395,Asad Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",7902
+396,Saurabh Tiwary,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1601
+397,Mandeep Singh,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",6319
+398,Shaun Marsh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",563
+399,Nitin Saini,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1826
+400,David Hussey,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",562
+401,Azhar Mahmood,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",206
+402,Abhishek Nayar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1463
+403,Paras Dogra,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,11225,20:00:00,2,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1860
+404,James Franklin,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Pune Warriors,won,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",419
+405,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Pune Warriors,won,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",25
+406,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Pune Warriors,won,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",576
+407,Robin Peterson,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Pune Warriors,won,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",318
+408,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Pune Warriors,won,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",145
+409,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Pune Warriors,won,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",6311
+410,Thisara Perera,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Pune Warriors,won,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",2281
+411,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Mumbai Indians,lost,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",527
+412,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Mumbai Indians,lost,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",583
+413,Michael Clarke,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Mumbai Indians,lost,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",138
+414,Sourav Ganguly,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Mumbai Indians,lost,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",29
+415,Steven Smith,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Mumbai Indians,lost,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",2250
+416,Mithun Manhas,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Mumbai Indians,lost,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",597
+417,Wayne Parnell,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Mumbai Indians,lost,11226,20:00:00,3,2012,5,"Maharashtra Cricket Association Stadium, Pune",1692
+418,Faf du Plessis,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Deccan Chargers,won,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",7825
+419,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Deccan Chargers,won,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",1597
+420,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Deccan Chargers,won,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",413
+421,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Deccan Chargers,won,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",265
+422,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Deccan Chargers,won,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",484
+423,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Deccan Chargers,won,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",587
+424,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Deccan Chargers,won,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",242
+425,Parthiv Patel,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Chennai Super Kings,lost,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",74
+426,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Chennai Super Kings,lost,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",1446
+427,Cameron White,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Chennai Super Kings,lost,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",282
+428,Kumar Sangakkara,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Chennai Super Kings,lost,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",104
+429,Daniel Christian,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Chennai Super Kings,lost,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",6283
+430,Ashish Reddy,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Chennai Super Kings,lost,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",6301
+431,Abhishek Jhunjhunwala,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Chennai Super Kings,lost,11227,20:00:00,4,2012,5,"MA Chidambaram Stadium, Chennai",6290
+432,Gautam Gambhir,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Pune Warriors,won,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",308
+433,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Pune Warriors,won,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",201
+434,Yusuf Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Pune Warriors,won,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",790
+435,Jacques Kallis,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Pune Warriors,won,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",213
+436,Debabrata Das,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Pune Warriors,won,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",1829
+437,Laxmi Shukla,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Pune Warriors,won,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",1600
+438,Manoj Tiwary,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Pune Warriors,won,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",694
+439,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",527
+440,Michael Clarke,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",138
+441,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",1836
+442,Steven Smith,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",2250
+443,Mithun Manhas,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",597
+444,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",1629
+445,Sourav Ganguly,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11228,16:00:00,5,2012,5,"Eden Gardens, Kolkata",29
+446,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,lost,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",1597
+447,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",7825
+448,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,lost,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",413
+449,Dwayne Bravo,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,lost,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",242
+450,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,lost,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",265
+451,Albie Morkel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",484
+452,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,lost,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",587
+453,James Franklin,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,won,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",419
+454,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,won,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",25
+455,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,won,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",576
+456,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",145
+457,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",6311
+458,Dwayne Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",255
+459,Robin Peterson,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,11230,16:00:00,6,2012,5,"Wankhede Stadium, Mumbai",318
+460,David Warner,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",1739
+461,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",26
+462,Mahela Jayawardene,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",101
+463,Ross Taylor,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",521
+464,Irfan Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",73
+465,Yogesh Nagar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",1800
+466,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",1599
+467,Brendon McCullum,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",201
+468,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",308
+469,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",213
+470,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",694
+471,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",790
+472,Debabrata Das,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",1829
+473,16,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,11232,20:00:00,7,2012,5,"Arun Jaitley Stadium, Delhi",
+474,Sourav Ganguly,not out,31,14,3,2,221.43,Inn1,Pune Warriors,Rajasthan Royals,lost,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",29
+475,Michael Clarke,b Pathan,13,10,0,1,130.00,Inn1,Pune Warriors,Rajasthan Royals,lost,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",138
+476,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Pune Warriors,Rajasthan Royals,lost,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",527
+477,Anustup Majumdar,not out,116,54,8,9,214.81,Inn1,Pune Warriors,Rajasthan Royals,lost,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",8259
+478,Steven Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Pune Warriors,Rajasthan Royals,lost,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",2250
+479,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Pune Warriors,Rajasthan Royals,lost,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",1629
+480,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn1,Pune Warriors,Rajasthan Royals,lost,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",597
+481,Rahul Dravid,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Pune Warriors,won,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",27
+482,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Pune Warriors,won,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",1447
+483,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Pune Warriors,won,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",158
+484,Ashok Menaria,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Pune Warriors,won,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",7846
+485,Owais Shah,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Pune Warriors,won,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",520
+486,"(b , lb , w , nb , p )",c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Pune Warriors,won,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",
+487,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Pune Warriors,won,11233,16:00:00,8,2012,5,"Maharashtra Cricket Association Stadium, Pune",
+488,James Franklin,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",419
+489,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",25
+490,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",576
+491,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",145
+492,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",6311
+493,Dwayne Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",255
+494,Kieron Pollard,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",657
+495,Tillakaratne Dilshan,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",105
+496,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",247
+497,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",1413
+498,5,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+499,,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+500,,lbw b Hopes,2,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+501,,lbw b Hopes,2,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+502,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+503,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+504,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+505,,b Pathan,25,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+506,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+507,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,11235,20:00:00,9,2012,5,"Wankhede Stadium, Mumbai",
+508,Daniel Harris,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Delhi Daredevils,lost,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",7656
+509,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+510,Kumar Sangakkara,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Delhi Daredevils,lost,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",104
+511,Cameron White,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Delhi Daredevils,lost,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",282
+512,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Delhi Daredevils,lost,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",211
+513,Parthiv Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+514,2,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Delhi Daredevils,lost,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+515,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",26
+516,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+517,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+518,16,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+519,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+520,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+521,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+522,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+523,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+524,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+525,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+526,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+527,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,11196,16:00:00,10,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",
+528,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Pune Warriors,won,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",247
+529,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Pune Warriors,won,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",105
+530,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Pune Warriors,won,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",1413
+531,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Pune Warriors,won,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",1601
+532,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Pune Warriors,won,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",370
+533,9,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Pune Warriors,won,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",
+534,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Pune Warriors,won,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",
+535,Mohnish Mishra,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Royal Challengers Bangalore,lost,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",6303
+536,Michael Clarke,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Royal Challengers Bangalore,lost,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",138
+537,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Royal Challengers Bangalore,lost,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",1836
+538,Robin Uthappa,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Royal Challengers Bangalore,lost,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",527
+539,Anustup Majumdar,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Royal Challengers Bangalore,lost,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",8259
+540,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Royal Challengers Bangalore,lost,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",1629
+541,Steven Smith,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Royal Challengers Bangalore,lost,11237,20:00:00,11,2012,5,"Maharashtra Cricket Association Stadium, Pune",2250
+542,Herschelle Gibbs,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",212
+543,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",25
+544,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",576
+545,5,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+546,,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+547,,lbw b Hopes,2,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+548,,lbw b Hopes,2,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+549,,c Sangakkara b Lee,15,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+550,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+551,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+552,,b Pathan,25,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+553,,b Pathan,25,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+554,,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+555,Manvinder Bisla,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",1901
+556,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",308
+557,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",213
+558,Manoj Tiwary,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",694
+559,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",790
+560,Debabrata Das,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",1829
+561,4,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,11238,16:00:00,12,2012,5,"Eden Gardens, Kolkata",
+562,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Pune Warriors,won,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",27
+563,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Pune Warriors,won,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",1447
+564,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Pune Warriors,won,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",158
+565,Brad Hodge,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Pune Warriors,won,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",283
+566,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Pune Warriors,won,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",1530
+567,Johan Botha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Pune Warriors,won,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",487
+568,3,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Pune Warriors,won,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",
+569,Sourav Ganguly,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Rajasthan Royals,lost,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",29
+570,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Rajasthan Royals,lost,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",583
+571,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Rajasthan Royals,lost,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",527
+572,Anustup Majumdar,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Rajasthan Royals,lost,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",8259
+573,Callum Ferguson,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Rajasthan Royals,lost,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",1745
+574,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Rajasthan Royals,lost,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",2250
+575,Angelo Mathews,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Rajasthan Royals,lost,11240,16:00:00,13,2012,5,"Sawai Mansingh Stadium, Jaipur",1629
+576,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",247
+577,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",105
+578,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+579,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1601
+580,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",370
+581,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",2195
+582,Vinay Kumar,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1449
+583,Herschelle Gibbs,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",212
+584,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",25
+585,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",576
+586,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",145
+587,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",6311
+588,Dwayne Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",255
+589,Kieron Pollard,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,11242,16:00:00,14,2012,5,"M.Chinnaswamy Stadium, Bengaluru",657
+590,Mandeep Singh,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",6319
+591,Shaun Marsh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",563
+592,Nitin Saini,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",1826
+593,David Hussey,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",562
+594,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",6349
+595,Azhar Mahmood,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",206
+596,Gurkeerat Singh Mann,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",8298
+597,David Warner,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,won,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",1739
+598,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",26
+599,Venugopal Rao,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,won,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",412
+600,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",101
+601,Ross Taylor,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",521
+602,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",1599
+603,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,11244,20:00:00,15,2012,5,"Arun Jaitley Stadium, Delhi",73
+604,Gautam Gambhir,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,won,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",308
+605,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,won,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",201
+606,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,won,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",213
+607,Manoj Tiwary,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,won,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",694
+608,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,won,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",544
+609,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,won,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",790
+610,Debabrata Das,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,won,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",1829
+611,Herschelle Gibbs,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",212
+612,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",25
+613,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",145
+614,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",576
+615,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",6311
+616,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",657
+617,Dwayne Smith,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,lost,11245,20:00:00,16,2012,5,"Wankhede Stadium, Mumbai",255
+618,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kings XI Punjab,lost,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1597
+619,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kings XI Punjab,lost,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",4772
+620,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kings XI Punjab,lost,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",413
+621,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kings XI Punjab,lost,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",265
+622,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kings XI Punjab,lost,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",242
+623,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kings XI Punjab,lost,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",587
+624,Albie Morkel,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kings XI Punjab,lost,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",484
+625,Adam Gilchrist,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Chennai Super Kings,won,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",36
+626,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Chennai Super Kings,won,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",6319
+627,Nitin Saini,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Chennai Super Kings,won,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1826
+628,David Hussey,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Chennai Super Kings,won,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",562
+629,Siddharth Chitnis,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Chennai Super Kings,won,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1833
+630,Azhar Mahmood,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,won,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",206
+631,5,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,won,11246,16:00:00,17,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",
+632,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Deccan Chargers,lost,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",27
+633,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Deccan Chargers,lost,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1447
+634,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Deccan Chargers,lost,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",158
+635,Stuart Binny,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Deccan Chargers,lost,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1530
+636,Owais Shah,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Deccan Chargers,lost,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",520
+637,Ashok Menaria,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Deccan Chargers,lost,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",7846
+638,Johan Botha,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Deccan Chargers,lost,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",487
+639,Akshath Reddy,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Rajasthan Royals,won,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",8284
+640,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Rajasthan Royals,won,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+641,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Rajasthan Royals,won,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",211
+642,Cameron White,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Rajasthan Royals,won,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",282
+643,Chris Lynn,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Rajasthan Royals,won,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",7752
+644,Parthiv Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Rajasthan Royals,won,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+645,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Rajasthan Royals,won,11248,20:00:00,18,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",6301
+646,Adam Gilchrist,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",36
+647,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",6319
+648,Paul Valthaty,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1865
+649,David Hussey,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",562
+650,Siddharth Chitnis,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1833
+651,Azhar Mahmood,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",206
+652,Gurkeerat Singh Mann,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,lost,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",8298
+653,Unmukt Chand,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,won,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",7904
+654,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1739
+655,Venugopal Rao,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,won,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",412
+656,Irfan Pathan,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",73
+657,Mahela Jayawardene,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",101
+658,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1599
+659,9,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,11249,16:00:00,19,2012,5,"Himachal Pradesh Cricket Association Stadium, Dharamsala",
+660,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+661,Akshath Reddy,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",8284
+662,Kumar Sangakkara,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",104
+663,Cameron White,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",282
+664,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",211
+665,Parthiv Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+666,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",6301
+667,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",247
+668,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",105
+669,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1413
+670,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1601
+671,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",370
+672,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",2195
+673,Zaheer Khan,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,11251,16:00:00,20,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",71
+674,Brendon McCullum,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",201
+675,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",308
+676,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",213
+677,Shakib Al Hasan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",544
+678,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",790
+679,Laxmi Shukla,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",1600
+680,4,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",
+681,David Warner,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",1739
+682,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",26
+683,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",1599
+684,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",101
+685,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",412
+686,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",8281
+687,Ross Taylor,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,11253,20:00:00,22,2012,5,"Maharashtra Cricket Association Stadium, Pune",521
+688,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,won,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1597
+689,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,won,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",4772
+690,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,won,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",413
+691,S Badrinath,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,won,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",574
+692,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,won,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",265
+693,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,won,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",587
+694,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,won,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",242
+695,Sachin Tendulkar,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,lost,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",25
+696,Dwayne Smith,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,lost,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",255
+697,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,lost,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",576
+698,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,lost,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",145
+699,James Franklin,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,lost,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",419
+700,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,lost,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",6311
+701,Kieron Pollard,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,lost,11254,20:00:00,23,2012,5,"M.Chinnaswamy Stadium, Bengaluru",657
+702,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,won,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",1597
+703,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",4772
+704,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,won,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",413
+705,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,won,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",265
+706,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,won,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",484
+707,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",242
+708,6,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,won,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",
+709,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,lost,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",101
+710,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",1739
+711,Virender Sehwag,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,lost,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",26
+712,Ross Taylor,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,lost,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",521
+713,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,lost,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",7736
+714,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",1599
+715,Venugopal Rao,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,lost,11255,20:00:00,25,2012,5,"MA Chidambaram Stadium, Chennai",412
+716,Michael Hussey,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",4772
+717,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",1597
+718,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",413
+719,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",265
+720,7,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",
+721,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",
+722,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",
+723,,b Pathan,25,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",
+724,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",
+725,Manvinder Bisla,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",1901
+726,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",308
+727,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",213
+728,Laxmi Shukla,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",1600
+729,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",790
+730,Shakib Al Hasan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",544
+731,Manoj Tiwary,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,11256,20:00:00,27,2012,5,"MA Chidambaram Stadium, Chennai",694
+732,Faf du Plessis,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,lost,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",7825
+733,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",1597
+734,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,lost,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",413
+735,Dwayne Bravo,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,lost,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",242
+736,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,lost,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",484
+737,S Badrinath,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",574
+738,MS Dhoni,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,lost,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",265
+739,Richard Levi,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,won,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",2234
+740,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,won,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",25
+741,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,won,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",576
+742,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",6311
+743,James Franklin,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",419
+744,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",
+745,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,11181,20:00:00,4,2012,4,"MA Chidambaram Stadium, Chennai",
+746,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,won,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",27
+747,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",1447
+748,Ashok Menaria,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,won,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",7846
+749,Brad Hodge,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,won,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",283
+750,Owais Shah,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,won,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",520
+751,Kevon Cooper,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",1611
+752,19,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,won,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",
+753,Adam Gilchrist,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",36
+754,Paul Valthaty,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",1865
+755,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",563
+756,Abhishek Nayar,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",1463
+757,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",562
+758,Mandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",6319
+759,Bipul Sharma,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11184,20:00:00,6,2012,4,"Sawai Mansingh Stadium, Jaipur",6296
+760,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Deccan Chargers,won,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1597
+761,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Deccan Chargers,won,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7825
+762,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Deccan Chargers,won,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",413
+763,S Badrinath,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Deccan Chargers,won,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",574
+764,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Deccan Chargers,won,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",587
+765,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Deccan Chargers,won,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",265
+766,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Deccan Chargers,won,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",242
+767,Daniel Harris,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Chennai Super Kings,lost,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7656
+768,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Chennai Super Kings,lost,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1446
+769,Parthiv Patel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Chennai Super Kings,lost,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",74
+770,Cameron White,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Chennai Super Kings,lost,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",282
+771,Bharath Chipli,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Chennai Super Kings,lost,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1806
+772,Daniel Christian,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Chennai Super Kings,lost,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6283
+773,Manpreet Gony,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Chennai Super Kings,lost,11186,20:00:00,7,2012,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1358
+774,Jesse Ryder,not out,31,14,3,2,221.43,Inn1,Pune Warriors,Kings XI Punjab,won,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",583
+775,Sourav Ganguly,b Pathan,13,10,0,1,130.00,Inn1,Pune Warriors,Kings XI Punjab,won,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",29
+776,Marlon Samuels,c Pathan b Mota,32,13,2,3,246.15,Inn1,Pune Warriors,Kings XI Punjab,won,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",356
+777,Robin Uthappa,not out,116,54,8,9,214.81,Inn1,Pune Warriors,Kings XI Punjab,won,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",527
+778,Callum Ferguson,lbw b Hopes,2,3,0,0,66.67,Inn1,Pune Warriors,Kings XI Punjab,won,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",1745
+779,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Pune Warriors,Kings XI Punjab,won,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",2250
+780,Manish Pandey,b Pathan,25,17,4,1,147.06,Inn1,Pune Warriors,Kings XI Punjab,won,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",1836
+781,Adam Gilchrist,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Pune Warriors,lost,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",36
+782,Paul Valthaty,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Pune Warriors,lost,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",1865
+783,Mandeep Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Pune Warriors,lost,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",6319
+784,Abhishek Nayar,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Pune Warriors,lost,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",1463
+785,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Pune Warriors,lost,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",562
+786,Piyush Chawla,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Pune Warriors,lost,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",466
+787,Dimitri Mascarenhas,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Pune Warriors,lost,11188,20:00:00,8,2012,4,"Maharashtra Cricket Association Stadium, Pune",741
+788,Faf du Plessis,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,lost,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",7825
+789,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,lost,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",1597
+790,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,lost,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",413
+791,S Badrinath,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,lost,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",574
+792,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,lost,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",587
+793,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,lost,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",242
+794,MS Dhoni,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,lost,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",265
+795,Naman Ojha,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",1599
+796,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",26
+797,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",395
+798,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",101
+799,1,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",
+800,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",
+801,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",
+802,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",
+803,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,won,11191,20:00:00,10,2012,4,"Arun Jaitley Stadium, Delhi",
+804,Jesse Ryder,not out,31,14,3,2,221.43,Inn1,Pune Warriors,Kings XI Punjab,lost,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",583
+805,Sourav Ganguly,b Pathan,13,10,0,1,130.00,Inn1,Pune Warriors,Kings XI Punjab,lost,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",29
+806,Marlon Samuels,c Pathan b Mota,32,13,2,3,246.15,Inn1,Pune Warriors,Kings XI Punjab,lost,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",356
+807,Robin Uthappa,not out,116,54,8,9,214.81,Inn1,Pune Warriors,Kings XI Punjab,lost,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",527
+808,Angelo Mathews,lbw b Hopes,2,3,0,0,66.67,Inn1,Pune Warriors,Kings XI Punjab,lost,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1629
+809,Mithun Manhas,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Pune Warriors,Kings XI Punjab,lost,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",597
+810,Steven Smith,b Pathan,25,17,4,1,147.06,Inn1,Pune Warriors,Kings XI Punjab,lost,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2250
+811,Paul Valthaty,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Pune Warriors,won,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1865
+812,Adam Gilchrist,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Pune Warriors,won,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",36
+813,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Pune Warriors,won,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+814,Mandeep Singh,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Pune Warriors,won,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6319
+815,Piyush Chawla,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Pune Warriors,won,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",466
+816,"(b , lb , w , nb , p )",c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Pune Warriors,won,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+817,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Pune Warriors,won,11194,20:00:00,12,2012,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+818,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",27
+819,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1447
+820,Owais Shah,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",520
+821,Brad Hodge,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",283
+822,6,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",
+823,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",
+824,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",
+825,,b Pathan,25,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",
+826,,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",
+827,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",2195
+828,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",247
+829,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+830,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",370
+831,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1601
+832,Mohammad Kaif,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",70
+833,Daniel Vettori,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,11199,20:00:00,15,2012,4,"M.Chinnaswamy Stadium, Bengaluru",205
+834,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Pune Warriors,Royal Challengers Bangalore,lost,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",527
+835,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn1,Pune Warriors,Royal Challengers Bangalore,lost,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",583
+836,Sourav Ganguly,c Pathan b Mota,32,13,2,3,246.15,Inn1,Pune Warriors,Royal Challengers Bangalore,lost,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",29
+837,Marlon Samuels,not out,116,54,8,9,214.81,Inn1,Pune Warriors,Royal Challengers Bangalore,lost,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",356
+838,Steven Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Pune Warriors,Royal Challengers Bangalore,lost,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",2250
+839,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Pune Warriors,Royal Challengers Bangalore,lost,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1629
+840,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn1,Pune Warriors,Royal Challengers Bangalore,lost,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",597
+841,Tillakaratne Dilshan,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Pune Warriors,won,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",105
+842,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Pune Warriors,won,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",247
+843,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Pune Warriors,won,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",2195
+844,Virat Kohli,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Pune Warriors,won,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+845,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Pune Warriors,won,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",1601
+846,AB de Villiers,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Pune Warriors,won,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",370
+847,7,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Pune Warriors,won,11202,20:00:00,17,2012,4,"M.Chinnaswamy Stadium, Bengaluru",
+848,Faf du Plessis,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Pune Warriors,won,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",7825
+849,S Badrinath,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Pune Warriors,won,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",574
+850,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Pune Warriors,won,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",413
+851,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Pune Warriors,won,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",265
+852,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Pune Warriors,won,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",242
+853,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Pune Warriors,won,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",587
+854,2,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Pune Warriors,won,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",
+855,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Chennai Super Kings,lost,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",527
+856,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Chennai Super Kings,lost,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",583
+857,Sourav Ganguly,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Chennai Super Kings,lost,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",29
+858,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Chennai Super Kings,lost,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",1836
+859,Marlon Samuels,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Chennai Super Kings,lost,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",356
+860,Steven Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Chennai Super Kings,lost,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",2250
+861,Angelo Mathews,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Chennai Super Kings,lost,11205,20:00:00,19,2012,4,"MA Chidambaram Stadium, Chennai",1629
+862,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Pune Warriors,Delhi Daredevils,won,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",527
+863,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn1,Pune Warriors,Delhi Daredevils,won,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",583
+864,Sourav Ganguly,c Pathan b Mota,32,13,2,3,246.15,Inn1,Pune Warriors,Delhi Daredevils,won,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",29
+865,Steven Smith,not out,116,54,8,9,214.81,Inn1,Pune Warriors,Delhi Daredevils,won,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",2250
+866,Angelo Mathews,lbw b Hopes,2,3,0,0,66.67,Inn1,Pune Warriors,Delhi Daredevils,won,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",1629
+867,15,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Pune Warriors,Delhi Daredevils,won,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",
+868,,b Pathan,25,17,4,1,147.06,Inn1,Pune Warriors,Delhi Daredevils,won,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",
+869,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Pune Warriors,lost,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",101
+870,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Pune Warriors,lost,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",26
+871,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Pune Warriors,lost,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",395
+872,Irfan Pathan,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Pune Warriors,lost,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",73
+873,Pawan Negi,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Pune Warriors,lost,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",8281
+874,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Pune Warriors,lost,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",521
+875,Yogesh Nagar,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Pune Warriors,lost,11208,20:00:00,21,2012,4,"Arun Jaitley Stadium, Delhi",1800
+876,Kumar Sangakkara,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",104
+877,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",1446
+878,Parthiv Patel,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",74
+879,Cameron White,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",282
+880,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",211
+881,Ishank Jaggi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",1855
+882,Ankit Sharma,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Kolkata Knight Riders,lost,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",7810
+883,Brendon McCullum,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Deccan Chargers,won,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",201
+884,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Deccan Chargers,won,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",308
+885,Manvinder Bisla,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Deccan Chargers,won,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",1901
+886,Jacques Kallis,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Deccan Chargers,won,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",213
+887,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Deccan Chargers,won,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",790
+888,Manoj Tiwary,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Deccan Chargers,won,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",694
+889,Debabrata Das,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Deccan Chargers,won,11210,20:00:00,22,2012,4,"Barabati Stadium, Cuttack",1829
+890,Brendon McCullum,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",201
+891,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",308
+892,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",213
+893,Yusuf Pathan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",790
+894,Manoj Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",694
+895,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",
+896,,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,won,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",
+897,Tillakaratne Dilshan,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",105
+898,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",247
+899,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",1413
+900,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",370
+901,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",1601
+902,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",2195
+903,Daniel Vettori,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,lost,11219,20:00:00,28,2012,4,"Eden Gardens, Kolkata",205
+904,Parthiv Patel,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Mumbai Indians,lost,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",74
+905,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Mumbai Indians,lost,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",1446
+906,Ishank Jaggi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Mumbai Indians,lost,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",1855
+907,Cameron White,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Mumbai Indians,lost,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",282
+908,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Mumbai Indians,lost,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",211
+909,Daniel Christian,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Mumbai Indians,lost,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",6283
+910,Bharath Chipli,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Mumbai Indians,lost,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",1806
+911,Richard Levi,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Deccan Chargers,won,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",2234
+912,Sachin Tendulkar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Deccan Chargers,won,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",25
+913,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Deccan Chargers,won,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",576
+914,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Deccan Chargers,won,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",145
+915,James Franklin,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Deccan Chargers,won,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",419
+916,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Deccan Chargers,won,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",6311
+917,Robin Peterson,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Deccan Chargers,won,11221,20:00:00,29,2012,4,"Wankhede Stadium, Mumbai",318
+918,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Daredevils,lost,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",27
+919,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Daredevils,lost,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",1447
+920,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Daredevils,lost,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",158
+921,Owais Shah,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Daredevils,lost,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",520
+922,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Daredevils,lost,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",283
+923,Ashok Menaria,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Daredevils,lost,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",7846
+924,Shreevats Goswami,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Daredevils,lost,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",1807
+925,Mahela Jayawardene,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Rajasthan Royals,won,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",101
+926,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Rajasthan Royals,won,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",26
+927,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Rajasthan Royals,won,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",395
+928,Ross Taylor,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,won,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",521
+929,Yogesh Nagar,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,won,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",1800
+930,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,won,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",1599
+931,9,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,won,11224,20:00:00,1,2012,5,"Sawai Mansingh Stadium, Jaipur",
+932,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,won,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",27
+933,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1447
+934,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,won,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",158
+935,Ashok Menaria,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,won,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7846
+936,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,won,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",283
+937,Johan Botha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",487
+938,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,won,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1530
+939,Shaun Marsh,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+940,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6319
+941,Nitin Saini,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1826
+942,David Hussey,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",562
+943,Azhar Mahmood,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",206
+944,Gurkeerat Singh Mann,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8298
+945,Abhishek Nayar,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,lost,11229,20:00:00,5,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1463
+946,Daniel Harris,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",7656
+947,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1446
+948,Cameron White,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",282
+949,Kumar Sangakkara,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",104
+950,6,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",
+951,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",
+952,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",
+953,,b Pathan,25,10,3,0,150.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",
+954,,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Royal Challengers Bangalore,lost,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",
+955,Tillakaratne Dilshan,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",105
+956,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",247
+957,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+958,Asad Pathan,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",7902
+959,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",370
+960,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",2195
+961,JS Mohammad,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Deccan Chargers,won,11231,20:00:00,6,2012,5,"M.Chinnaswamy Stadium, Bengaluru",7929
+962,Mandeep Singh,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Deccan Chargers,won,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",6319
+963,Shaun Marsh,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Deccan Chargers,won,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",563
+964,Nitin Saini,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Deccan Chargers,won,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1826
+965,David Hussey,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Deccan Chargers,won,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",562
+966,Azhar Mahmood,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Deccan Chargers,won,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",206
+967,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Deccan Chargers,won,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",6349
+968,Siddharth Chitnis,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Deccan Chargers,won,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1833
+969,Daniel Harris,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Kings XI Punjab,lost,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",7656
+970,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Kings XI Punjab,lost,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+971,Parthiv Patel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Kings XI Punjab,lost,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+972,Cameron White,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Kings XI Punjab,lost,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",282
+973,Kumar Sangakkara,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Kings XI Punjab,lost,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",104
+974,Akshath Reddy,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Kings XI Punjab,lost,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",8284
+975,Abhishek Jhunjhunwala,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Kings XI Punjab,lost,11234,20:00:00,8,2012,5,"Rajiv Gandhi International Stadium, Hyderabad",6290
+976,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",27
+977,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",1447
+978,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",158
+979,Stuart Binny,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",1530
+980,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",283
+981,Johan Botha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",487
+982,Ashok Menaria,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Chennai Super Kings,lost,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",7846
+983,Michael Hussey,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Rajasthan Royals,won,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",4772
+984,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",1597
+985,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Rajasthan Royals,won,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",413
+986,Dwayne Bravo,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Rajasthan Royals,won,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",242
+987,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Rajasthan Royals,won,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",265
+988,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",587
+989,Albie Morkel,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Rajasthan Royals,won,11236,20:00:00,10,2012,5,"Sawai Mansingh Stadium, Jaipur",484
+990,David Warner,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Chennai Super Kings,lost,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",1739
+991,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Chennai Super Kings,lost,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",26
+992,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Chennai Super Kings,lost,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",1599
+993,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Chennai Super Kings,lost,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",101
+994,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Chennai Super Kings,lost,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",412
+995,Yogesh Nagar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Chennai Super Kings,lost,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",1800
+996,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Chennai Super Kings,lost,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",73
+997,Michael Hussey,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",4772
+998,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",1597
+999,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",413
+1000,1,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1001,,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1002,,lbw b Hopes,2,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1003,,lbw b Hopes,2,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1004,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1005,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1006,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1007,,b Pathan,25,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1008,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1009,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,won,11239,20:00:00,12,2012,5,"MA Chidambaram Stadium, Chennai",
+1010,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Kings XI Punjab,lost,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1446
+1011,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",74
+1012,Kumar Sangakkara,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Kings XI Punjab,lost,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",104
+1013,Cameron White,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Kings XI Punjab,lost,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",282
+1014,Daniel Christian,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Kings XI Punjab,lost,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6283
+1015,Akshath Reddy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8284
+1016,9,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Kings XI Punjab,lost,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+1017,Nitin Saini,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Deccan Chargers,won,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1826
+1018,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Deccan Chargers,won,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6319
+1019,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Deccan Chargers,won,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+1020,Azhar Mahmood,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Deccan Chargers,won,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",206
+1021,David Hussey,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Deccan Chargers,won,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",562
+1022,Siddharth Chitnis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Deccan Chargers,won,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1833
+1023,Piyush Chawla,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Deccan Chargers,won,11241,20:00:00,13,2012,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",466
+1024,Gautam Gambhir,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",308
+1025,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",201
+1026,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",213
+1027,Manoj Tiwary,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",694
+1028,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",790
+1029,Debabrata Das,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",1829
+1030,Laxmi Shukla,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",1600
+1031,Michael Hussey,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",4772
+1032,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",1597
+1033,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",413
+1034,Faf du Plessis,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",7825
+1035,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",265
+1036,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",242
+1037,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,11243,20:00:00,14,2012,5,"Eden Gardens, Kolkata",587
+1038,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",247
+1039,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",105
+1040,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",1413
+1041,4,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1042,,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1043,,lbw b Hopes,2,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1044,,lbw b Hopes,2,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1045,,c Sangakkara b Lee,15,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1046,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1047,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1048,,b Pathan,25,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1049,,b Pathan,25,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1050,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,won,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",
+1051,Unmukt Chand,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",7904
+1052,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",1739
+1053,Venugopal Rao,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",412
+1054,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",101
+1055,Ross Taylor,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",521
+1056,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",1599
+1057,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Royal Challengers Bangalore,lost,11247,20:00:00,17,2012,5,"Arun Jaitley Stadium, Delhi",7736
+1058,Brendon McCullum,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Pune Warriors,won,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",201
+1059,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Pune Warriors,won,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",308
+1060,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Pune Warriors,won,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",213
+1061,Shakib Al Hasan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Pune Warriors,won,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",544
+1062,Manoj Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Pune Warriors,won,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",694
+1063,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Pune Warriors,won,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",790
+1064,7,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Pune Warriors,won,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",
+1065,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",527
+1066,Jesse Ryder,b Pathan,13,10,0,1,130.00,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",583
+1067,Michael Clarke,c Pathan b Mota,32,13,2,3,246.15,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",138
+1068,Sourav Ganguly,not out,116,54,8,9,214.81,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",29
+1069,Anustup Majumdar,lbw b Hopes,2,3,0,0,66.67,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",8259
+1070,Callum Ferguson,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",1745
+1071,Harpreet Singh Bhatia,b Pathan,25,17,4,1,147.06,Inn2,Pune Warriors,Kolkata Knight Riders,lost,11250,20:00:00,19,2012,5,"Maharashtra Cricket Association Stadium, Pune",6322
+1072,Rahul Dravid,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Mumbai Indians,lost,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",27
+1073,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",1447
+1074,Shane Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Mumbai Indians,lost,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",158
+1075,Stuart Binny,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Mumbai Indians,lost,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",1530
+1076,Owais Shah,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Mumbai Indians,lost,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",520
+1077,Ashok Menaria,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Mumbai Indians,lost,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",7846
+1078,Dishant Yagnik,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Mumbai Indians,lost,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",7845
+1079,Sachin Tendulkar,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",25
+1080,Dwayne Smith,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",255
+1081,18,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1082,,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1083,,not out,116,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1084,,not out,116,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1085,,not out,116,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1086,,lbw b Hopes,2,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1087,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1088,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1089,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1090,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1091,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1092,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1093,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1094,,b Pathan,25,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1095,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1096,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",
+1097,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,won,11252,20:00:00,20,2012,5,"Sawai Mansingh Stadium, Jaipur",

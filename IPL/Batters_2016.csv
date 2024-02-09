@@ -1,0 +1,893 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",2195
+1,Quinton de Kock,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",8520
+2,Shreyas Iyer,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",9428
+3,Karun Nair,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",8257
+4,Sanju Samson,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",8271
+5,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",8281
+6,Carlos Brathwaite,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",8110
+7,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",527
+8,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",308
+9,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",1836
+10,11,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+11,,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+12,,lbw b Hopes,2,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+13,,lbw b Hopes,2,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+14,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+15,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+16,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+17,,b Pathan,25,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+18,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+19,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,16390,20:00:00,10,2016,4,"Eden Gardens, Kolkata",
+20,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Gujarat Lions,lost,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+21,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Gujarat Lions,lost,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+22,David Miller,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Gujarat Lions,lost,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+23,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Gujarat Lions,lost,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+24,Wriddhiman Saha,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Gujarat Lions,lost,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+25,Marcus Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Gujarat Lions,lost,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8989
+26,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Gujarat Lions,lost,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+27,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Kings XI Punjab,won,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1643
+28,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Kings XI Punjab,won,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",201
+29,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Kings XI Punjab,won,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",413
+30,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Kings XI Punjab,won,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",145
+31,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Kings XI Punjab,won,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",587
+32,Ishan Kishan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Kings XI Punjab,won,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",10276
+33,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Kings XI Punjab,won,16391,20:00:00,11,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",242
+34,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",247
+35,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+36,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",370
+37,Shane Watson,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",158
+38,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",9429
+39,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1851
+40,7,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",
+41,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1739
+42,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1446
+43,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1437
+44,Naman Ojha,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1599
+45,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",9427
+46,Eoin Morgan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",624
+47,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,16392,20:00:00,12,2016,4,"M.Chinnaswamy Stadium, Bengaluru",6301
+48,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",527
+49,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",308
+50,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",1836
+51,Andre Russell,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",7736
+52,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",790
+53,Colin Munro,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",8085
+54,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",7915
+55,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",576
+56,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",74
+57,Hardik Pandya,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",9647
+58,Mitchell McClenaghan,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",7624
+59,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",2258
+60,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",657
+61,10,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16393,20:00:00,13,2016,4,"Eden Gardens, Kolkata",
+62,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",1447
+63,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",7825
+64,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",395
+65,Steven Smith,not out,116,54,8,9,214.81,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",2250
+66,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",265
+67,Mitchell Marsh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",6250
+68,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",1468
+69,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",1643
+70,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",201
+71,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",413
+72,Dwayne Bravo,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",242
+73,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",587
+74,15,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+75,,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16394,20:00:00,14,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+76,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,lost,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",1597
+77,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",8358
+78,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,lost,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",563
+79,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,lost,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",6349
+80,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,lost,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",7662
+81,Axar Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",8808
+82,Wriddhiman Saha,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,lost,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",1465
+83,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",8520
+84,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",9428
+85,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",8271
+86,Pawan Negi,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",8281
+87,10,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",
+88,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",
+89,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",
+90,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",
+91,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,16395,20:00:00,15,2016,4,"Arun Jaitley Stadium, Delhi",
+92,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1739
+93,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+94,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1437
+95,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",624
+96,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",9427
+97,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1599
+98,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",6301
+99,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",527
+100,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",308
+101,Andre Russell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",7736
+102,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1836
+103,5,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+104,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+105,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+106,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+107,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,16396,16:00:00,16,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+108,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rising Pune Supergiants,Kings XI Punjab,lost,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1447
+109,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Rising Pune Supergiants,Kings XI Punjab,lost,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",7825
+110,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rising Pune Supergiants,Kings XI Punjab,lost,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",395
+111,Thisara Perera,not out,116,54,8,9,214.81,Inn1,Rising Pune Supergiants,Kings XI Punjab,lost,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2281
+112,Steven Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Rising Pune Supergiants,Kings XI Punjab,lost,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2250
+113,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rising Pune Supergiants,Kings XI Punjab,lost,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",265
+114,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn1,Rising Pune Supergiants,Kings XI Punjab,lost,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",73
+115,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rising Pune Supergiants,won,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+116,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rising Pune Supergiants,won,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+117,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rising Pune Supergiants,won,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+118,David Miller,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rising Pune Supergiants,won,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+119,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rising Pune Supergiants,won,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+120,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rising Pune Supergiants,won,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+121,2,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rising Pune Supergiants,won,16398,16:00:00,17,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+122,Martin Guptill,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1457
+123,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",74
+124,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",6311
+125,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",576
+126,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",2258
+127,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",11311
+128,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",9647
+129,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1739
+130,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+131,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1437
+132,Eoin Morgan,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",624
+133,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",9427
+134,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+135,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,16400,20:00:00,18,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+136,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+137,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+138,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+139,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+140,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+141,Glenn Maxwell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+142,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+143,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",527
+144,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",308
+145,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1836
+146,Shakib Al Hasan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",544
+147,Suryakumar Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",7915
+148,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",790
+149,8,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,16401,20:00:00,19,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+150,Virat Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",1413
+151,KL Rahul,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",8733
+152,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",370
+153,Shane Watson,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",158
+154,Travis Head,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",8497
+155,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",9429
+156,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",1530
+157,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",576
+158,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",74
+159,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",6311
+160,Jos Buttler,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",2258
+161,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",657
+162,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",9647
+163,4,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16402,20:00:00,20,2016,4,"Wankhede Stadium, Mumbai",
+164,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",1643
+165,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",201
+166,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",413
+167,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",145
+168,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",242
+169,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",587
+170,Akshdeep Nath,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",8351
+171,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",1739
+172,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",1446
+173,10,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+174,,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+175,,not out,116,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+176,,not out,116,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+177,,not out,116,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+178,,lbw b Hopes,2,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+179,,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+180,,lbw b Hopes,2,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+181,,lbw b Hopes,2,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+182,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+183,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+184,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+185,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+186,,b Pathan,25,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+187,,b Pathan,25,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+188,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+189,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16403,20:00:00,21,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+190,Virat Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rising Pune Supergiants,won,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",1413
+191,KL Rahul,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rising Pune Supergiants,won,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",8733
+192,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rising Pune Supergiants,won,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",370
+193,Shane Watson,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rising Pune Supergiants,won,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",158
+194,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rising Pune Supergiants,won,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",9429
+195,12,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rising Pune Supergiants,won,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",
+196,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rising Pune Supergiants,won,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",
+197,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",1447
+198,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",7825
+199,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",395
+200,Steven Smith,not out,116,54,8,9,214.81,Inn2,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",2250
+201,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",265
+202,Thisara Perera,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",2281
+203,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn2,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16404,20:00:00,22,2016,4,"Maharashtra Cricket Association Stadium, Pune",1468
+204,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Mumbai Indians,won,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",8520
+205,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Mumbai Indians,won,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",9428
+206,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Mumbai Indians,won,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",8271
+207,Karun Nair,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Mumbai Indians,won,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",8257
+208,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Mumbai Indians,won,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",211
+209,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Mumbai Indians,won,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",8281
+210,12,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Mumbai Indians,won,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",
+211,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Daredevils,lost,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",576
+212,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",74
+213,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Daredevils,lost,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",6311
+214,Krunal Pandya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Daredevils,lost,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",11311
+215,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Daredevils,lost,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",2258
+216,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",657
+217,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Daredevils,lost,16405,16:00:00,23,2016,4,"Arun Jaitley Stadium, Delhi",9647
+218,Virat Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",1413
+219,Shane Watson,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",158
+220,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",370
+221,KL Rahul,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",8733
+222,3,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+223,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+224,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+225,,b Pathan,25,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+226,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Gujarat Lions,lost,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+227,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Royal Challengers Bangalore,won,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",255
+228,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Royal Challengers Bangalore,won,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",201
+229,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Royal Challengers Bangalore,won,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",413
+230,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Royal Challengers Bangalore,won,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",145
+231,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Royal Challengers Bangalore,won,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",587
+232,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Royal Challengers Bangalore,won,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",242
+233,14,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Royal Challengers Bangalore,won,16407,16:00:00,24,2016,4,"Saurashtra Cricket Association Stadium, Rajkot",
+234,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kings XI Punjab,won,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",576
+235,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kings XI Punjab,won,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",74
+236,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kings XI Punjab,won,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6311
+237,Jos Buttler,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kings XI Punjab,won,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2258
+238,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kings XI Punjab,won,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",657
+239,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kings XI Punjab,won,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",9647
+240,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kings XI Punjab,won,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",11311
+241,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Mumbai Indians,lost,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+242,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+243,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Mumbai Indians,lost,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+244,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Mumbai Indians,lost,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+245,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Mumbai Indians,lost,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+246,Nikhil Naik,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",9295
+247,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Mumbai Indians,lost,16409,20:00:00,25,2016,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+248,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,lost,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1739
+249,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,lost,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+250,Aditya Tare,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,lost,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",6315
+251,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,lost,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",624
+252,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,lost,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",9427
+253,Moises Henriques,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,lost,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1437
+254,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,lost,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1599
+255,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,won,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1447
+256,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,won,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",7825
+257,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,won,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",2250
+258,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,won,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",265
+259,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,won,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1601
+260,13,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,won,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+261,,b Pathan,25,17,4,1,147.06,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,won,16410,20:00:00,26,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",
+262,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Gujarat Lions,Delhi Daredevils,won,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",255
+263,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Lions,Delhi Daredevils,won,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",201
+264,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Lions,Delhi Daredevils,won,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",413
+265,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Gujarat Lions,Delhi Daredevils,won,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",145
+266,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Lions,Delhi Daredevils,won,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",587
+267,Ishan Kishan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Lions,Delhi Daredevils,won,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",10276
+268,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Lions,Delhi Daredevils,won,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",242
+269,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Gujarat Lions,lost,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",8520
+270,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Gujarat Lions,lost,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",8271
+271,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Gujarat Lions,lost,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",8257
+272,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Gujarat Lions,lost,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",211
+273,Rishabh Pant,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Gujarat Lions,lost,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",10744
+274,Chris Morris,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Gujarat Lions,lost,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",8333
+275,Pawan Negi,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Gujarat Lions,lost,16411,20:00:00,27,2016,4,"Arun Jaitley Stadium, Delhi",8281
+276,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",527
+277,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",308
+278,Shakib Al Hasan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",544
+279,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",7915
+280,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",7736
+281,Chris Lynn,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",7752
+282,Yusuf Pathan,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",790
+283,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",576
+284,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",74
+285,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",6311
+286,Krunal Pandya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",11311
+287,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",2258
+288,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",657
+289,5,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,16412,20:00:00,28,2016,4,"Wankhede Stadium, Mumbai",
+290,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",1447
+291,Saurabh Tiwary,b Pathan,13,10,0,1,130.00,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",1601
+292,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",2250
+293,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",265
+294,Thisara Perera,lbw b Hopes,2,3,0,0,66.67,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",2281
+295,7,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",
+296,,b Pathan,25,17,4,1,147.06,Inn1,Rising Pune Supergiants,Gujarat Lions,lost,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",
+297,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",255
+298,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",201
+299,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",413
+300,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",145
+301,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",242
+302,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",587
+303,James Faulkner,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Rising Pune Supergiants,won,16413,20:00:00,29,2016,4,"Maharashtra Cricket Association Stadium, Pune",7789
+304,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",8520
+305,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",9428
+306,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",8271
+307,Karun Nair,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",8257
+308,Sam Billings,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",7990
+309,Chris Morris,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",8333
+310,Carlos Brathwaite,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",8110
+311,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",527
+312,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",308
+313,Piyush Chawla,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",466
+314,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",790
+315,Suryakumar Yadav,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",7915
+316,Rajagopal Sathish,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",6314
+317,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,16414,16:00:00,30,2016,4,"Arun Jaitley Stadium, Delhi",7736
+318,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Gujarat Lions,won,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",1597
+319,Marcus Stoinis,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Gujarat Lions,won,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",8989
+320,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Gujarat Lions,won,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",563
+321,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Gujarat Lions,won,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",7662
+322,Gurkeerat Singh Mann,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Gujarat Lions,won,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",8298
+323,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Gujarat Lions,won,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",6349
+324,Wriddhiman Saha,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Gujarat Lions,won,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",1465
+325,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Kings XI Punjab,lost,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",255
+326,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Kings XI Punjab,lost,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",201
+327,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Kings XI Punjab,lost,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",413
+328,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Kings XI Punjab,lost,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",145
+329,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Kings XI Punjab,lost,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",587
+330,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Kings XI Punjab,lost,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",242
+331,Ishan Kishan,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Kings XI Punjab,lost,16416,16:00:00,1,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",10276
+332,KL Rahul,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8733
+333,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",247
+334,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+335,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",370
+336,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",158
+337,Sachin Baby,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8709
+338,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1530
+339,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",527
+340,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",308
+341,Chris Lynn,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",7752
+342,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1836
+343,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",790
+344,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",7736
+345,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,16418,20:00:00,2,2016,5,"M.Chinnaswamy Stadium, Bengaluru",7915
+346,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Gujarat Lions,Delhi Daredevils,lost,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",255
+347,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Lions,Delhi Daredevils,lost,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",201
+348,Aaron Finch,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Lions,Delhi Daredevils,lost,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",1643
+349,Suresh Raina,not out,116,54,8,9,214.81,Inn1,Gujarat Lions,Delhi Daredevils,lost,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",413
+350,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Lions,Delhi Daredevils,lost,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",145
+351,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Lions,Delhi Daredevils,lost,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",587
+352,James Faulkner,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Lions,Delhi Daredevils,lost,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",7789
+353,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",8520
+354,Rishabh Pant,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",10744
+355,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",8271
+356,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",211
+357,3,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",
+358,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",
+359,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",
+360,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",
+361,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Gujarat Lions,won,16419,20:00:00,3,2016,5,"Saurashtra Cricket Association Stadium, Rajkot",
+362,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",527
+363,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",308
+364,Yusuf Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",790
+365,Andre Russell,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",7736
+366,5,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",
+367,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",
+368,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",
+369,,b Pathan,25,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",
+370,,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",
+371,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",1597
+372,Marcus Stoinis,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",8989
+373,Manan Vohra,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",8358
+374,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",1465
+375,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",7662
+376,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",6349
+377,Gurkeerat Singh Mann,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,16420,20:00:00,4,2016,5,"Eden Gardens, Kolkata",8298
+378,Rishabh Pant,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",10744
+379,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",8271
+380,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",8257
+381,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",211
+382,Sam Billings,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",7990
+383,Carlos Brathwaite,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",8110
+384,Pawan Negi,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",8281
+385,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",1447
+386,Usman Khawaja,b Pathan,13,10,0,1,130.00,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",6635
+387,Saurabh Tiwary,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",1601
+388,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",265
+389,Thisara Perera,lbw b Hopes,2,3,0,0,66.67,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",2281
+390,11,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",
+391,,b Pathan,25,17,4,1,147.06,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16421,20:00:00,5,2016,5,"Arun Jaitley Stadium, Delhi",
+392,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",255
+393,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",201
+394,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",413
+395,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",145
+396,Aaron Finch,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1643
+397,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",242
+398,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",587
+399,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+400,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+401,Kane Williamson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",6326
+402,Moises Henriques,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1437
+403,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",69
+404,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",9427
+405,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16422,20:00:00,6,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+406,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1447
+407,Usman Khawaja,b Pathan,13,10,0,1,130.00,Inn1,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",6635
+408,Saurabh Tiwary,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1601
+409,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",265
+410,Thisara Perera,lbw b Hopes,2,3,0,0,66.67,Inn1,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",2281
+411,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1440
+412,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn1,Rising Pune Supergiants,Royal Challengers Bangalore,lost,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1468
+413,Virat Kohli,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rising Pune Supergiants,won,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+414,KL Rahul,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rising Pune Supergiants,won,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8733
+415,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rising Pune Supergiants,won,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",370
+416,Shane Watson,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rising Pune Supergiants,won,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",158
+417,Travis Head,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rising Pune Supergiants,won,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8497
+418,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rising Pune Supergiants,won,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+419,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rising Pune Supergiants,won,16423,16:00:00,7,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+420,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1739
+421,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1446
+422,Kane Williamson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6326
+423,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",69
+424,Moises Henriques,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1437
+425,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+426,,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+427,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",576
+428,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",74
+429,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6311
+430,Krunal Pandya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",11311
+431,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2258
+432,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",657
+433,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,16425,16:00:00,8,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",9647
+434,Virat Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1413
+435,KL Rahul,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8733
+436,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",370
+437,Shane Watson,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",158
+438,Sachin Baby,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8709
+439,Travis Head,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8497
+440,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1530
+441,Hashim Amla,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",314
+442,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+443,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+444,David Miller,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+445,Marcus Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8989
+446,Farhaan Behardien,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8283
+447,5,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16427,20:00:00,9,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+448,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,won,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1739
+449,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,won,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1446
+450,Kane Williamson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,won,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6326
+451,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,won,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",69
+452,Moises Henriques,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,won,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1437
+453,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,won,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",9427
+454,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rising Pune Supergiants,won,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1599
+455,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,lost,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1447
+456,Usman Khawaja,b Pathan,13,10,0,1,130.00,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,lost,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6635
+457,George Bailey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,lost,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1440
+458,Ravichandran Ashwin,not out,116,54,8,9,214.81,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,lost,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1593
+459,Saurabh Tiwary,lbw b Hopes,2,3,0,0,66.67,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,lost,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1601
+460,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,lost,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",265
+461,Thisara Perera,b Pathan,25,17,4,1,147.06,Inn2,Rising Pune Supergiants,Sunrisers Hyderabad,lost,16428,20:00:00,10,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2281
+462,Virat Kohli,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+463,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",247
+464,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",370
+465,KL Rahul,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8733
+466,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",158
+467,Sachin Baby,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8709
+468,7,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+469,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",576
+470,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",74
+471,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",6311
+472,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",9204
+473,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",657
+474,Jos Buttler,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",2258
+475,10,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,16429,20:00:00,11,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+476,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+477,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+478,Kane Williamson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",6326
+479,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",69
+480,Moises Henriques,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1437
+481,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",9427
+482,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+483,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",8520
+484,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",2195
+485,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",8257
+486,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",8271
+487,Rishabh Pant,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",10744
+488,3,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",
+489,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16430,20:00:00,12,2016,5,"Rajiv Gandhi International Stadium, Hyderabad",
+490,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kings XI Punjab,lost,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",576
+491,Unmukt Chand,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kings XI Punjab,lost,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7904
+492,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kings XI Punjab,lost,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6311
+493,Nitish Rana,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kings XI Punjab,lost,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",9204
+494,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kings XI Punjab,lost,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2258
+495,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kings XI Punjab,lost,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",657
+496,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kings XI Punjab,lost,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",11311
+497,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Mumbai Indians,won,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1597
+498,Hashim Amla,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Mumbai Indians,won,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",314
+499,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Mumbai Indians,won,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1465
+500,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Mumbai Indians,won,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7662
+501,Gurkeerat Singh Mann,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Mumbai Indians,won,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8298
+502,11,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Mumbai Indians,won,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+503,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Mumbai Indians,won,16431,20:00:00,13,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+504,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",247
+505,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+506,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",370
+507,Shane Watson,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",158
+508,4,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+509,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+510,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+511,,b Pathan,25,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+512,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Gujarat Lions,won,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+513,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Royal Challengers Bangalore,lost,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",255
+514,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Royal Challengers Bangalore,lost,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",201
+515,Ravindra Jadeja,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Royal Challengers Bangalore,lost,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",587
+516,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Royal Challengers Bangalore,lost,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",145
+517,Aaron Finch,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Royal Challengers Bangalore,lost,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1643
+518,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Royal Challengers Bangalore,lost,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",242
+519,Akshdeep Nath,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Royal Challengers Bangalore,lost,16432,16:00:00,14,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8351
+520,Hashim Amla,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",314
+521,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+522,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+523,Gurkeerat Singh Mann,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8298
+524,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+525,Glenn Maxwell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+526,3,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+527,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1739
+528,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1446
+529,Deepak Hooda,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",9427
+530,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+531,Ben Cutting,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8118
+532,9,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+533,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16434,16:00:00,15,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+534,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",527
+535,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",308
+536,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",1836
+537,Yusuf Pathan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",790
+538,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",7736
+539,Suryakumar Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",7915
+540,Shakib Al Hasan,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",544
+541,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",247
+542,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",1413
+543,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",370
+544,3,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+545,,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+546,,lbw b Hopes,2,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+547,,lbw b Hopes,2,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+548,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+549,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+550,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+551,,b Pathan,25,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+552,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+553,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,16436,20:00:00,16,2016,5,"Eden Gardens, Kolkata",
+554,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8520
+555,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",9428
+556,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8257
+557,Sanju Samson,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8271
+558,Rishabh Pant,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",10744
+559,Jean-Paul Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",211
+560,Chris Morris,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rising Pune Supergiants,lost,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8333
+561,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1447
+562,Usman Khawaja,b Pathan,13,10,0,1,130.00,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6635
+563,George Bailey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1440
+564,7,not out,116,54,8,9,214.81,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+565,,lbw b Hopes,2,3,0,0,66.67,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+566,,lbw b Hopes,2,10,3,0,150.00,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+567,,lbw b Hopes,2,17,4,1,147.06,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+568,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+569,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+570,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+571,,b Pathan,25,3,0,0,66.67,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+572,,b Pathan,25,10,3,0,150.00,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+573,,b Pathan,25,17,4,1,147.06,Inn2,Rising Pune Supergiants,Delhi Daredevils,won,16437,20:00:00,17,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+574,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",247
+575,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+576,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",370
+577,KL Rahul,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8733
+578,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",158
+579,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+580,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",
+581,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1597
+582,Hashim Amla,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",314
+583,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1465
+584,David Miller,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",6349
+585,Gurkeerat Singh Mann,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8298
+586,Axar Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8808
+587,Farhaan Behardien,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,16438,20:00:00,18,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8283
+588,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16439,20:00:00,19,2016,5,"Green Park, Kanpur",527
+589,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16439,20:00:00,19,2016,5,"Green Park, Kanpur",308
+590,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16439,20:00:00,19,2016,5,"Green Park, Kanpur",1836
+591,Piyush Chawla,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16439,20:00:00,19,2016,5,"Green Park, Kanpur",466
+592,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16439,20:00:00,19,2016,5,"Green Park, Kanpur",790
+593,Shakib Al Hasan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16439,20:00:00,19,2016,5,"Green Park, Kanpur",544
+594,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16439,20:00:00,19,2016,5,"Green Park, Kanpur",7915
+595,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16439,20:00:00,19,2016,5,"Green Park, Kanpur",255
+596,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16439,20:00:00,19,2016,5,"Green Park, Kanpur",201
+597,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16439,20:00:00,19,2016,5,"Green Park, Kanpur",413
+598,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16439,20:00:00,19,2016,5,"Green Park, Kanpur",145
+599,Aaron Finch,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16439,20:00:00,19,2016,5,"Green Park, Kanpur",1643
+600,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16439,20:00:00,19,2016,5,"Green Park, Kanpur",587
+601,17,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16439,20:00:00,19,2016,5,"Green Park, Kanpur",
+602,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1739
+603,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1446
+604,Deepak Hooda,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",9427
+605,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",69
+606,Moises Henriques,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1437
+607,Eoin Morgan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",624
+608,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Daredevils,lost,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1599
+609,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8520
+610,Rishabh Pant,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",10744
+611,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8257
+612,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",211
+613,Carlos Brathwaite,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8110
+614,Sanju Samson,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8271
+615,14,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Sunrisers Hyderabad,won,16440,20:00:00,20,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",
+616,Hashim Amla,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Rising Pune Supergiants,lost,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",314
+617,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Rising Pune Supergiants,lost,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1597
+618,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Rising Pune Supergiants,lost,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1465
+619,Gurkeerat Singh Mann,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Rising Pune Supergiants,lost,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8298
+620,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Rising Pune Supergiants,lost,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6349
+621,Farhaan Behardien,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Rising Pune Supergiants,lost,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8283
+622,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Rising Pune Supergiants,lost,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8808
+623,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rising Pune Supergiants,Kings XI Punjab,won,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1447
+624,Usman Khawaja,b Pathan,13,10,0,1,130.00,Inn2,Rising Pune Supergiants,Kings XI Punjab,won,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6635
+625,George Bailey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rising Pune Supergiants,Kings XI Punjab,won,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1440
+626,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn2,Rising Pune Supergiants,Kings XI Punjab,won,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1601
+627,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Rising Pune Supergiants,Kings XI Punjab,won,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",265
+628,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rising Pune Supergiants,Kings XI Punjab,won,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",73
+629,Thisara Perera,b Pathan,25,17,4,1,147.06,Inn2,Rising Pune Supergiants,Kings XI Punjab,won,16441,16:00:00,21,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2281
+630,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",527
+631,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",308
+632,Colin Munro,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",8085
+633,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",1836
+634,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",790
+635,Jason Holder,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",8313
+636,Shakib Al Hasan,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",544
+637,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",1446
+638,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",1739
+639,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",1599
+640,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",69
+641,Kane Williamson,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",6326
+642,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",9427
+643,Moises Henriques,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,16443,16:00:00,22,2016,5,"Eden Gardens, Kolkata",1437
+644,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Gujarat Lions,Royal Challengers Bangalore,lost,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1643
+645,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Lions,Royal Challengers Bangalore,lost,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",201
+646,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Lions,Royal Challengers Bangalore,lost,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",413
+647,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Gujarat Lions,Royal Challengers Bangalore,lost,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",145
+648,Dwayne Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Lions,Royal Challengers Bangalore,lost,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",255
+649,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Lions,Royal Challengers Bangalore,lost,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",587
+650,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Lions,Royal Challengers Bangalore,lost,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",242
+651,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Gujarat Lions,won,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",247
+652,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Gujarat Lions,won,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+653,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Gujarat Lions,won,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",370
+654,KL Rahul,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Gujarat Lions,won,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8733
+655,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Gujarat Lions,won,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",158
+656,Sachin Baby,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Gujarat Lions,won,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8709
+657,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Gujarat Lions,won,16445,20:00:00,24,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1530
+658,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",1739
+659,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",1446
+660,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",1437
+661,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",69
+662,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",9427
+663,Ben Cutting,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",8118
+664,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",1599
+665,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",527
+666,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",308
+667,Colin Munro,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",8085
+668,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",1836
+669,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",790
+670,Suryakumar Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",7915
+671,Rajagopal Sathish,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,16446,20:00:00,25,2016,5,"Arun Jaitley Stadium, Delhi",6314
+672,Eklavya Dwivedi,not out,31,14,3,2,221.43,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",7917
+673,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",201
+674,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",413
+675,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",145
+676,Aaron Finch,lbw b Hopes,2,3,0,0,66.67,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",1643
+677,Dwayne Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",255
+678,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Gujarat Lions,Sunrisers Hyderabad,lost,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",587
+679,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",1739
+680,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",1446
+681,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",1437
+682,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",69
+683,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",9427
+684,Ben Cutting,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",8118
+685,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Gujarat Lions,won,16447,20:00:00,27,2016,5,"Arun Jaitley Stadium, Delhi",1599
+686,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1739
+687,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1446
+688,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1437
+689,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",69
+690,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",9427
+691,Ben Cutting,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8118
+692,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1599
+693,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",247
+694,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+695,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",370
+696,KL Rahul,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8733
+697,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",158
+698,Sachin Baby,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",8709
+699,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16448,20:00:00,29,2016,5,"M.Chinnaswamy Stadium, Bengaluru",1530
+700,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rising Pune Supergiants,lost,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",599
+701,Rohit Sharma,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rising Pune Supergiants,lost,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",576
+702,Hardik Pandya,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rising Pune Supergiants,lost,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",9647
+703,Jos Buttler,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rising Pune Supergiants,lost,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",2258
+704,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rising Pune Supergiants,lost,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",6311
+705,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rising Pune Supergiants,lost,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",657
+706,Shreyas Gopal,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rising Pune Supergiants,lost,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",9746
+707,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",1447
+708,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",7825
+709,Kevin Pietersen,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",395
+710,5,not out,116,54,8,9,214.81,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+711,,lbw b Hopes,2,3,0,0,66.67,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+712,,lbw b Hopes,2,10,3,0,150.00,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+713,,lbw b Hopes,2,17,4,1,147.06,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+714,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+715,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+716,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+717,,b Pathan,25,3,0,0,66.67,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+718,,b Pathan,25,10,3,0,150.00,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+719,,b Pathan,25,17,4,1,147.06,Inn2,Rising Pune Supergiants,Mumbai Indians,won,16389,20:00:00,9,2016,4,"Wankhede Stadium, Mumbai",
+720,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Gujarat Lions,lost,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",576
+721,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Gujarat Lions,lost,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",74
+722,Hardik Pandya,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Gujarat Lions,lost,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",9647
+723,Jos Buttler,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Gujarat Lions,lost,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",2258
+724,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Gujarat Lions,lost,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",657
+725,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Gujarat Lions,lost,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",6311
+726,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Gujarat Lions,lost,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",75
+727,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Mumbai Indians,won,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",1643
+728,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Mumbai Indians,won,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",201
+729,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Mumbai Indians,won,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",413
+730,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Mumbai Indians,won,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",145
+731,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Mumbai Indians,won,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",242
+732,Akshdeep Nath,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Mumbai Indians,won,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",8351
+733,James Faulkner,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Mumbai Indians,won,16397,20:00:00,16,2016,4,"Wankhede Stadium, Mumbai",7789
+734,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",247
+735,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+736,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",370
+737,Shane Watson,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",158
+738,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",9429
+739,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",1851
+740,David Wiese,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",8589
+741,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",8520
+742,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",9428
+743,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",8271
+744,Karun Nair,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",8257
+745,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",211
+746,14,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",
+747,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,16399,20:00:00,17,2016,4,"M.Chinnaswamy Stadium, Bengaluru",
+748,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1597
+749,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",8358
+750,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",563
+751,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",6349
+752,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",7662
+753,Nikhil Naik,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",9295
+754,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Sunrisers Hyderabad,lost,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",8808
+755,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1739
+756,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+757,Aditya Tare,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",6315
+758,Eoin Morgan,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",624
+759,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",9427
+760,Moises Henriques,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1437
+761,Naman Ojha,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kings XI Punjab,won,16406,20:00:00,23,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1599
+762,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",1447
+763,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",7825
+764,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",2250
+765,Thisara Perera,not out,116,54,8,9,214.81,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",2281
+766,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",484
+767,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",265
+768,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",1468
+769,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",527
+770,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",308
+771,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",7915
+772,Shakib Al Hasan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",544
+773,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",790
+774,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",7736
+775,Rajagopal Sathish,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16408,20:00:00,24,2016,4,"Maharashtra Cricket Association Stadium, Pune",6314
+776,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1739
+777,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+778,Kane Williamson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",6326
+779,Moises Henriques,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1437
+780,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1599
+781,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",9427
+782,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",6301
+783,Virat Kohli,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1413
+784,KL Rahul,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",8733
+785,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",370
+786,Shane Watson,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",158
+787,Sachin Baby,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",8709
+788,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",1851
+789,Parvez Rasool,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,16415,20:00:00,30,2016,4,"Rajiv Gandhi International Stadium, Hyderabad",8837
+790,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rising Pune Supergiants,Mumbai Indians,lost,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",1447
+791,Saurabh Tiwary,b Pathan,13,10,0,1,130.00,Inn1,Rising Pune Supergiants,Mumbai Indians,lost,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",1601
+792,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rising Pune Supergiants,Mumbai Indians,lost,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",2250
+793,Peter Handscomb,not out,116,54,8,9,214.81,Inn1,Rising Pune Supergiants,Mumbai Indians,lost,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",8159
+794,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Rising Pune Supergiants,Mumbai Indians,lost,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",265
+795,Thisara Perera,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rising Pune Supergiants,Mumbai Indians,lost,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",2281
+796,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn1,Rising Pune Supergiants,Mumbai Indians,lost,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",1468
+797,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",576
+798,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",74
+799,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",6311
+800,Jos Buttler,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",2258
+801,6,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",
+802,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",
+803,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",
+804,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",
+805,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Rising Pune Supergiants,won,16417,20:00:00,1,2016,5,"Maharashtra Cricket Association Stadium, Pune",
+806,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,won,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+807,Marcus Stoinis,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,won,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8989
+808,Hashim Amla,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,won,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",314
+809,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,won,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+810,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,won,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+811,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,won,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+812,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,won,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+813,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,lost,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8520
+814,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,lost,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8271
+815,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,lost,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8257
+816,Sam Billings,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,lost,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7990
+817,Carlos Brathwaite,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,lost,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8110
+818,Chris Morris,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,lost,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8333
+819,Rishabh Pant,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,lost,16424,20:00:00,7,2016,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",10744
+820,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",527
+821,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",308
+822,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",1836
+823,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",7915
+824,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",544
+825,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",790
+826,6,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Gujarat Lions,lost,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",
+827,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",255
+828,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",201
+829,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",413
+830,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",145
+831,Aaron Finch,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",1643
+832,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",587
+833,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Kolkata Knight Riders,won,16426,20:00:00,8,2016,5,"Eden Gardens, Kolkata",242
+834,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",1447
+835,Usman Khawaja,b Pathan,13,10,0,1,130.00,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",6635
+836,George Bailey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",1440
+837,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",1601
+838,Irfan Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",73
+839,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",265
+840,Thisara Perera,b Pathan,25,17,4,1,147.06,Inn1,Rising Pune Supergiants,Kolkata Knight Riders,lost,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",2281
+841,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",527
+842,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",308
+843,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",1836
+844,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",790
+845,10,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",
+846,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",
+847,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",
+848,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",
+849,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rising Pune Supergiants,won,16433,20:00:00,14,2016,5,"Eden Gardens, Kolkata",
+850,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,won,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",576
+851,Martin Guptill,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,won,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1457
+852,Krunal Pandya,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,won,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",11311
+853,Kieron Pollard,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,won,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",657
+854,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,won,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2258
+855,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,won,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6311
+856,7,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,won,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+857,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,lost,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2195
+858,Quinton de Kock,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,lost,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8520
+859,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,lost,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8257
+860,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,lost,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8271
+861,Rishabh Pant,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,lost,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",10744
+862,Jean-Paul Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,lost,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",211
+863,Chris Morris,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,lost,16435,20:00:00,15,2016,5,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8333
+864,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Gujarat Lions,lost,16442,20:00:00,21,2016,5,"Green Park, Kanpur",576
+865,Martin Guptill,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Gujarat Lions,lost,16442,20:00:00,21,2016,5,"Green Park, Kanpur",1457
+866,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Gujarat Lions,lost,16442,20:00:00,21,2016,5,"Green Park, Kanpur",9204
+867,Krunal Pandya,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Gujarat Lions,lost,16442,20:00:00,21,2016,5,"Green Park, Kanpur",11311
+868,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Gujarat Lions,lost,16442,20:00:00,21,2016,5,"Green Park, Kanpur",2258
+869,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Gujarat Lions,lost,16442,20:00:00,21,2016,5,"Green Park, Kanpur",657
+870,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Gujarat Lions,lost,16442,20:00:00,21,2016,5,"Green Park, Kanpur",9647
+871,Aaron Finch,not out,31,14,3,2,221.43,Inn2,Gujarat Lions,Mumbai Indians,won,16442,20:00:00,21,2016,5,"Green Park, Kanpur",1643
+872,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Gujarat Lions,Mumbai Indians,won,16442,20:00:00,21,2016,5,"Green Park, Kanpur",201
+873,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Gujarat Lions,Mumbai Indians,won,16442,20:00:00,21,2016,5,"Green Park, Kanpur",413
+874,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Gujarat Lions,Mumbai Indians,won,16442,20:00:00,21,2016,5,"Green Park, Kanpur",145
+875,Dwayne Smith,lbw b Hopes,2,3,0,0,66.67,Inn2,Gujarat Lions,Mumbai Indians,won,16442,20:00:00,21,2016,5,"Green Park, Kanpur",255
+876,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Gujarat Lions,Mumbai Indians,won,16442,20:00:00,21,2016,5,"Green Park, Kanpur",587
+877,6,b Pathan,25,17,4,1,147.06,Inn2,Gujarat Lions,Mumbai Indians,won,16442,20:00:00,21,2016,5,"Green Park, Kanpur",
+878,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8520
+879,Rishabh Pant,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",10744
+880,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8257
+881,Sanju Samson,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8271
+882,Sam Billings,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",7990
+883,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8281
+884,Carlos Brathwaite,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8110
+885,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",247
+886,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1413
+887,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",370
+888,KL Rahul,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8733
+889,Shane Watson,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",158
+890,Stuart Binny,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1530
+891,10,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,16444,20:00:00,22,2016,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",

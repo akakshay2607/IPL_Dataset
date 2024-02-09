@@ -1,0 +1,869 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,won,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",255
+1,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",201
+2,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,won,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",413
+3,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,won,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",7825
+4,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,won,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",587
+5,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",265
+6,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,won,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",242
+7,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,lost,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",2195
+8,CM Gautam,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",1852
+9,Albie Morkel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,lost,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",484
+10,Shreyas Iyer,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,lost,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",9428
+11,Kedar Jadhav,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,lost,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",1851
+12,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",69
+13,Jean-Paul Duminy,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,lost,14595,20:00:00,9,2015,4,"MA Chidambaram Stadium, Chennai",211
+14,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,won,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",1447
+15,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",8271
+16,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,won,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",2250
+17,Karun Nair,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,won,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",8257
+18,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,won,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",1530
+19,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",9427
+20,James Faulkner,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,won,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",7789
+21,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",26
+22,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",1597
+23,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",1465
+24,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",7662
+25,Axar Patel,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",8808
+26,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",6349
+27,George Bailey,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14596,20:00:00,10,2015,4,"Maharashtra Cricket Association Stadium, Pune",1440
+28,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",255
+29,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",201
+30,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",413
+31,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",265
+32,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",587
+33,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",242
+34,15,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",
+35,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",1739
+36,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",1446
+37,KL Rahul,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",8733
+38,Naman Ojha,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",1599
+39,Ravi Bopara,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",571
+40,Kane Williamson,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",6326
+41,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,14597,16:00:00,11,2015,4,"MA Chidambaram Stadium, Chennai",1844
+42,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rajasthan Royals,lost,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",2195
+43,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",9428
+44,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rajasthan Royals,lost,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",211
+45,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rajasthan Royals,lost,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",69
+46,Angelo Mathews,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rajasthan Royals,lost,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",1629
+47,9,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",
+48,,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,lost,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",
+49,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Daredevils,won,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",1447
+50,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",8271
+51,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Daredevils,won,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",2250
+52,Karun Nair,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Daredevils,won,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",8257
+53,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Daredevils,won,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",1530
+54,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",9427
+55,James Faulkner,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,won,14599,16:00:00,12,2015,4,"Arun Jaitley Stadium, Delhi",7789
+56,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",247
+57,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+58,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",145
+59,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",370
+60,Mandeep Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",6319
+61,Daren Sammy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",253
+62,Sean Abbott,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",8136
+63,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",1739
+64,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",1446
+65,Kane Williamson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",6326
+66,KL Rahul,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",8733
+67,16,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",
+68,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",
+69,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",
+70,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",
+71,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,14601,20:00:00,13,2015,4,"M.Chinnaswamy Stadium, Bengaluru",
+72,Aaron Finch,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,lost,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",1643
+73,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",74
+74,Unmukt Chand,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,lost,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",7904
+75,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,lost,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",576
+76,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,lost,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",8982
+77,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",657
+78,Jagadeesha Suchith,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,lost,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",10357
+79,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,won,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",1447
+80,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,won,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",8271
+81,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,won,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",2250
+82,Deepak Hooda,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,won,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",9427
+83,James Faulkner,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,won,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",7789
+84,4,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,won,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",
+85,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,won,14602,20:00:00,14,2015,4,"Narendra Modi Stadium, Ahmedabad",
+86,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",1597
+87,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",26
+88,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",1465
+89,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",6349
+90,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",7662
+91,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",1440
+92,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",8808
+93,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,won,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",2195
+94,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",9428
+95,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,won,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",211
+96,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",69
+97,Angelo Mathews,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",1629
+98,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",1851
+99,Manoj Tiwary,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,14604,20:00:00,15,2015,4,"Maharashtra Cricket Association Stadium, Pune",694
+100,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1739
+101,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1446
+102,KL Rahul,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8733
+103,Naman Ojha,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1599
+104,Eoin Morgan,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",624
+105,Ravi Bopara,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",571
+106,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6301
+107,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1447
+108,Sanju Samson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8271
+109,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2250
+110,Karun Nair,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8257
+111,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1530
+112,James Faulkner,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7789
+113,7,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,14605,20:00:00,16,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+114,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",599
+115,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",74
+116,Corey Anderson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",8982
+117,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",576
+118,Harbhajan Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",75
+119,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",657
+120,Ambati Rayudu,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",6311
+121,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",255
+122,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",201
+123,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",413
+124,Faf du Plessis,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",7825
+125,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",265
+126,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",242
+127,11,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,14606,20:00:00,17,2015,4,"Wankhede Stadium, Mumbai",
+128,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Sunrisers Hyderabad,won,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2195
+129,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,won,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",9428
+130,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Sunrisers Hyderabad,won,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",211
+131,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Sunrisers Hyderabad,won,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",69
+132,Angelo Mathews,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Sunrisers Hyderabad,won,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1629
+133,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,won,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1851
+134,9,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Sunrisers Hyderabad,won,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+135,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1739
+136,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1446
+137,Ravi Bopara,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",571
+138,KL Rahul,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8733
+139,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1599
+140,Eoin Morgan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",624
+141,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Daredevils,lost,14607,16:00:00,18,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6301
+142,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,lost,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",255
+143,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",201
+144,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,lost,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",413
+145,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,lost,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",7825
+146,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,lost,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",242
+147,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",265
+148,6,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,lost,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",
+149,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",1447
+150,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",158
+151,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",2250
+152,Karun Nair,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",8257
+153,1,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",
+154,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",
+155,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",
+156,,b Pathan,25,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",
+157,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,14609,16:00:00,19,2015,4,"Narendra Modi Stadium, Ahmedabad",
+158,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",2195
+159,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",9428
+160,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",211
+161,Manoj Tiwary,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",694
+162,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",69
+163,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",1629
+164,Kedar Jadhav,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kolkata Knight Riders,lost,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",1851
+165,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",527
+166,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",308
+167,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",1836
+168,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",7915
+169,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",790
+170,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",640
+171,7,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,won,14611,20:00:00,20,2015,4,"Arun Jaitley Stadium, Delhi",
+172,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",1447
+173,Shane Watson,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",158
+174,Deepak Hooda,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",9427
+175,Steven Smith,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",2250
+176,Karun Nair,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",8257
+177,James Faulkner,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",7789
+178,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",1530
+179,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",1597
+180,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",26
+181,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",563
+182,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",7662
+183,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",6349
+184,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",1465
+185,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,lost,14612,20:00:00,21,2015,4,"Narendra Modi Stadium, Ahmedabad",8808
+186,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1446
+187,David Warner,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1739
+188,Ravi Bopara,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",571
+189,Naman Ojha,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1599
+190,Moises Henriques,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1437
+191,KL Rahul,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",8733
+192,4,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+193,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",527
+194,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",308
+195,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1836
+196,Andre Russell,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7736
+197,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",790
+198,Suryakumar Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7915
+199,3,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,14613,16:00:00,22,2015,4,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+200,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Mumbai Indians,won,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",2195
+201,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Mumbai Indians,won,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",9428
+202,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Mumbai Indians,won,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",211
+203,Angelo Mathews,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Mumbai Indians,won,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",1629
+204,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Mumbai Indians,won,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",69
+205,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Mumbai Indians,won,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",1851
+206,8,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Mumbai Indians,won,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",
+207,Lendl Simmons,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Daredevils,lost,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",599
+208,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",74
+209,Unmukt Chand,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Daredevils,lost,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",7904
+210,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Daredevils,lost,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",576
+211,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Daredevils,lost,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",657
+212,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",6311
+213,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Daredevils,lost,14615,20:00:00,23,2015,4,"Arun Jaitley Stadium, Delhi",9647
+214,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",1447
+215,Shane Watson,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",158
+216,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",2250
+217,Karun Nair,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",8257
+218,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",9427
+219,Sanju Samson,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",8271
+220,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",1530
+221,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",247
+222,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",1413
+223,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",370
+224,5,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+225,,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+226,,lbw b Hopes,2,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+227,,lbw b Hopes,2,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+228,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+229,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+230,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+231,,b Pathan,25,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+232,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+233,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,14616,20:00:00,24,2015,4,"Narendra Modi Stadium, Ahmedabad",
+234,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",599
+235,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",74
+236,Unmukt Chand,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",7904
+237,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",576
+238,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",657
+239,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",6311
+240,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",75
+241,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",1446
+242,David Warner,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",1739
+243,KL Rahul,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",8733
+244,Naman Ojha,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",1599
+245,Ravi Bopara,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",571
+246,Hanuma Vihari,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",8424
+247,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,14617,16:00:00,25,2015,4,"Wankhede Stadium, Mumbai",1844
+248,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1739
+249,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1446
+250,Hanuma Vihari,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8424
+251,Moises Henriques,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1437
+252,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1599
+253,Ravi Bopara,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",571
+254,Ashish Reddy,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6301
+255,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+256,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+257,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",563
+258,George Bailey,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1440
+259,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+260,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+261,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14621,20:00:00,27,2015,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+262,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",255
+263,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",201
+264,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",413
+265,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",7825
+266,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",265
+267,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",242
+268,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,won,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",587
+269,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",527
+270,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",308
+271,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",1836
+272,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",7915
+273,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",790
+274,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",640
+275,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,lost,14624,20:00:00,28,2015,4,"MA Chidambaram Stadium, Chennai",7736
+276,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",255
+277,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",201
+278,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",413
+279,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",7825
+280,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",242
+281,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",265
+282,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",587
+283,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",527
+284,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",308
+285,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",1836
+286,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",7915
+287,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",7736
+288,10,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",
+289,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,14603,20:00:00,30,2015,4,"Eden Gardens, Kolkata",
+290,Virender Sehwag,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",26
+291,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",8358
+292,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",563
+293,Wriddhiman Saha,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",1465
+294,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",6349
+295,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",1440
+296,Thisara Perera,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,lost,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",2281
+297,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",2195
+298,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",9428
+299,Saurabh Tiwary,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",1601
+300,8,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+301,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+302,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+303,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+304,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+305,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+306,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+307,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+308,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+309,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,14625,16:00:00,1,2015,5,"Arun Jaitley Stadium, Delhi",
+310,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",527
+311,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",308
+312,Andre Russell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",7736
+313,Ryan ten Doeschate,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",640
+314,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",790
+315,Suryakumar Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",7915
+316,8,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+317,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",247
+318,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+319,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",370
+320,Mandeep Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",6319
+321,David Wiese,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",8589
+322,4,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+323,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14627,16:00:00,2,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+324,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kings XI Punjab,won,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",599
+325,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kings XI Punjab,won,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",74
+326,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kings XI Punjab,won,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",576
+327,Kieron Pollard,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kings XI Punjab,won,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",657
+328,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kings XI Punjab,won,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6311
+329,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kings XI Punjab,won,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+330,,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kings XI Punjab,won,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+331,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Mumbai Indians,lost,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+332,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",26
+333,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Mumbai Indians,lost,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+334,David Miller,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Mumbai Indians,lost,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+335,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Mumbai Indians,lost,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1440
+336,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+337,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Mumbai Indians,lost,14629,16:00:00,3,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+338,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",255
+339,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",201
+340,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",413
+341,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",7825
+342,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",265
+343,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",587
+344,Pawan Negi,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",8281
+345,Nic Maddinson,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",6261
+346,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",1413
+347,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",370
+348,Mandeep Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",6319
+349,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",145
+350,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",9429
+351,David Wiese,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14631,16:00:00,4,2015,5,"MA Chidambaram Stadium, Chennai",8589
+352,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Mumbai Indians,lost,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",2195
+353,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Mumbai Indians,lost,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",9428
+354,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Mumbai Indians,lost,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",211
+355,Kedar Jadhav,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Mumbai Indians,lost,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",1851
+356,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Mumbai Indians,lost,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",69
+357,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Mumbai Indians,lost,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",1629
+358,Saurabh Tiwary,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Mumbai Indians,lost,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",1601
+359,Lendl Simmons,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Daredevils,won,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",599
+360,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Daredevils,won,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",74
+361,Hardik Pandya,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Daredevils,won,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",9647
+362,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Daredevils,won,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",576
+363,Harbhajan Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Daredevils,won,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",75
+364,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Daredevils,won,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",6311
+365,Kieron Pollard,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Daredevils,won,14633,20:00:00,5,2015,5,"Wankhede Stadium, Mumbai",657
+366,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",247
+367,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+368,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",370
+369,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",145
+370,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",9429
+371,11,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+372,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+373,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1597
+374,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",8358
+375,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1465
+376,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",7662
+377,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",6349
+378,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1440
+379,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,14634,20:00:00,6,2015,5,"M.Chinnaswamy Stadium, Bengaluru",8808
+380,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",1446
+381,David Warner,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",1739
+382,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",1437
+383,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",624
+384,Ravi Bopara,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",571
+385,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",1599
+386,15,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",
+387,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",1447
+388,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",158
+389,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",2250
+390,Karun Nair,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",8257
+391,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",9427
+392,James Faulkner,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",7789
+393,Sanju Samson,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,14635,16:00:00,7,2015,5,"Brabourne Stadium, Mumbai",8271
+394,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,lost,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",255
+395,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",201
+396,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,lost,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",413
+397,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,lost,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",7825
+398,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,lost,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",265
+399,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",8281
+400,6,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,lost,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",
+401,Lendl Simmons,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,won,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",599
+402,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,won,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",74
+403,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,won,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",576
+404,Kieron Pollard,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",657
+405,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",6311
+406,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",9647
+407,2,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,14636,20:00:00,8,2015,5,"MA Chidambaram Stadium, Chennai",
+408,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",1597
+409,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",8358
+410,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",1465
+411,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",7662
+412,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",6349
+413,Gurkeerat Singh Mann,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",8298
+414,George Bailey,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",1440
+415,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",527
+416,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",308
+417,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",1836
+418,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",7915
+419,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",790
+420,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",7736
+421,Johan Botha,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14637,16:00:00,9,2015,5,"Eden Gardens, Kolkata",487
+422,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",247
+423,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",1413
+424,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",370
+425,7,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+426,,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+427,,lbw b Hopes,2,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+428,,lbw b Hopes,2,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+429,,c Sangakkara b Lee,15,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+430,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+431,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+432,,b Pathan,25,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+433,,b Pathan,25,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+434,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",
+435,Parthiv Patel,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",74
+436,Lendl Simmons,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",599
+437,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",576
+438,Kieron Pollard,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",657
+439,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",9647
+440,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",6311
+441,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,14639,16:00:00,10,2015,5,"Wankhede Stadium, Mumbai",75
+442,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+443,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+444,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1437
+445,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",624
+446,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+447,KL Rahul,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",8733
+448,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1844
+449,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1597
+450,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",8358
+451,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1465
+452,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",7662
+453,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",6349
+454,George Bailey,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1440
+455,Gurkeerat Singh Mann,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,14641,20:00:00,11,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",8298
+456,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,lost,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",255
+457,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,lost,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",201
+458,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,lost,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",413
+459,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,lost,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",7825
+460,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,lost,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",265
+461,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,lost,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",242
+462,Pawan Negi,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,lost,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8281
+463,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,won,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8520
+464,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",9428
+465,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,won,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",211
+466,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,won,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",69
+467,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,won,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",484
+468,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,won,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1851
+469,0,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,won,14642,20:00:00,12,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",
+470,Wriddhiman Saha,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+471,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+472,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+473,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+474,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1440
+475,Axar Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+476,Gurkeerat Singh Mann,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8298
+477,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",247
+478,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1413
+479,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",370
+480,Mandeep Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6319
+481,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",145
+482,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",9429
+483,David Wiese,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,14643,20:00:00,13,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8589
+484,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,won,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",599
+485,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",74
+486,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,won,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",576
+487,Ambati Rayudu,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,won,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",6311
+488,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",657
+489,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",9647
+490,10,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",
+491,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",527
+492,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",308
+493,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",1836
+494,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",790
+495,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",544
+496,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",7736
+497,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,14644,20:00:00,14,2015,5,"Wankhede Stadium, Mumbai",7915
+498,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+499,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+500,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1437
+501,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",624
+502,7,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+503,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+504,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+505,,b Pathan,25,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+506,,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+507,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",247
+508,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1413
+509,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",370
+510,Mandeep Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",6319
+511,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",145
+512,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",9429
+513,1,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,won,14645,20:00:00,15,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+514,Wriddhiman Saha,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,lost,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+515,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8358
+516,George Bailey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,lost,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",1440
+517,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,lost,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7662
+518,Gurkeerat Singh Mann,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,lost,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8298
+519,David Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+520,Axar Patel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,lost,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",8808
+521,Michael Hussey,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,won,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",4772
+522,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",201
+523,Faf du Plessis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,won,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",7825
+524,Suresh Raina,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",413
+525,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",265
+526,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+527,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,14646,16:00:00,16,2015,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+528,Quinton de Kock,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",8520
+529,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",9428
+530,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",211
+531,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",69
+532,Kedar Jadhav,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1851
+533,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1629
+534,Saurabh Tiwary,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1601
+535,Virat Kohli,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+536,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",247
+537,0,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+538,,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+539,,not out,116,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+540,,not out,116,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+541,,not out,116,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+542,,lbw b Hopes,2,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+543,,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+544,,lbw b Hopes,2,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+545,,lbw b Hopes,2,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+546,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+547,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+548,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+549,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+550,,b Pathan,25,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+551,,b Pathan,25,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+552,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+553,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,lost,14648,16:00:00,17,2015,5,"M.Chinnaswamy Stadium, Bengaluru",
+554,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,won,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",599
+555,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,won,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",74
+556,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,won,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",576
+557,Kieron Pollard,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,won,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",657
+558,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,won,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",9647
+559,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,won,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",6311
+560,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,won,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",75
+561,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,lost,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",255
+562,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,lost,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",4772
+563,Faf du Plessis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,lost,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",7825
+564,Suresh Raina,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,lost,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",413
+565,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,lost,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",265
+566,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,lost,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",242
+567,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,lost,14650,20:00:00,19,2015,5,"Wankhede Stadium, Mumbai",587
+568,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",247
+569,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",1413
+570,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",370
+571,Mandeep Singh,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",6319
+572,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",145
+573,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",9429
+574,12,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",
+575,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",1447
+576,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",158
+577,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",8271
+578,Steven Smith,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",2250
+579,Karun Nair,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",8257
+580,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",9427
+581,James Faulkner,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,14651,20:00:00,20,2015,5,"Maharashtra Cricket Association Stadium, Pune",7789
+582,Chris Gayle,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",247
+583,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",1413
+584,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",370
+585,Mandeep Singh,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",6319
+586,Dinesh Karthik,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",145
+587,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",9429
+588,David Wiese,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",8589
+589,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",255
+590,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",4772
+591,Faf du Plessis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",7825
+592,Suresh Raina,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",413
+593,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",265
+594,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",8281
+595,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,14652,20:00:00,22,2015,5,"JSCA International Stadium Complex, Ranchi",242
+596,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,won,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",599
+597,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,won,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",74
+598,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,won,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",576
+599,Kieron Pollard,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,won,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",657
+600,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,won,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",6311
+601,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,won,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",9647
+602,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,won,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",75
+603,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,lost,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",255
+604,Michael Hussey,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,lost,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",4772
+605,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,lost,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",413
+606,MS Dhoni,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,lost,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",265
+607,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,lost,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",242
+608,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,lost,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",8281
+609,Faf du Plessis,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,lost,14653,20:00:00,24,2015,5,"Eden Gardens, Kolkata",7825
+610,Rohit Sharma,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",576
+611,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",1643
+612,Aditya Tare,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",6315
+613,Ambati Rayudu,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",6311
+614,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",8982
+615,3,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",
+616,,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,lost,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",
+617,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,won,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",527
+618,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,won,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",308
+619,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,won,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",1836
+620,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,won,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",7915
+621,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,won,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",790
+622,4,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,won,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",
+623,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,won,14594,20:00:00,8,2015,4,"Eden Gardens, Kolkata",
+624,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",527
+625,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",308
+626,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",1836
+627,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",7915
+628,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",790
+629,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",7736
+630,Shakib Al Hasan,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",544
+631,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",247
+632,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",1413
+633,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",145
+634,Mandeep Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",6319
+635,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",370
+636,Daren Sammy,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",253
+637,Sean Abbott,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,14598,20:00:00,11,2015,4,"Eden Gardens, Kolkata",8136
+638,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,won,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",1597
+639,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,won,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",26
+640,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,won,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",7662
+641,David Miller,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,won,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",6349
+642,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,won,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",1440
+643,Rishi Dhawan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,won,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",8616
+644,Mitchell Johnson,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,won,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",496
+645,Rohit Sharma,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,lost,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",576
+646,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",1643
+647,Aditya Tare,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,lost,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",6315
+648,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,lost,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",6311
+649,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,lost,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",8982
+650,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",657
+651,Jagadeesha Suchith,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,lost,14600,20:00:00,12,2015,4,"Wankhede Stadium, Mumbai",10357
+652,Murali Vijay,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",1597
+653,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",26
+654,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",1465
+655,Glenn Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",7662
+656,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",1440
+657,Thisara Perera,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",2281
+658,Gurkeerat Singh Mann,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",8298
+659,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",527
+660,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",308
+661,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",1836
+662,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",7915
+663,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",790
+664,Ryan ten Doeschate,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",640
+665,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,14608,20:00:00,18,2015,4,"Maharashtra Cricket Association Stadium, Pune",7736
+666,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",599
+667,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",74
+668,Unmukt Chand,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",7904
+669,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",576
+670,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",657
+671,Ambati Rayudu,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",6311
+672,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",75
+673,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",247
+674,Manvinder Bisla,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",1901
+675,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+676,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",145
+677,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",370
+678,Rilee Rossouw,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",2244
+679,David Wiese,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,14610,20:00:00,19,2015,4,"M.Chinnaswamy Stadium, Bengaluru",8589
+680,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",255
+681,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",201
+682,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",413
+683,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",265
+684,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",587
+685,Faf du Plessis,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",7825
+686,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",242
+687,Manvinder Bisla,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",1901
+688,Rilee Rossouw,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",2244
+689,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+690,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",145
+691,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",370
+692,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",9429
+693,David Wiese,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,14614,20:00:00,22,2015,4,"M.Chinnaswamy Stadium, Bengaluru",8589
+694,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kings XI Punjab,won,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",255
+695,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",201
+696,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kings XI Punjab,won,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",413
+697,MS Dhoni,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kings XI Punjab,won,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",265
+698,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kings XI Punjab,won,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",587
+699,12,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",
+700,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kings XI Punjab,won,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",
+701,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Chennai Super Kings,lost,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",1597
+702,Virender Sehwag,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",26
+703,Shaun Marsh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Chennai Super Kings,lost,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",563
+704,George Bailey,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Chennai Super Kings,lost,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",1440
+705,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Chennai Super Kings,lost,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",6349
+706,Wriddhiman Saha,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",1465
+707,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,lost,14618,20:00:00,25,2015,4,"MA Chidambaram Stadium, Chennai",8808
+708,Mayank Agarwal,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",2195
+709,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",9428
+710,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",211
+711,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",69
+712,Angelo Mathews,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",1629
+713,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",1851
+714,Nathan Coulter-Nile,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",7774
+715,Chris Gayle,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",247
+716,Virat Kohli,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",1413
+717,2,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+718,,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+719,,not out,116,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+720,,not out,116,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+721,,not out,116,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+722,,lbw b Hopes,2,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+723,,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+724,,lbw b Hopes,2,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+725,,lbw b Hopes,2,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+726,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+727,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+728,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+729,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+730,,b Pathan,25,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+731,,b Pathan,25,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+732,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+733,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,14620,20:00:00,26,2015,4,"Arun Jaitley Stadium, Delhi",
+734,Lendl Simmons,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,won,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",599
+735,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,won,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",74
+736,Unmukt Chand,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,won,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",7904
+737,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,won,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",576
+738,Ambati Rayudu,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,won,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",6311
+739,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,won,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",657
+740,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,won,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",75
+741,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,lost,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",1447
+742,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",158
+743,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,lost,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",8271
+744,Steven Smith,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,lost,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",2250
+745,Karun Nair,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,lost,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",8257
+746,Stuart Binny,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",1530
+747,Deepak Hooda,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,lost,14626,20:00:00,1,2015,5,"Wankhede Stadium, Mumbai",9427
+748,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+749,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+750,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1437
+751,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",624
+752,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+753,Ashish Reddy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",6301
+754,Hanuma Vihari,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",8424
+755,Dwayne Smith,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",255
+756,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",201
+757,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",413
+758,Faf du Plessis,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",7825
+759,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",265
+760,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",8281
+761,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,14628,20:00:00,2,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",242
+762,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",1447
+763,Shane Watson,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",158
+764,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",8257
+765,James Faulkner,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",7789
+766,8,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",
+767,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",
+768,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",
+769,,b Pathan,25,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",
+770,,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Daredevils,won,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",
+771,Mayank Agarwal,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Rajasthan Royals,lost,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",2195
+772,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",9428
+773,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Rajasthan Royals,lost,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",211
+774,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,lost,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",69
+775,Angelo Mathews,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,lost,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",1629
+776,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",1851
+777,Saurabh Tiwary,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,lost,14630,20:00:00,3,2015,5,"Brabourne Stadium, Mumbai",1601
+778,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",527
+779,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",308
+780,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",1836
+781,Andre Russell,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",7736
+782,Ryan ten Doeschate,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",640
+783,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",790
+784,Johan Botha,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,won,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",487
+785,David Warner,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",1739
+786,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",1446
+787,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",1599
+788,Moises Henriques,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",1437
+789,Eoin Morgan,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",624
+790,Hanuma Vihari,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",8424
+791,Bipul Sharma,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,14632,20:00:00,4,2015,5,"Eden Gardens, Kolkata",6296
+792,Robin Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",527
+793,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",308
+794,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",1836
+795,Piyush Chawla,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",466
+796,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",790
+797,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",7736
+798,Suryakumar Yadav,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",7915
+799,Manoj Tiwary,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",694
+800,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",9428
+801,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",211
+802,Kedar Jadhav,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",1851
+803,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",69
+804,Angelo Mathews,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",1629
+805,Saurabh Tiwary,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,14622,20:00:00,7,2015,5,"Eden Gardens, Kolkata",1601
+806,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1446
+807,David Warner,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1739
+808,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1437
+809,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",624
+810,Karn Sharma,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1844
+811,Ravi Bopara,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",571
+812,4,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Daredevils,won,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",
+813,Quinton de Kock,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",8520
+814,Shreyas Iyer,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",9428
+815,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",211
+816,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",69
+817,Kedar Jadhav,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1851
+818,Saurabh Tiwary,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",1601
+819,4,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Sunrisers Hyderabad,lost,14638,20:00:00,9,2015,5,"Shaheed Veer Narayan Singh International Stadium, Raipur",
+820,Dwayne Smith,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,won,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",255
+821,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",201
+822,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,won,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",413
+823,Faf du Plessis,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,won,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",7825
+824,Pawan Negi,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,won,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",8281
+825,MS Dhoni,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",265
+826,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,won,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",242
+827,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,lost,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",1447
+828,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",158
+829,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,lost,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",2250
+830,Karun Nair,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,lost,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",8257
+831,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,lost,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",9427
+832,Sanju Samson,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",8271
+833,James Faulkner,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,lost,14640,20:00:00,10,2015,5,"MA Chidambaram Stadium, Chennai",7789
+834,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",1447
+835,Shane Watson,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",158
+836,Steven Smith,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",2250
+837,Sanju Samson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",8271
+838,James Faulkner,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",7789
+839,Karun Nair,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",8257
+840,Chris Morris,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,won,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",8333
+841,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",527
+842,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",308
+843,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",1836
+844,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",790
+845,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",7736
+846,Suryakumar Yadav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",7915
+847,Shakib Al Hasan,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,14647,20:00:00,16,2015,5,"Brabourne Stadium, Mumbai",544
+848,David Warner,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1739
+849,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+850,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1437
+851,Eoin Morgan,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",624
+852,KL Rahul,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",8733
+853,Naman Ojha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+854,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Mumbai Indians,lost,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",1844
+855,Lendl Simmons,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",599
+856,Parthiv Patel,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+857,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",576
+858,8,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+859,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+860,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+861,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+862,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+863,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+864,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+865,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+866,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",
+867,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,won,14649,20:00:00,17,2015,5,"Rajiv Gandhi International Stadium, Hyderabad",

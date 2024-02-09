@@ -1,0 +1,877 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Munro,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kings XI Punjab,lost,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8085
+1,Gambhir (c),b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",308
+2,Shreyas Iyer,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kings XI Punjab,lost,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",9428
+3,Vijay Shankar,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kings XI Punjab,lost,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8204
+4,Pant (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kings XI Punjab,lost,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",10744
+5,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",9693
+6,Chris Morris,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kings XI Punjab,lost,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8333
+7,Lokesh Rahul (wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Daredevils,won,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8733
+8,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2195
+9,Yuvraj Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Daredevils,won,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+10,Karun Nair,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Daredevils,won,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8257
+11,David Miller,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Daredevils,won,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6349
+12,Marcus Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8989
+13,1,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Daredevils,won,20062,16:00:00,8,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+14,A Rahane (c),not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1447
+15,D Arcy Short,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",11050
+16,Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",8271
+17,Stokes,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",6557
+18,R Tripathi,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",9012
+19,Jos Buttler (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",2258
+20,Gowtham,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",8925
+21,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1465
+22,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+23,Kane Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",6326
+24,9,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+25,,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+26,,lbw b Hopes,2,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+27,,lbw b Hopes,2,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+28,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+29,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+30,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+31,,b Pathan,25,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+32,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+33,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,20064,20:00:00,9,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+34,Chris Lynn,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",7752
+35,Narine,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",2276
+36,Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",527
+37,Nitish Rana,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",9204
+38,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",145
+39,Rinku Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",10896
+40,A Russell,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",7736
+41,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",158
+42,Ambati Rayudu,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",6311
+43,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",413
+44,MS Dhoni (c & wk),not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",265
+45,Sam Billings,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",7990
+46,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",587
+47,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,20065,20:00:00,10,2018,4,"MA Chidambaram Stadium, Chennai",242
+48,A Rahane (c),not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Delhi Daredevils,won,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",1447
+49,D Arcy Short,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",11050
+50,Stokes,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Delhi Daredevils,won,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",6557
+51,Samson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Delhi Daredevils,won,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",8271
+52,Jos Buttler (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Delhi Daredevils,won,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",2258
+53,R Tripathi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Delhi Daredevils,won,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",9012
+54,Gowtham,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Delhi Daredevils,won,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",8925
+55,Glenn Maxwell,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Rajasthan Royals,lost,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",7662
+56,Colin Munro,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",8085
+57,Rishabh Pant (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Rajasthan Royals,lost,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",10744
+58,Chris Morris,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Rajasthan Royals,lost,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",8333
+59,Vijay Shankar,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Rajasthan Royals,lost,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",8204
+60,Shreyas Iyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Rajasthan Royals,lost,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",9428
+61,3,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Rajasthan Royals,lost,20066,20:00:00,11,2018,4,"Sawai Mansingh Stadium, Jaipur",
+62,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",576
+63,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",8579
+64,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",10276
+65,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",7915
+66,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",11311
+67,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",657
+68,Cutting,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",8118
+69,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1465
+70,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+71,Kane Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",6326
+72,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1836
+73,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",544
+74,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",9427
+75,Yusuf Pathan,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,20067,20:00:00,12,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",790
+76,Rahul (wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8733
+77,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",2195
+78,Finch,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",1643
+79,Yuvraj,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",69
+80,Nair,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8257
+81,Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8989
+82,Axar,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8808
+83,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8520
+84,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",201
+85,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+86,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",370
+87,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",9429
+88,Mandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6319
+89,Chris Woakes,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20068,20:00:00,13,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6670
+90,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,lost,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",7915
+91,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",8579
+92,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,lost,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",10276
+93,Rohit (c),not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,lost,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",576
+94,Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,lost,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",657
+95,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",11311
+96,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,lost,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",9647
+97,Jason Roy,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,won,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",6534
+98,Gautam Gambhir (c),b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,won,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",308
+99,Rishabh Pant (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,won,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",10744
+100,Glenn Maxwell,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,won,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",7662
+101,Shreyas Iyer,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,won,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",9428
+102,2,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,won,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",
+103,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,won,20069,16:00:00,14,2018,4,"Wankhede Stadium, Mumbai",
+104,A Rahane (c),not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",1447
+105,D Arcy Short,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",11050
+106,Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8271
+107,Stokes,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6557
+108,Jos Buttler (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",2258
+109,R Tripathi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",9012
+110,14,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",
+111,Brendon McCullum,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",201
+112,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8520
+113,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+114,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",370
+115,Mandeep Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6319
+116,Pawan Negi,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8281
+117,Washington Sundar,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20071,16:00:00,15,2018,4,"M.Chinnaswamy Stadium, Bengaluru",10945
+118,Chris Lynn,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",7752
+119,Narine,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",2276
+120,Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",527
+121,Nitish Rana,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",9204
+122,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",145
+123,A Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",7736
+124,Shubman Gill,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,won,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",11808
+125,Gautam Gambhir (c),not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",308
+126,Jason Roy,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",6534
+127,Shreyas Iyer,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",9428
+128,Rishabh Pant (wk),not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",10744
+129,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",7662
+130,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",9693
+131,Vijay Shankar,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,lost,20073,20:00:00,16,2018,4,"Eden Gardens, Kolkata",8204
+132,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",7915
+133,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",8579
+134,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",10276
+135,Rohit (c),not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",576
+136,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",11311
+137,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",657
+138,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",9647
+139,Virat Kohli (c),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",1413
+140,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",8520
+141,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",370
+142,Mandeep Singh,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",6319
+143,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",8982
+144,Washington Sundar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",10945
+145,Sarfaraz Khan,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,20074,20:00:00,17,2018,4,"Wankhede Stadium, Mumbai",9429
+146,A Rahane (c),not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",1447
+147,D Arcy Short,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",11050
+148,Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",8271
+149,R Tripathi,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",9012
+150,Stokes,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",6557
+151,Jos Buttler (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",2258
+152,Gowtham,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",8925
+153,Sunil Narine,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",2276
+154,Chris Lynn,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",7752
+155,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",527
+156,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",9204
+157,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",145
+158,3,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",
+159,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20075,20:00:00,18,2018,4,"Sawai Mansingh Stadium, Jaipur",
+160,Rahul (wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8733
+161,Gayle,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",247
+162,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2195
+163,Nair,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8257
+164,Finch,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1643
+165,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+166,,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",
+167,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1465
+168,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1446
+169,Kane Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6326
+170,Yusuf Pathan,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",790
+171,Manish Pandey,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1836
+172,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",9427
+173,Shakib Al Hasan,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,20076,20:00:00,19,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",544
+174,Watson,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,won,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",158
+175,Rayudu,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",6311
+176,Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,won,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",413
+177,Dhoni (c & wk),not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,won,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",265
+178,Billings,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,won,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",7990
+179,DJ Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",242
+180,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,won,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",587
+181,Ajinkya Rahane (c),not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,lost,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",1447
+182,Heinrich Klaasen,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",10209
+183,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,lost,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",8271
+184,Ben Stokes,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,lost,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",6557
+185,Jos Buttler (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,lost,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",2258
+186,Rahul Tripathi,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",9012
+187,Stuart Binny,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,lost,20077,20:00:00,20,2018,4,"Maharashtra Cricket Association Stadium, Pune",1530
+188,Chris Lynn,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",7752
+189,Narine,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",2276
+190,Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",527
+191,Nitish Rana,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",9204
+192,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",145
+193,A Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",7736
+194,Shubman Gill,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",11808
+195,Lokesh Rahul (wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",8733
+196,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",247
+197,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",2195
+198,2,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+199,,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+200,,lbw b Hopes,2,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+201,,lbw b Hopes,2,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+202,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+203,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+204,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+205,,b Pathan,25,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+206,,b Pathan,25,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+207,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,20078,16:00:00,21,2018,4,"Eden Gardens, Kolkata",
+208,Watson,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",158
+209,du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",7825
+210,Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",413
+211,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",6311
+212,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",265
+213,4,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+214,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",
+215,Ricky Bhui,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",9425
+216,Kane Williamson (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",6326
+217,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1836
+218,Deepak Hooda,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",9427
+219,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",544
+220,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",790
+221,Wriddhiman Saha (wk),b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,20080,16:00:00,22,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1465
+222,Rahul (wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,won,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",8733
+223,Finch,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,won,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",1643
+224,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,won,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",2195
+225,Nair,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,won,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",8257
+226,Yuvraj,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,won,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",69
+227,Miller,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,won,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",6349
+228,Ashwin (c),b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,won,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",1593
+229,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,lost,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",12094
+230,Gautam Gambhir (c),b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,lost,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",308
+231,Glenn Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,lost,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",7662
+232,Shreyas Iyer,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,lost,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",9428
+233,Rishabh Pant (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,lost,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",10744
+234,Daniel Christian,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,lost,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",6283
+235,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,lost,20082,20:00:00,23,2018,4,"Arun Jaitley Stadium, Delhi",9693
+236,Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",1446
+237,Williamson (c),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",6326
+238,Saha (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",1465
+239,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",1836
+240,Shakib,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",544
+241,Y Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",790
+242,Nabi,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Mumbai Indians,won,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",3007
+243,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",7915
+244,Evin Lewis,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",8579
+245,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",10276
+246,Rohit Sharma (c),not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",576
+247,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",11311
+248,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",657
+249,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Sunrisers Hyderabad,lost,20083,20:00:00,24,2018,4,"Wankhede Stadium, Mumbai",9647
+250,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8520
+251,Kohli (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+252,de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",370
+253,CJ Anderson,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8982
+254,Mandeep,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6319
+255,de Grandhomme,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8081
+256,Negi,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8281
+257,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",158
+258,Ambati Rayudu,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6311
+259,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",413
+260,Sam Billings,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",7990
+261,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",587
+262,MS Dhoni (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",265
+263,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20084,20:00:00,25,2018,4,"M.Chinnaswamy Stadium, Bengaluru",242
+264,Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1446
+265,Williamson (c),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",6326
+266,Saha (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1465
+267,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1836
+268,Shakib,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",544
+269,Y Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",790
+270,Nabi,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",3007
+271,Lokesh Rahul (wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",8733
+272,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",247
+273,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",2195
+274,Karun Nair,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",8257
+275,Aaron Finch,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1643
+276,Manoj Tiwary,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",694
+277,Ravichandran Ashwin (c),b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,20085,20:00:00,26,2018,4,"Rajiv Gandhi International Stadium, Hyderabad",1593
+278,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",12094
+279,Munro,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",8085
+280,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",9428
+281,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",10744
+282,Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",7662
+283,Vijay Shankar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",8204
+284,4,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kolkata Knight Riders,won,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",
+285,Chris Lynn,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",7752
+286,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",2276
+287,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",527
+288,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",9204
+289,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",145
+290,Shubman Gill,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",11808
+291,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Daredevils,lost,20086,20:00:00,27,2018,4,"Arun Jaitley Stadium, Delhi",7736
+292,Watson,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,lost,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",158
+293,Rayudu,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",6311
+294,Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,lost,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",413
+295,Dhoni (c & wk),not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,lost,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",265
+296,DJ Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,lost,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",242
+297,Billings,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",7990
+298,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,lost,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",587
+299,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",7915
+300,Evin Lewis,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",8579
+301,Rohit Sharma (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",576
+302,Hardik Pandya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",9647
+303,10,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",
+304,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",
+305,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",
+306,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",
+307,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,20087,20:00:00,28,2018,4,"Maharashtra Cricket Association Stadium, Pune",
+308,Hales,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",6734
+309,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",1446
+310,Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",6326
+311,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",1836
+312,Shakib,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",544
+313,Y Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",790
+314,Saha (wk),b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rajasthan Royals,won,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",1465
+315,Ajinkya Rahane (c),not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",1447
+316,Rahul Tripathi,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",9012
+317,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",8271
+318,Ben Stokes,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",6557
+319,Jos Buttler (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",2258
+320,Mahipal Lomror,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",10954
+321,Krishnappa Gowtham,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Sunrisers Hyderabad,lost,20088,16:00:00,29,2018,4,"Sawai Mansingh Stadium, Jaipur",8925
+322,Watson,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,won,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",158
+323,du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",7825
+324,Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,won,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",413
+325,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,won,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",6311
+326,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,won,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",265
+327,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",587
+328,7,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,won,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",
+329,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,lost,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",12094
+330,Colin Munro,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",8085
+331,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,lost,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",9428
+332,Rishabh Pant (wk),not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,lost,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",10744
+333,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,lost,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",7662
+334,Vijay Shankar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",8204
+335,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,lost,20090,20:00:00,30,2018,4,"Maharashtra Cricket Association Stadium, Pune",9693
+336,Vohra,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",8358
+337,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",8520
+338,Brendon McCullum,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",201
+339,Kohli (c),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+340,Mandeep,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",6319
+341,de Grandhomme,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",8081
+342,Washington Sundar,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,won,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",10945
+343,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",7915
+344,Ishan Kishan (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",10276
+345,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",211
+346,Rohit Sharma (c),not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",576
+347,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",657
+348,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",9647
+349,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,20091,20:00:00,1,2018,5,"M.Chinnaswamy Stadium, Bengaluru",11311
+350,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rajasthan Royals,won,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",12094
+351,Munro,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rajasthan Royals,won,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",8085
+352,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rajasthan Royals,won,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",9428
+353,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rajasthan Royals,won,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",10744
+354,Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rajasthan Royals,won,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",7662
+355,Vijay Shankar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,won,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",8204
+356,Plunkett,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,won,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",479
+357,D Arcy Short,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Daredevils,lost,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",11050
+358,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Daredevils,lost,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",2258
+359,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Daredevils,lost,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",8271
+360,Ben Stokes,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Daredevils,lost,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",6557
+361,Rahul Tripathi,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Daredevils,lost,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",9012
+362,Krishnappa Gowtham,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,lost,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",8925
+363,Jofra Archer,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,lost,20092,20:00:00,2,2018,5,"Arun Jaitley Stadium, Delhi",11540
+364,Watson,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",158
+365,du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",7825
+366,Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",413
+367,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",6311
+368,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",265
+369,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",587
+370,Karn Sharma,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",1844
+371,Chris Lynn,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",7752
+372,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",2276
+373,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",527
+374,Shubman Gill,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",11808
+375,Rinku Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",10896
+376,Dinesh Karthik (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",145
+377,12,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,20093,20:00:00,3,2018,5,"Eden Gardens, Kolkata",
+378,Rahul (wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,lost,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",8733
+379,Gayle,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",247
+380,Yuvraj,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,lost,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",69
+381,Nair,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,lost,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",8257
+382,Axar,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,lost,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",8808
+383,Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",8989
+384,Mayank Agarwal,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,lost,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",2195
+385,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,won,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",7915
+386,Evin Lewis,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,won,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",8579
+387,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,won,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",10276
+388,Hardik Pandya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,won,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",9647
+389,Rohit Sharma (c),lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,won,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",576
+390,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,won,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",11311
+391,6,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,won,20094,20:00:00,4,2018,5,"Holkar Cricket Stadium, Indore",
+392,Parthiv Patel (wk),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",74
+393,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",201
+394,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",1413
+395,de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",370
+396,Mandeep,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",6319
+397,de Grandhomme,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",8081
+398,M Ashwin,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",8796
+399,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",158
+400,Ambati Rayudu,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",6311
+401,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",413
+402,Dhruv Shorey,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",9205
+403,MS Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",265
+404,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",242
+405,7,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,20095,16:00:00,5,2018,5,"Maharashtra Cricket Association Stadium, Pune",
+406,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",7915
+407,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",8579
+408,Rohit (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",576
+409,Hardik Pandya,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",9647
+410,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",11311
+411,Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",211
+412,6,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",
+413,Chris Lynn,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",7752
+414,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",11808
+415,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",527
+416,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",9204
+417,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",145
+418,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",7736
+419,Sunil Narine,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20097,16:00:00,6,2018,5,"Wankhede Stadium, Mumbai",2276
+420,Hales,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6734
+421,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+422,Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6326
+423,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1836
+424,Shakib,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",544
+425,Y Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",790
+426,Saha (wk),b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Royal Challengers Bangalore,won,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1465
+427,Manan Vohra,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",8358
+428,Parthiv Patel (wk),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",74
+429,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1413
+430,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",370
+431,Moeen Ali,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6692
+432,Mandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6319
+433,Colin de Grandhomme,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,20099,20:00:00,7,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",8081
+434,A Rahane (c),not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,won,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",1447
+435,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",2258
+436,Gowtham,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,won,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",8925
+437,Samson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,won,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",8271
+438,Stokes,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,won,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",6557
+439,Binny,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",1530
+440,Lomror,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,won,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",10954
+441,Lokesh Rahul (wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,lost,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",8733
+442,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",247
+443,Ravichandran Ashwin (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,lost,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",1593
+444,Karun Nair,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,lost,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",8257
+445,Akshdeep Nath,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,lost,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",8351
+446,Manoj Tiwary,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",694
+447,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,lost,20100,20:00:00,8,2018,5,"Sawai Mansingh Stadium, Jaipur",8808
+448,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",7915
+449,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",8579
+450,Rohit (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",576
+451,Ishan Kishan (wk),not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",10276
+452,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",9647
+453,Cutting,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",8118
+454,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",11311
+455,Sunil Narine,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",2276
+456,Chris Lynn,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",7752
+457,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",527
+458,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",9204
+459,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",7736
+460,Dinesh Karthik (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",145
+461,Rinku Singh,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,20101,20:00:00,9,2018,5,"Eden Gardens, Kolkata",10896
+462,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",12094
+463,Roy,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",6534
+464,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",9428
+465,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",10744
+466,Harshal Patel,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",8175
+467,Maxwell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",7662
+468,Vijay Shankar,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",8204
+469,Alex Hales,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",6734
+470,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",1446
+471,Kane Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",6326
+472,2,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+473,,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+474,,lbw b Hopes,2,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+475,,lbw b Hopes,2,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+476,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+477,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+478,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+479,,b Pathan,25,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+480,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+481,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20102,20:00:00,10,2018,5,"Arun Jaitley Stadium, Delhi",
+482,Watson,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,lost,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",158
+483,Rayudu,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",6311
+484,Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,lost,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",413
+485,Dhoni (c & wk),not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,lost,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",265
+486,Billings,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,lost,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",7990
+487,DJ Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",242
+488,12,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,lost,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",
+489,Jos Buttler (wk),not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,won,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",2258
+490,Ben Stokes,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",6557
+491,Ajinkya Rahane (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,won,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",1447
+492,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,won,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",8271
+493,Prashant Chopra,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",8425
+494,Stuart Binny,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",1530
+495,Krishnappa Gowtham,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,20103,20:00:00,11,2018,5,"Sawai Mansingh Stadium, Jaipur",8925
+496,Chris Lynn,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",7752
+497,Narine,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",2276
+498,Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",527
+499,A Russell,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",7736
+500,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",145
+501,Nitish Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",9204
+502,Shubman Gill,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",11808
+503,Lokesh Rahul (wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",8733
+504,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",247
+505,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",2195
+506,Karun Nair,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",8257
+507,Aaron Finch,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",1643
+508,Axar Patel,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",8808
+509,Ravichandran Ashwin (c),b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,20104,16:00:00,12,2018,5,"Holkar Cricket Stadium, Indore",1593
+510,Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",1446
+511,Hales,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",6734
+512,Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",6326
+513,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",1836
+514,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",9427
+515,Shakib,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",544
+516,13,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",
+517,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",158
+518,Ambati Rayudu,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",6311
+519,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",413
+520,MS Dhoni (c & wk),not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",265
+521,1,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",
+522,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",
+523,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",
+524,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",
+525,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20106,16:00:00,13,2018,5,"Maharashtra Cricket Association Stadium, Pune",
+526,Rahul (wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",8733
+527,Gayle,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",247
+528,Nair,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",8257
+529,Finch,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",1643
+530,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",8989
+531,Mayank Agarwal,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",2195
+532,Axar,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Royal Challengers Bangalore,lost,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",8808
+533,Virat Kohli (c),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",1413
+534,Parthiv Patel (wk),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",74
+535,4,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+536,,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+537,,not out,116,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+538,,not out,116,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+539,,not out,116,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+540,,lbw b Hopes,2,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+541,,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+542,,lbw b Hopes,2,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+543,,lbw b Hopes,2,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+544,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+545,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+546,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+547,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+548,,b Pathan,25,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+549,,b Pathan,25,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+550,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+551,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,won,20108,20:00:00,14,2018,5,"Holkar Cricket Stadium, Indore",
+552,R Tripathi,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",9012
+553,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",2258
+554,A Rahane (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",1447
+555,Samson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",8271
+556,Stokes,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",6557
+557,Binny,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",1530
+558,Gowtham,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",8925
+559,Sunil Narine,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",2276
+560,Chris Lynn,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",7752
+561,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",527
+562,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",9204
+563,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",145
+564,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",7736
+565,2,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,20109,20:00:00,15,2018,5,"Eden Gardens, Kolkata",
+566,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kings XI Punjab,won,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",7915
+567,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kings XI Punjab,won,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",8579
+568,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kings XI Punjab,won,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",10276
+569,Rohit (c),not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kings XI Punjab,won,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",576
+570,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kings XI Punjab,won,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",11311
+571,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kings XI Punjab,won,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",657
+572,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kings XI Punjab,won,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",9647
+573,Lokesh Rahul (wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Mumbai Indians,lost,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",8733
+574,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",247
+575,Aaron Finch,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Mumbai Indians,lost,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",1643
+576,Marcus Stoinis,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Mumbai Indians,lost,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",8989
+577,Axar Patel,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Mumbai Indians,lost,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",8808
+578,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",69
+579,Manoj Tiwary,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Mumbai Indians,lost,20110,20:00:00,16,2018,5,"Wankhede Stadium, Mumbai",694
+580,Parthiv Patel (wk),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",74
+581,Kohli (c),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",1413
+582,de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",370
+583,Moeen,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",6692
+584,de Grandhomme,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",8081
+585,Mandeep,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",6319
+586,Sarfaraz Khan,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",9429
+587,Shikhar Dhawan,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",1446
+588,Alex Hales,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",6734
+589,Kane Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",6326
+590,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",1836
+591,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",9427
+592,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",
+593,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,20111,20:00:00,17,2018,5,"M.Chinnaswamy Stadium, Bengaluru",
+594,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Chennai Super Kings,won,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",12094
+595,Shreyas Iyer (c),b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Chennai Super Kings,won,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",9428
+596,Pant (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Chennai Super Kings,won,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",10744
+597,Maxwell,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Chennai Super Kings,won,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",7662
+598,Vijay Shankar,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Chennai Super Kings,won,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",8204
+599,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Chennai Super Kings,won,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",12086
+600,Harshal Patel,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Chennai Super Kings,won,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",8175
+601,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Delhi Daredevils,lost,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",158
+602,Ambati Rayudu,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Delhi Daredevils,lost,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",6311
+603,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Delhi Daredevils,lost,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",413
+604,MS Dhoni (c & wk),not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Delhi Daredevils,lost,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",265
+605,Sam Billings,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Daredevils,lost,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",7990
+606,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,lost,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",587
+607,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,lost,20112,20:00:00,18,2018,5,"Arun Jaitley Stadium, Delhi",242
+608,R Tripathi,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",9012
+609,Jofra Archer,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",11540
+610,A Rahane (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",1447
+611,Samson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",8271
+612,Klaasen (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",10209
+613,Gowtham,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",8925
+614,5,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,won,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",
+615,Virat Kohli (c),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",1413
+616,Parthiv Patel (wk),b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",74
+617,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",370
+618,Moeen Ali,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",6692
+619,Mandeep Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",6319
+620,Colin de Grandhomme,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",8081
+621,Sarfaraz Khan,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,lost,20113,16:00:00,19,2018,5,"Sawai Mansingh Stadium, Jaipur",9429
+622,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Mumbai Indians,won,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",12094
+623,Maxwell,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Mumbai Indians,won,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",7662
+624,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Mumbai Indians,won,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",9428
+625,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Mumbai Indians,won,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",10744
+626,Vijay Shankar,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Mumbai Indians,won,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",8204
+627,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Mumbai Indians,won,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",12086
+628,12,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Mumbai Indians,won,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",
+629,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Daredevils,lost,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",7915
+630,Evin Lewis,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",8579
+631,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Daredevils,lost,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",10276
+632,Kieron Pollard,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Daredevils,lost,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",657
+633,Rohit Sharma (c),lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Daredevils,lost,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",576
+634,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Daredevils,lost,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",11311
+635,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Daredevils,lost,20115,16:00:00,20,2018,5,"Arun Jaitley Stadium, Delhi",9647
+636,Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",1446
+637,Goswami (wk),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",1807
+638,Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",6326
+639,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",1836
+640,Shakib,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",544
+641,Y Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",790
+642,C Brathwaite,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",8110
+643,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",158
+644,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",7825
+645,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",413
+646,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",6311
+647,MS Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",265
+648,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",242
+649,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20117,19:00:00,22,2018,5,"Wankhede Stadium, Mumbai",587
+650,Narine,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",2276
+651,Chris Lynn,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",7752
+652,Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",527
+653,Nitish Rana,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",9204
+654,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",145
+655,Shubman Gill,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",11808
+656,A Russell,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",7736
+657,Ajinkya Rahane (c),not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",1447
+658,Rahul Tripathi,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",9012
+659,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",8271
+660,Heinrich Klaasen (wk),not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",10209
+661,Stuart Binny,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",1530
+662,Krishnappa Gowtham,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",8925
+663,1,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,20118,19:00:00,23,2018,5,"Eden Gardens, Kolkata",
+664,Saha (wk),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",1465
+665,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",1446
+666,Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",6326
+667,Shakib,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",544
+668,Deepak Hooda,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",9427
+669,Y Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",790
+670,C Brathwaite,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,won,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",8110
+671,Chris Lynn,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",7752
+672,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",2276
+673,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",9204
+674,Robin Uthappa,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",527
+675,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",145
+676,Shubman Gill,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",11808
+677,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20119,19:00:00,25,2018,5,"Eden Gardens, Kolkata",7736
+678,Goswami (wk),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",1807
+679,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",1446
+680,Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",6326
+681,Shakib,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",544
+682,Y Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",790
+683,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",9427
+684,C Brathwaite,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Chennai Super Kings,lost,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",8110
+685,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",158
+686,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",7825
+687,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",413
+688,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",6311
+689,6,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",
+690,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",
+691,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",
+692,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",
+693,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,won,20120,19:00:00,27,2018,5,"Wankhede Stadium, Mumbai",
+694,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",576
+695,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",8579
+696,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",10276
+697,Suryakumar Yadav,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",7915
+698,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",9647
+699,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",11311
+700,4,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",
+701,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",158
+702,Ambati Rayudu,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",6311
+703,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",413
+704,Kedar Jadhav,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",1851
+705,MS Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",265
+706,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",587
+707,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,20061,20:00:00,7,2018,4,"Wankhede Stadium, Mumbai",242
+708,Brendon McCullum,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",201
+709,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",8520
+710,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",1413
+711,de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",370
+712,Sarfaraz Khan,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",9429
+713,Mandeep,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",6319
+714,Chris Woakes,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",6670
+715,Sunil Narine,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",2276
+716,Chris Lynn,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",7752
+717,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",527
+718,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",9204
+719,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",145
+720,Rinku Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",10896
+721,Andre Russell,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20063,20:00:00,8,2018,4,"Eden Gardens, Kolkata",7736
+722,Uthappa,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",527
+723,Chris Lynn,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",7752
+724,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",9204
+725,Narine,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",2276
+726,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",145
+727,A Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",7736
+728,Shubman Gill,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",11808
+729,Wriddhiman Saha (wk),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",1465
+730,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",1446
+731,Kane Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",6326
+732,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",1836
+733,Shakib Al Hasan,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",544
+734,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",9427
+735,Yusuf Pathan,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,won,20070,20:00:00,14,2018,4,"Eden Gardens, Kolkata",790
+736,Rahul (wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,won,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8733
+737,Gayle,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",247
+738,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,won,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",2195
+739,Yuvraj,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,won,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",69
+740,Finch,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,won,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1643
+741,Nair,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,won,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",8257
+742,Ashwin (c),b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,won,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1593
+743,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,lost,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",158
+744,Murali Vijay,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",1597
+745,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,lost,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",6311
+746,Sam Billings,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,lost,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",7990
+747,MS Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,lost,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",265
+748,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,lost,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",587
+749,Dwayne Bravo,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,lost,20072,20:00:00,15,2018,4,"Punjab Cricket Association IS Bindra Stadium, Mohali",242
+750,Roy,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6534
+751,Gambhir (c),b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",308
+752,Shreyas Iyer,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",9428
+753,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",10744
+754,Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",7662
+755,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",9693
+756,Chris Morris,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8333
+757,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8520
+758,Manan Vohra,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8358
+759,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+760,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",370
+761,Corey Anderson,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8982
+762,Mandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6319
+763,4,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20079,20:00:00,21,2018,4,"M.Chinnaswamy Stadium, Bengaluru",
+764,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,lost,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",7915
+765,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",8579
+766,Ishan Kishan (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,lost,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",10276
+767,Pollard,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,lost,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",657
+768,Rohit (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,lost,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",576
+769,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",11311
+770,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,lost,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",9647
+771,Ajinkya Rahane (c),not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,won,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",1447
+772,Rahul Tripathi,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,won,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",9012
+773,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,won,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",8271
+774,Ben Stokes,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,won,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",6557
+775,Jos Buttler (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,won,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",2258
+776,Heinrich Klaasen,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,won,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",10209
+777,Jofra Archer,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,won,20081,20:00:00,22,2018,4,"Sawai Mansingh Stadium, Jaipur",11540
+778,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8520
+779,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",201
+780,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",1413
+781,Vohra,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8358
+782,Mandeep,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",6319
+783,de Grandhomme,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",8081
+784,10,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,lost,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",
+785,Chris Lynn,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",7752
+786,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",2276
+787,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",527
+788,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",9204
+789,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",7736
+790,Dinesh Karthik (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",145
+791,Shubman Gill,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,won,20089,20:00:00,29,2018,4,"M.Chinnaswamy Stadium, Bengaluru",11808
+792,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",12094
+793,Maxwell,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",7662
+794,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",9428
+795,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",10744
+796,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1599
+797,Vijay Shankar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",8204
+798,Christian,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Sunrisers Hyderabad,lost,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6283
+799,Alex Hales,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6734
+800,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+801,Kane Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6326
+802,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1836
+803,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",790
+804,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",
+805,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Daredevils,won,20096,20:00:00,5,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",
+806,Jos Buttler (wk),not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,lost,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",2258
+807,D Arcy Short,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,lost,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",11050
+808,A Rahane (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,lost,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",1447
+809,Samson,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,lost,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",8271
+810,Stokes,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,lost,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",6557
+811,R Tripathi,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,lost,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",9012
+812,Jofra Archer,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,lost,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",11540
+813,Lokesh Rahul (wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,won,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",8733
+814,Chris Gayle,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,won,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",247
+815,Mayank Agarwal,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,won,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",2195
+816,Karun Nair,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,won,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",8257
+817,Axar Patel,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,won,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",8808
+818,Marcus Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,won,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",8989
+819,3,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,won,20098,20:00:00,6,2018,5,"Holkar Cricket Stadium, Indore",
+820,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",12094
+821,Roy,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",6534
+822,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",9428
+823,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",10744
+824,Vijay Shankar,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",8204
+825,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",12086
+826,7,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",
+827,Parthiv Patel (wk),not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",74
+828,Moeen Ali,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",6692
+829,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",1413
+830,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",370
+831,Mandeep Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",6319
+832,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",9429
+833,Colin de Grandhomme,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,20105,20:00:00,12,2018,5,"Arun Jaitley Stadium, Delhi",8081
+834,Suryakumar Yadav,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,lost,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",7915
+835,Lewis,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",8579
+836,Rohit (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,lost,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",576
+837,Ishan Kishan (wk),not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,lost,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",10276
+838,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,lost,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",9647
+839,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",11311
+840,Cutting,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,lost,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",8118
+841,D Arcy Short,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,won,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",11050
+842,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,won,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",2258
+843,Ajinkya Rahane (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,won,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",1447
+844,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,won,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",8271
+845,Ben Stokes,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,won,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",6557
+846,10,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,won,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",
+847,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,won,20107,20:00:00,13,2018,5,"Wankhede Stadium, Mumbai",
+848,Dhawan,not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1446
+849,Goswami (wk),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1807
+850,Williamson (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",6326
+851,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",1836
+852,Y Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",790
+853,C Brathwaite,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",8110
+854,Shakib,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",544
+855,Chris Lynn,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",7752
+856,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",2276
+857,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",527
+858,Dinesh Karthik (c & wk),not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",145
+859,Andre Russell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",7736
+860,Nitish Rana,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",9204
+861,Shubman Gill,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,20114,20:00:00,19,2018,5,"Rajiv Gandhi International Stadium, Hyderabad",11808
+862,Rahul (wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,lost,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",8733
+863,Gayle,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",247
+864,Finch,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,lost,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",1643
+865,Manoj Tiwary,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,lost,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",694
+866,Miller,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,lost,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",6349
+867,Nair,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",8257
+868,Axar,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,lost,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",8808
+869,Ambati Rayudu,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,won,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",6311
+870,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",7825
+871,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,won,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",413
+872,Sam Billings,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",7990
+873,Harbhajan Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",75
+874,Deepak Chahar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",7836
+875,MS Dhoni (c & wk),b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,20116,20:00:00,20,2018,5,"Maharashtra Cricket Association Stadium, Pune",265

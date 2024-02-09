@@ -1,0 +1,871 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Taruwar Kohli,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Delhi Daredevils,lost,10603,16:00:00,19,2009,4,"Newlands, Cape Town",1793
+1,Irfan Pathan,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,10603,16:00:00,19,2009,4,"Newlands, Cape Town",73
+2,Piyush Chawla,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Delhi Daredevils,lost,10603,16:00:00,19,2009,4,"Newlands, Cape Town",466
+3,Mahela Jayawardene,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Delhi Daredevils,lost,10603,16:00:00,19,2009,4,"Newlands, Cape Town",101
+4,Kumar Sangakkara,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Delhi Daredevils,lost,10603,16:00:00,19,2009,4,"Newlands, Cape Town",104
+5,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Delhi Daredevils,lost,10603,16:00:00,19,2009,4,"Newlands, Cape Town",69
+6,Karan Goel,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Delhi Daredevils,lost,10603,16:00:00,19,2009,4,"Newlands, Cape Town",1823
+7,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",26
+8,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",308
+9,5,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+10,,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+11,,not out,116,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+12,,not out,116,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+13,,not out,116,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+14,,lbw b Hopes,2,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+15,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+16,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+17,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+18,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+19,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+20,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+21,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+22,,b Pathan,25,54,8,9,214.81,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+23,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+24,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+25,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kings XI Punjab,won,10603,16:00:00,19,2009,4,"Newlands, Cape Town",
+26,Albie Morkel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",484
+27,Andrew Flintoff,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",61
+28,MS Dhoni,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",265
+29,Suresh Raina,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",413
+30,Parthiv Patel,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",74
+31,Matthew Hayden,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",157
+32,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,won,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",
+33,Vinay Kumar,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",1449
+34,Dale Steyn,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",508
+35,Rajesh Bishnoi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",1854
+36,Virat Kohli,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",1413
+37,Rahul Dravid,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",27
+38,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",521
+39,Jacques Kallis,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,lost,10601,20:00:00,20,2009,4,"St George's Park, Port Elizabeth",213
+40,Piyush Chawla,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10600,16:00:00,21,2009,4,"Kingsmead, Durban",466
+41,Mahela Jayawardene,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10600,16:00:00,21,2009,4,"Kingsmead, Durban",101
+42,Taruwar Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10600,16:00:00,21,2009,4,"Kingsmead, Durban",1793
+43,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10600,16:00:00,21,2009,4,"Kingsmead, Durban",69
+44,Kumar Sangakkara,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10600,16:00:00,21,2009,4,"Kingsmead, Durban",104
+45,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10600,16:00:00,21,2009,4,"Kingsmead, Durban",73
+46,Ravi Bopara,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Kolkata Knight Riders,lost,10600,16:00:00,21,2009,4,"Kingsmead, Durban",571
+47,Brendon McCullum,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",201
+48,Brad Hodge,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",283
+49,Chris Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",247
+50,4,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+51,,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+52,,lbw b Hopes,2,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+53,,lbw b Hopes,2,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+54,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+55,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+56,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+57,,b Pathan,25,3,0,0,66.67,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+58,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+59,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Kings XI Punjab,won,10600,16:00:00,21,2009,4,"Kingsmead, Durban",
+60,Fidel Edwards,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10598,20:00:00,22,2009,4,"Newlands, Cape Town",381
+61,Dwaraka Ravi Teja,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10598,20:00:00,22,2009,4,"Newlands, Cape Town",1464
+62,Venugopal Rao,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10598,20:00:00,22,2009,4,"Newlands, Cape Town",412
+63,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10598,20:00:00,22,2009,4,"Newlands, Cape Town",576
+64,Scott Styris,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10598,20:00:00,22,2009,4,"Newlands, Cape Town",58
+65,VVS Laxman,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10598,20:00:00,22,2009,4,"Newlands, Cape Town",28
+66,Adam Gilchrist,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10598,20:00:00,22,2009,4,"Newlands, Cape Town",36
+67,Praveen Kumar,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10598,20:00:00,22,2009,4,"Newlands, Cape Town",592
+68,Karn Sharma,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10598,20:00:00,22,2009,4,"Newlands, Cape Town",1844
+69,Rajesh Bishnoi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10598,20:00:00,22,2009,4,"Newlands, Cape Town",1854
+70,Virat Kohli,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10598,20:00:00,22,2009,4,"Newlands, Cape Town",1413
+71,Rahul Dravid,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10598,20:00:00,22,2009,4,"Newlands, Cape Town",27
+72,Robin Uthappa,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10598,20:00:00,22,2009,4,"Newlands, Cape Town",527
+73,Anil Kumble,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10598,20:00:00,22,2009,4,"Newlands, Cape Town",98
+74,Manoj Tiwary,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Chennai Super Kings,won,10597,16:00:00,23,2009,4,"Kingsmead, Durban",694
+75,Tillakaratne Dilshan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Chennai Super Kings,won,10597,16:00:00,23,2009,4,"Kingsmead, Durban",105
+76,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Chennai Super Kings,won,10597,16:00:00,23,2009,4,"Kingsmead, Durban",145
+77,AB de Villiers,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Chennai Super Kings,won,10597,16:00:00,23,2009,4,"Kingsmead, Durban",370
+78,Gautam Gambhir,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Chennai Super Kings,won,10597,16:00:00,23,2009,4,"Kingsmead, Durban",308
+79,Virender Sehwag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Chennai Super Kings,won,10597,16:00:00,23,2009,4,"Kingsmead, Durban",26
+80,Daniel Vettori,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Chennai Super Kings,won,10597,16:00:00,23,2009,4,"Kingsmead, Durban",205
+81,Muttiah Muralitharan,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Delhi Daredevils,lost,10597,16:00:00,23,2009,4,"Kingsmead, Durban",110
+82,Lakshmipathy Balaji,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Delhi Daredevils,lost,10597,16:00:00,23,2009,4,"Kingsmead, Durban",96
+83,Joginder Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Delhi Daredevils,lost,10597,16:00:00,23,2009,4,"Kingsmead, Durban",270
+84,Manpreet Gony,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Delhi Daredevils,lost,10597,16:00:00,23,2009,4,"Kingsmead, Durban",1358
+85,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Daredevils,lost,10597,16:00:00,23,2009,4,"Kingsmead, Durban",484
+86,S Badrinath,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Daredevils,lost,10597,16:00:00,23,2009,4,"Kingsmead, Durban",574
+87,Parthiv Patel,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Daredevils,lost,10597,16:00:00,23,2009,4,"Kingsmead, Durban",74
+88,Anil Kumble,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10595,20:00:00,24,2009,4,"Kingsmead, Durban",98
+89,Pankaj Singh,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10595,20:00:00,24,2009,4,"Kingsmead, Durban",6328
+90,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10595,20:00:00,24,2009,4,"Kingsmead, Durban",592
+91,Vinay Kumar,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10595,20:00:00,24,2009,4,"Kingsmead, Durban",1449
+92,Virat Kohli,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10595,20:00:00,24,2009,4,"Kingsmead, Durban",1413
+93,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10595,20:00:00,24,2009,4,"Kingsmead, Durban",521
+94,Kevin Pietersen,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,10595,20:00:00,24,2009,4,"Kingsmead, Durban",395
+95,Ravi Bopara,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",571
+96,Mahela Jayawardene,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",101
+97,Kumar Sangakkara,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",104
+98,Yuvraj Singh,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",69
+99,Karan Goel,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",1823
+100,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",
+101,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",
+102,,b Pathan,25,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",
+103,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,10595,20:00:00,24,2009,4,"Kingsmead, Durban",
+104,Pragyan Ojha,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Mumbai Indians,won,10594,16:00:00,25,2009,4,"Kingsmead, Durban",1356
+105,Fidel Edwards,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Mumbai Indians,won,10594,16:00:00,25,2009,4,"Kingsmead, Durban",381
+106,RP Singh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Mumbai Indians,won,10594,16:00:00,25,2009,4,"Kingsmead, Durban",434
+107,Dwaraka Ravi Teja,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Mumbai Indians,won,10594,16:00:00,25,2009,4,"Kingsmead, Durban",1464
+108,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Mumbai Indians,won,10594,16:00:00,25,2009,4,"Kingsmead, Durban",412
+109,VVS Laxman,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Mumbai Indians,won,10594,16:00:00,25,2009,4,"Kingsmead, Durban",28
+110,Rohit Sharma,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Mumbai Indians,won,10594,16:00:00,25,2009,4,"Kingsmead, Durban",576
+111,Zaheer Khan,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Deccan Chargers,lost,10594,16:00:00,25,2009,4,"Kingsmead, Durban",71
+112,Pinal Shah,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Deccan Chargers,lost,10594,16:00:00,25,2009,4,"Kingsmead, Durban",1837
+113,Harbhajan Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Deccan Chargers,lost,10594,16:00:00,25,2009,4,"Kingsmead, Durban",75
+114,Sanath Jayasuriya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Deccan Chargers,lost,10594,16:00:00,25,2009,4,"Kingsmead, Durban",102
+115,Abhishek Nayar,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Deccan Chargers,lost,10594,16:00:00,25,2009,4,"Kingsmead, Durban",1463
+116,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Deccan Chargers,lost,10594,16:00:00,25,2009,4,"Kingsmead, Durban",242
+117,Shikhar Dhawan,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Deccan Chargers,lost,10594,16:00:00,25,2009,4,"Kingsmead, Durban",1446
+118,Vinay Kumar,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",1449
+119,Pankaj Singh,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",6328
+120,Balachandra Akhil,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",1803
+121,Mark Boucher,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",208
+122,Virat Kohli,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",1413
+123,Kevin Pietersen,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",395
+124,Ross Taylor,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Daredevils,lost,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",521
+125,Mithun Manhas,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",597
+126,Dinesh Karthik,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",145
+127,Gautam Gambhir,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",308
+128,AB de Villiers,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",370
+129,Tillakaratne Dilshan,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",105
+130,Virender Sehwag,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",26
+131,4,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Royal Challengers Bangalore,won,10592,16:00:00,26,2009,4,"St George's Park, Port Elizabeth",
+132,Manpreet Gony,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Deccan Chargers,lost,10590,16:00:00,27,2009,4,"Kingsmead, Durban",1358
+133,S Badrinath,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Deccan Chargers,lost,10590,16:00:00,27,2009,4,"Kingsmead, Durban",574
+134,Jacob Oram,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Deccan Chargers,lost,10590,16:00:00,27,2009,4,"Kingsmead, Durban",59
+135,Albie Morkel,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Deccan Chargers,lost,10590,16:00:00,27,2009,4,"Kingsmead, Durban",484
+136,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Deccan Chargers,lost,10590,16:00:00,27,2009,4,"Kingsmead, Durban",265
+137,Suresh Raina,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Deccan Chargers,lost,10590,16:00:00,27,2009,4,"Kingsmead, Durban",413
+138,Parthiv Patel,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Deccan Chargers,lost,10590,16:00:00,27,2009,4,"Kingsmead, Durban",74
+139,Azhar Bilakhia,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Chennai Super Kings,won,10590,16:00:00,27,2009,4,"Kingsmead, Durban",1906
+140,Adam Gilchrist,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Chennai Super Kings,won,10590,16:00:00,27,2009,4,"Kingsmead, Durban",36
+141,Dwayne Smith,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Chennai Super Kings,won,10590,16:00:00,27,2009,4,"Kingsmead, Durban",255
+142,Rohit Sharma,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Chennai Super Kings,won,10590,16:00:00,27,2009,4,"Kingsmead, Durban",576
+143,VVS Laxman,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Chennai Super Kings,won,10590,16:00:00,27,2009,4,"Kingsmead, Durban",28
+144,Herschelle Gibbs,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Chennai Super Kings,won,10590,16:00:00,27,2009,4,"Kingsmead, Durban",212
+145,,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Chennai Super Kings,won,10590,16:00:00,27,2009,4,"Kingsmead, Durban",
+146,Pradeep Sangwan,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",1472
+147,Amit Mishra,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",1454
+148,Daniel Vettori,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",205
+149,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",145
+150,Tillakaratne Dilshan,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",105
+151,AB de Villiers,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",370
+152,Gautam Gambhir,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,lost,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",308
+153,Shane Warne,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Daredevils,won,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",135
+154,Yusuf Pathan,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",790
+155,Ravindra Jadeja,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Daredevils,won,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",587
+156,Paul Valthaty,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Daredevils,won,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",1865
+157,Swapnil Asnodkar,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Daredevils,won,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",1462
+158,Graeme Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,won,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",207
+159,Rob Quiney,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,won,10588,20:00:00,28,2009,4,"SuperSport Park, Centurion",1648
+160,Ajit Agarkar,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10587,16:00:00,29,2009,4,"Kingsmead, Durban",146
+161,Laxmi Shukla,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10587,16:00:00,29,2009,4,"Kingsmead, Durban",1600
+162,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10587,16:00:00,29,2009,4,"Kingsmead, Durban",1465
+163,Morne van Wyk,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10587,16:00:00,29,2009,4,"Kingsmead, Durban",614
+164,Sourav Ganguly,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10587,16:00:00,29,2009,4,"Kingsmead, Durban",29
+165,Brad Hodge,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10587,16:00:00,29,2009,4,"Kingsmead, Durban",283
+166,Brendon McCullum,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10587,16:00:00,29,2009,4,"Kingsmead, Durban",201
+167,Roelof van der Merwe,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10587,16:00:00,29,2009,4,"Kingsmead, Durban",1669
+168,Manish Pandey,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10587,16:00:00,29,2009,4,"Kingsmead, Durban",1836
+169,Jacques Kallis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10587,16:00:00,29,2009,4,"Kingsmead, Durban",213
+170,Mark Boucher,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10587,16:00:00,29,2009,4,"Kingsmead, Durban",208
+171,Virat Kohli,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10587,16:00:00,29,2009,4,"Kingsmead, Durban",1413
+172,Kevin Pietersen,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10587,16:00:00,29,2009,4,"Kingsmead, Durban",395
+173,Shreevats Goswami,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10587,16:00:00,29,2009,4,"Kingsmead, Durban",1807
+174,Pragyan Ojha,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Delhi Daredevils,lost,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",1356
+175,RP Singh,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",434
+176,Shoaib Ahmed,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Delhi Daredevils,lost,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",1900
+177,Venugopal Rao,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Delhi Daredevils,lost,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",412
+178,Dwayne Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Delhi Daredevils,lost,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",255
+179,Tirumalsetti Suman,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Delhi Daredevils,lost,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",1903
+180,Rohit Sharma,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Delhi Daredevils,lost,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",576
+181,Virender Sehwag,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Deccan Chargers,won,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",26
+182,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Deccan Chargers,won,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",308
+183,Mithun Manhas,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Deccan Chargers,won,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",597
+184,Dinesh Karthik,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Deccan Chargers,won,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",145
+185,Tillakaratne Dilshan,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Deccan Chargers,won,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",105
+186,AB de Villiers,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Deccan Chargers,won,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",370
+187,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Deccan Chargers,won,10585,16:00:00,30,2009,4,"SuperSport Park, Centurion",
+188,Zaheer Khan,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10583,16:00:00,1,2009,5,"Buffalo Park, East London",71
+189,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10583,16:00:00,1,2009,5,"Buffalo Park, East London",1447
+190,Graham Napier,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10583,16:00:00,1,2009,5,"Buffalo Park, East London",1870
+191,Sanath Jayasuriya,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10583,16:00:00,1,2009,5,"Buffalo Park, East London",102
+192,Sachin Tendulkar,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10583,16:00:00,1,2009,5,"Buffalo Park, East London",25
+193,Harbhajan Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10583,16:00:00,1,2009,5,"Buffalo Park, East London",75
+194,Abhishek Nayar,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10583,16:00:00,1,2009,5,"Buffalo Park, East London",1463
+195,Morne van Wyk,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10583,16:00:00,1,2009,5,"Buffalo Park, East London",614
+196,Sourav Ganguly,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10583,16:00:00,1,2009,5,"Buffalo Park, East London",29
+197,Chris Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10583,16:00:00,1,2009,5,"Buffalo Park, East London",247
+198,Ajit Agarkar,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10583,16:00:00,1,2009,5,"Buffalo Park, East London",146
+199,Laxmi Shukla,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10583,16:00:00,1,2009,5,"Buffalo Park, East London",1600
+200,Brad Hodge,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10583,16:00:00,1,2009,5,"Buffalo Park, East London",283
+201,Wriddhiman Saha,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10583,16:00:00,1,2009,5,"Buffalo Park, East London",1465
+202,Venugopal Rao,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Rajasthan Royals,lost,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",412
+203,Dwayne Smith,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",255
+204,Adam Gilchrist,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Rajasthan Royals,lost,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",36
+205,Azhar Bilakhia,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Rajasthan Royals,lost,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",1906
+206,Rohit Sharma,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Rajasthan Royals,lost,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",576
+207,Tirumalsetti Suman,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Rajasthan Royals,lost,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",1903
+208,Herschelle Gibbs,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Rajasthan Royals,lost,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",212
+209,Shane Harwood,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Deccan Chargers,won,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",609
+210,Yusuf Pathan,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Deccan Chargers,won,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",790
+211,Lee Carseldine,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Deccan Chargers,won,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",1859
+212,Swapnil Asnodkar,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Deccan Chargers,won,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",1462
+213,Graeme Smith,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Deccan Chargers,won,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",207
+214,Abhishek Raut,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Deccan Chargers,won,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",1905
+215,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Deccan Chargers,won,10581,16:00:00,2,2009,5,"St George's Park, Port Elizabeth",587
+216,Morne van Wyk,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",614
+217,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",201
+218,Chris Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",247
+219,Brad Hodge,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",283
+220,Sourav Ganguly,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",29
+221,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",
+222,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",
+223,,b Pathan,25,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",
+224,,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",
+225,Sunny Sohal,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",1827
+226,Irfan Pathan,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",73
+227,Simon Katich,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",280
+228,Kumar Sangakkara,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",104
+229,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",69
+230,Mahela Jayawardene,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",101
+231,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,10579,16:00:00,3,2009,5,"St George's Park, Port Elizabeth",
+232,Albie Morkel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",484
+233,Suresh Raina,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",413
+234,MS Dhoni,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",265
+235,Murali Vijay,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",1597
+236,Matthew Hayden,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",157
+237,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",
+238,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",
+239,,b Pathan,25,10,3,0,150.00,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",
+240,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Deccan Chargers,won,10577,20:00:00,4,2009,5,"Buffalo Park, East London",
+241,Pragyan Ojha,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Chennai Super Kings,lost,10577,20:00:00,4,2009,5,"Buffalo Park, East London",1356
+242,RP Singh,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Chennai Super Kings,lost,10577,20:00:00,4,2009,5,"Buffalo Park, East London",434
+243,Shoaib Ahmed,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Chennai Super Kings,lost,10577,20:00:00,4,2009,5,"Buffalo Park, East London",1900
+244,Ryan Harris,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Chennai Super Kings,lost,10577,20:00:00,4,2009,5,"Buffalo Park, East London",1442
+245,Venugopal Rao,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Chennai Super Kings,lost,10577,20:00:00,4,2009,5,"Buffalo Park, East London",412
+246,Adam Gilchrist,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Chennai Super Kings,lost,10577,20:00:00,4,2009,5,"Buffalo Park, East London",36
+247,Tirumalsetti Suman,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Chennai Super Kings,lost,10577,20:00:00,4,2009,5,"Buffalo Park, East London",1903
+248,Abhishek Raut,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kings XI Punjab,won,10576,16:00:00,5,2009,5,"Kingsmead, Durban",1905
+249,Ravindra Jadeja,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,10576,16:00:00,5,2009,5,"Kingsmead, Durban",587
+250,Lee Carseldine,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kings XI Punjab,won,10576,16:00:00,5,2009,5,"Kingsmead, Durban",1859
+251,Yusuf Pathan,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kings XI Punjab,won,10576,16:00:00,5,2009,5,"Kingsmead, Durban",790
+252,Naman Ojha,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kings XI Punjab,won,10576,16:00:00,5,2009,5,"Kingsmead, Durban",1599
+253,Graeme Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kings XI Punjab,won,10576,16:00:00,5,2009,5,"Kingsmead, Durban",207
+254,,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kings XI Punjab,won,10576,16:00:00,5,2009,5,"Kingsmead, Durban",
+255,S Sreesanth,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Rajasthan Royals,lost,10576,16:00:00,5,2009,5,"Kingsmead, Durban",463
+256,Ramesh Powar,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,10576,16:00:00,5,2009,5,"Kingsmead, Durban",513
+257,Piyush Chawla,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Rajasthan Royals,lost,10576,16:00:00,5,2009,5,"Kingsmead, Durban",466
+258,Irfan Pathan,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Rajasthan Royals,lost,10576,16:00:00,5,2009,5,"Kingsmead, Durban",73
+259,Sunny Sohal,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Rajasthan Royals,lost,10576,16:00:00,5,2009,5,"Kingsmead, Durban",1827
+260,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Rajasthan Royals,lost,10576,16:00:00,5,2009,5,"Kingsmead, Durban",69
+261,Mahela Jayawardene,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Rajasthan Royals,lost,10576,16:00:00,5,2009,5,"Kingsmead, Durban",101
+262,Ryan Harris,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Mumbai Indians,won,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",1442
+263,Dwaraka Ravi Teja,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Mumbai Indians,won,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",1464
+264,Venugopal Rao,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Mumbai Indians,won,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",412
+265,Rohit Sharma,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Mumbai Indians,won,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",576
+266,Dwayne Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Mumbai Indians,won,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",255
+267,Herschelle Gibbs,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Mumbai Indians,won,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",212
+268,Tirumalsetti Suman,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Mumbai Indians,won,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",1903
+269,Rohan Raje,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Deccan Chargers,lost,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",1700
+270,Saurabh Tiwary,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Deccan Chargers,lost,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",1601
+271,Harbhajan Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Deccan Chargers,lost,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",75
+272,Abhishek Nayar,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Deccan Chargers,lost,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",1463
+273,Sanath Jayasuriya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Deccan Chargers,lost,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",102
+274,Jean-Paul Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Deccan Chargers,lost,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",211
+275,Dhawal Kulkarni,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Deccan Chargers,lost,10574,20:00:00,6,2009,5,"SuperSport Park, Centurion",1451
+276,Anil Kumble,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",98
+277,Praveen Kumar,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",592
+278,Vinay Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",1449
+279,Dillon du Preez,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",1843
+280,Roelof van der Merwe,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",1669
+281,Mark Boucher,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",208
+282,Virat Kohli,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,lost,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",1413
+283,Graeme Smith,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",207
+284,Naman Ojha,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",1599
+285,Ravindra Jadeja,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",587
+286,Lee Carseldine,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",1859
+287,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",790
+288,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",
+289,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",
+290,,b Pathan,25,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",
+291,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,won,10573,16:00:00,7,2009,5,"SuperSport Park, Centurion",
+292,Lasith Malinga,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,lost,10571,20:00:00,8,2009,5,"Buffalo Park, East London",111
+293,Rohan Raje,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,10571,20:00:00,8,2009,5,"Buffalo Park, East London",1700
+294,Harbhajan Singh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,lost,10571,20:00:00,8,2009,5,"Buffalo Park, East London",75
+295,Ajinkya Rahane,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,lost,10571,20:00:00,8,2009,5,"Buffalo Park, East London",1447
+296,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,lost,10571,20:00:00,8,2009,5,"Buffalo Park, East London",242
+297,Sachin Tendulkar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,10571,20:00:00,8,2009,5,"Buffalo Park, East London",25
+298,Abhishek Nayar,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,lost,10571,20:00:00,8,2009,5,"Buffalo Park, East London",1463
+299,Gautam Gambhir,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",308
+300,Dinesh Karthik,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",145
+301,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",370
+302,Tillakaratne Dilshan,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",105
+303,David Warner,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",1739
+304,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",
+305,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",
+306,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",
+307,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,won,10571,20:00:00,8,2009,5,"Buffalo Park, East London",
+308,Venugopal Rao,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Kings XI Punjab,lost,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",412
+309,Andrew Symonds,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",39
+310,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Kings XI Punjab,lost,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",576
+311,Tirumalsetti Suman,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Kings XI Punjab,lost,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",1903
+312,Adam Gilchrist,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Kings XI Punjab,lost,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",36
+313,Herschelle Gibbs,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Kings XI Punjab,lost,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",212
+314,,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Kings XI Punjab,lost,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",
+315,Piyush Chawla,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Deccan Chargers,won,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",466
+316,Brett Lee,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Deccan Chargers,won,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",42
+317,Wilkin Mota,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Deccan Chargers,won,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",1825
+318,Irfan Pathan,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Deccan Chargers,won,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",73
+319,Mahela Jayawardene,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Deccan Chargers,won,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",101
+320,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Deccan Chargers,won,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",69
+321,Simon Katich,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Deccan Chargers,won,10570,16:00:00,9,2009,5,"Diamond Oval, Kimberley",280
+322,Jean-Paul Duminy,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",211
+323,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",1447
+324,Sanath Jayasuriya,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",102
+325,Sachin Tendulkar,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",25
+326,7,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",
+327,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",
+328,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",
+329,,b Pathan,25,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",
+330,,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,won,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",
+331,Anil Kumble,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",98
+332,Vinay Kumar,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",1449
+333,Roelof van der Merwe,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",1669
+334,Jacques Kallis,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",213
+335,Ross Taylor,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",521
+336,Mark Boucher,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",208
+337,Rahul Dravid,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,lost,10568,16:00:00,10,2009,5,"St George's Park, Port Elizabeth",27
+338,RP Singh,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Rajasthan Royals,won,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",434
+339,Dwaraka Ravi Teja,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Rajasthan Royals,won,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",1464
+340,Venugopal Rao,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Rajasthan Royals,won,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",412
+341,Chaminda Vaas,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Rajasthan Royals,won,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",108
+342,Dwayne Smith,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Rajasthan Royals,won,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",255
+343,Andrew Symonds,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Rajasthan Royals,won,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",39
+344,Rohit Sharma,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Rajasthan Royals,won,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",576
+345,Munaf Patel,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Deccan Chargers,lost,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",522
+346,Shane Warne,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Deccan Chargers,lost,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",135
+347,Siddharth Trivedi,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Deccan Chargers,lost,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",1594
+348,Abhishek Raut,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Deccan Chargers,lost,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",1905
+349,Morne Morkel,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Deccan Chargers,lost,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",608
+350,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Deccan Chargers,lost,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",587
+351,Graeme Smith,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Deccan Chargers,lost,10566,20:00:00,11,2009,5,"Diamond Oval, Kimberley",207
+352,Wriddhiman Saha,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",1465
+353,Angelo Mathews,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",1629
+354,Arindam Ghosh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",1887
+355,Sourav Ganguly,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",29
+356,Brendon McCullum,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",201
+357,David Hussey,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",562
+358,,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",
+359,Mark Boucher,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",208
+360,Ross Taylor,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",521
+361,Rahul Dravid,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",27
+362,Robin Uthappa,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",527
+363,Jacques Kallis,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",213
+364,Jesse Ryder,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",583
+365,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,10565,16:00:00,12,2009,5,"SuperSport Park, Centurion",
+366,Pradeep Sangwan,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Deccan Chargers,won,10563,20:00:00,13,2009,5,"Kingsmead, Durban",1472
+367,Amit Mishra,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Deccan Chargers,won,10563,20:00:00,13,2009,5,"Kingsmead, Durban",1454
+368,Rajat Bhatia,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Deccan Chargers,won,10563,20:00:00,13,2009,5,"Kingsmead, Durban",1468
+369,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Deccan Chargers,won,10563,20:00:00,13,2009,5,"Kingsmead, Durban",145
+370,Virender Sehwag,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Deccan Chargers,won,10563,20:00:00,13,2009,5,"Kingsmead, Durban",26
+371,AB de Villiers,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Deccan Chargers,won,10563,20:00:00,13,2009,5,"Kingsmead, Durban",370
+372,Tillakaratne Dilshan,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Deccan Chargers,won,10563,20:00:00,13,2009,5,"Kingsmead, Durban",105
+373,Pragyan Ojha,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Delhi Daredevils,lost,10563,20:00:00,13,2009,5,"Kingsmead, Durban",1356
+374,Shoaib Ahmed,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Delhi Daredevils,lost,10563,20:00:00,13,2009,5,"Kingsmead, Durban",1900
+375,RP Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Delhi Daredevils,lost,10563,20:00:00,13,2009,5,"Kingsmead, Durban",434
+376,Chaminda Vaas,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Delhi Daredevils,lost,10563,20:00:00,13,2009,5,"Kingsmead, Durban",108
+377,Tirumalsetti Suman,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Delhi Daredevils,lost,10563,20:00:00,13,2009,5,"Kingsmead, Durban",1903
+378,Dwaraka Ravi Teja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Delhi Daredevils,lost,10563,20:00:00,13,2009,5,"Kingsmead, Durban",1464
+379,Venugopal Rao,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Delhi Daredevils,lost,10563,20:00:00,13,2009,5,"Kingsmead, Durban",412
+380,Sudeep Tyagi,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10562,16:00:00,14,2009,5,"Kingsmead, Durban",1450
+381,Muttiah Muralitharan,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10562,16:00:00,14,2009,5,"Kingsmead, Durban",110
+382,Lakshmipathy Balaji,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10562,16:00:00,14,2009,5,"Kingsmead, Durban",96
+383,Shadab Jakati,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10562,16:00:00,14,2009,5,"Kingsmead, Durban",1812
+384,Albie Morkel,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10562,16:00:00,14,2009,5,"Kingsmead, Durban",484
+385,Jacob Oram,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10562,16:00:00,14,2009,5,"Kingsmead, Durban",59
+386,MS Dhoni,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10562,16:00:00,14,2009,5,"Kingsmead, Durban",265
+387,Vinay Kumar,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10562,16:00:00,14,2009,5,"Kingsmead, Durban",1449
+388,Balachandra Akhil,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10562,16:00:00,14,2009,5,"Kingsmead, Durban",1803
+389,Roelof van der Merwe,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10562,16:00:00,14,2009,5,"Kingsmead, Durban",1669
+390,Mark Boucher,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10562,16:00:00,14,2009,5,"Kingsmead, Durban",208
+391,Virat Kohli,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10562,16:00:00,14,2009,5,"Kingsmead, Durban",1413
+392,Ross Taylor,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10562,16:00:00,14,2009,5,"Kingsmead, Durban",521
+393,Praveen Kumar,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10562,16:00:00,14,2009,5,"Kingsmead, Durban",592
+394,Ashish Nehra,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",269
+395,Rajat Bhatia,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",1468
+396,Pradeep Sangwan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",1472
+397,Farveez Maharoof,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",112
+398,Daniel Vettori,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",205
+399,Dinesh Karthik,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",145
+400,Mithun Manhas,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Kings XI Punjab,lost,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",597
+401,Irfan Pathan,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Daredevils,won,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",73
+402,Sunny Sohal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",1827
+403,Luke Pomersbach,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Daredevils,won,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",1006
+404,Kumar Sangakkara,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Daredevils,won,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",104
+405,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Daredevils,won,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",69
+406,Simon Katich,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Daredevils,won,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",280
+407,9,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Daredevils,won,10560,20:00:00,15,2009,5,"Mangaung Oval, Bloemfontein",
+408,Harbhajan Singh,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",75
+409,Abhishek Nayar,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",1463
+410,Sachin Tendulkar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",25
+411,Jean-Paul Duminy,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",211
+412,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",242
+413,Sanath Jayasuriya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",102
+414,,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",
+415,MS Dhoni,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",265
+416,S Badrinath,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",574
+417,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",413
+418,Matthew Hayden,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",157
+419,Parthiv Patel,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",74
+420,26,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",
+421,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,10559,16:00:00,16,2009,5,"St George's Park, Port Elizabeth",
+422,Piyush Chawla,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Deccan Chargers,won,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",466
+423,Brett Lee,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Deccan Chargers,won,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",42
+424,Wilkin Mota,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Deccan Chargers,won,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",1825
+425,Irfan Pathan,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Deccan Chargers,won,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",73
+426,Yuvraj Singh,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Deccan Chargers,won,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",69
+427,Kumar Sangakkara,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Deccan Chargers,won,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",104
+428,Luke Pomersbach,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Deccan Chargers,won,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",1006
+429,Jaskaran Singh,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Kings XI Punjab,lost,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",1902
+430,RP Singh,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Kings XI Punjab,lost,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",434
+431,Ryan Harris,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Kings XI Punjab,lost,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",1442
+432,Venugopal Rao,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Kings XI Punjab,lost,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",412
+433,Dwaraka Ravi Teja,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Kings XI Punjab,lost,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",1464
+434,Adam Gilchrist,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Kings XI Punjab,lost,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",36
+435,Rohit Sharma,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Kings XI Punjab,lost,10607,16:00:00,17,2009,5,"The Wanderers Stadium, Johannesburg",576
+436,Albie Morkel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",484
+437,MS Dhoni,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",265
+438,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",413
+439,Parthiv Patel,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",74
+440,George Bailey,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",1440
+441,20,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",
+442,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kolkata Knight Riders,lost,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",
+443,Sourav Ganguly,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",29
+444,Brendon McCullum,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",201
+445,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",1465
+446,David Hussey,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",562
+447,Brad Hodge,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",283
+448,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",
+449,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",
+450,,b Pathan,25,10,3,0,150.00,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",
+451,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Chennai Super Kings,won,10609,20:00:00,18,2009,5,"SuperSport Park, Centurion",
+452,Farveez Maharoof,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",112
+453,Yogesh Nagar,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",1800
+454,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",145
+455,Andrew McDonald,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",1645
+456,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",370
+457,Mithun Manhas,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",597
+458,Virender Sehwag,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Royal Challengers Bangalore,lost,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",26
+459,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",527
+460,Mark Boucher,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",208
+461,Ross Taylor,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",521
+462,Rahul Dravid,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",27
+463,Jacques Kallis,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",213
+464,3,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",
+465,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Daredevils,won,10610,20:00:00,19,2009,5,"The Wanderers Stadium, Johannesburg",
+466,Amit Singh,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10611,16:00:00,20,2009,5,"Kingsmead, Durban",1861
+467,Munaf Patel,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10611,16:00:00,20,2009,5,"Kingsmead, Durban",522
+468,Shane Warne,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10611,16:00:00,20,2009,5,"Kingsmead, Durban",135
+469,Ravindra Jadeja,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10611,16:00:00,20,2009,5,"Kingsmead, Durban",587
+470,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10611,16:00:00,20,2009,5,"Kingsmead, Durban",790
+471,Johan Botha,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10611,16:00:00,20,2009,5,"Kingsmead, Durban",487
+472,Niraj Patel,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10611,16:00:00,20,2009,5,"Kingsmead, Durban",1796
+473,Shoaib Shaikh,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,10611,16:00:00,20,2009,5,"Kingsmead, Durban",1909
+474,Ajit Agarkar,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,10611,16:00:00,20,2009,5,"Kingsmead, Durban",146
+475,David Hussey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,10611,16:00:00,20,2009,5,"Kingsmead, Durban",562
+476,Yashpal Singh,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,10611,16:00:00,20,2009,5,"Kingsmead, Durban",1832
+477,Laxmi Shukla,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,10611,16:00:00,20,2009,5,"Kingsmead, Durban",1600
+478,Brad Hodge,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,10611,16:00:00,20,2009,5,"Kingsmead, Durban",283
+479,Sourav Ganguly,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,won,10611,16:00:00,20,2009,5,"Kingsmead, Durban",29
+480,Lasith Malinga,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Daredevils,lost,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",111
+481,Dhawal Kulkarni,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",1451
+482,Harbhajan Singh,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Daredevils,lost,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",75
+483,Pinal Shah,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Daredevils,lost,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",1837
+484,Abhishek Nayar,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Daredevils,lost,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",1463
+485,Ajinkya Rahane,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Daredevils,lost,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",1447
+486,Jean-Paul Duminy,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Daredevils,lost,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",211
+487,Dinesh Karthik,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Mumbai Indians,won,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",145
+488,Amit Mishra,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Mumbai Indians,won,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",1454
+489,AB de Villiers,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Mumbai Indians,won,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",370
+490,Gautam Gambhir,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Mumbai Indians,won,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",308
+491,Rajat Bhatia,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Mumbai Indians,won,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",1468
+492,Virender Sehwag,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Mumbai Indians,won,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",26
+493,Tillakaratne Dilshan,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Mumbai Indians,won,10613,16:00:00,21,2009,5,"SuperSport Park, Centurion",105
+494,Amit Mishra,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Deccan Chargers,lost,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",1454
+495,Pradeep Sangwan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Deccan Chargers,lost,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",1472
+496,Rajat Bhatia,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Deccan Chargers,lost,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",1468
+497,Dinesh Karthik,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Deccan Chargers,lost,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",145
+498,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Deccan Chargers,lost,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",370
+499,Tillakaratne Dilshan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Deccan Chargers,lost,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",105
+500,David Warner,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Deccan Chargers,lost,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",1739
+501,Herschelle Gibbs,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Delhi Daredevils,won,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",212
+502,Adam Gilchrist,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Delhi Daredevils,won,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",36
+503,Rohit Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Delhi Daredevils,won,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",576
+504,Andrew Symonds,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Delhi Daredevils,won,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",39
+505,Tirumalsetti Suman,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Delhi Daredevils,won,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",1903
+506,Azhar Bilakhia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Delhi Daredevils,won,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",1906
+507,,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Delhi Daredevils,won,10615,20:00:00,22,2009,5,"SuperSport Park, Centurion",
+508,S Badrinath,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",574
+509,Jacob Oram,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",59
+510,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",413
+511,Albie Morkel,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",484
+512,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",265
+513,Matthew Hayden,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",157
+514,Parthiv Patel,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Royal Challengers Bangalore,lost,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",74
+515,Ross Taylor,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",521
+516,Jacques Kallis,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",213
+517,Virat Kohli,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",1413
+518,Manish Pandey,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",1836
+519,Rahul Dravid,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",27
+520,Roelof van der Merwe,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",1669
+521,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Chennai Super Kings,won,10616,20:00:00,23,2009,5,"The Wanderers Stadium, Johannesburg",
+522,Venugopal Rao,not out,31,14,3,2,221.43,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",412
+523,Rohit Sharma,b Pathan,13,10,0,1,130.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",576
+524,Tirumalsetti Suman,c Pathan b Mota,32,13,2,3,246.15,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",1903
+525,Andrew Symonds,not out,116,54,8,9,214.81,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",39
+526,Herschelle Gibbs,lbw b Hopes,2,3,0,0,66.67,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",212
+527,Ryan Harris,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",1442
+528,Azhar Bilakhia,b Pathan,25,17,4,1,147.06,Inn1,Deccan Chargers,Royal Challengers Bangalore,won,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",1906
+529,Anil Kumble,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",98
+530,Vinay Kumar,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",1449
+531,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",592
+532,Robin Uthappa,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",527
+533,Mark Boucher,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",208
+534,Virat Kohli,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",1413
+535,Rahul Dravid,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Deccan Chargers,lost,10617,20:00:00,24,2009,5,"The Wanderers Stadium, Johannesburg",27
+536,Pinal Shah,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,won,10605,16:00:00,18,2009,4,"Newlands, Cape Town",1837
+537,Zaheer Khan,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,won,10605,16:00:00,18,2009,4,"Newlands, Cape Town",71
+538,Abhishek Nayar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,won,10605,16:00:00,18,2009,4,"Newlands, Cape Town",1463
+539,Harbhajan Singh,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,won,10605,16:00:00,18,2009,4,"Newlands, Cape Town",75
+540,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,won,10605,16:00:00,18,2009,4,"Newlands, Cape Town",242
+541,Jean-Paul Duminy,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,won,10605,16:00:00,18,2009,4,"Newlands, Cape Town",211
+542,Sanath Jayasuriya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,won,10605,16:00:00,18,2009,4,"Newlands, Cape Town",102
+543,Thilan Thushara,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,lost,10605,16:00:00,18,2009,4,"Newlands, Cape Town",1119
+544,S Badrinath,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,lost,10605,16:00:00,18,2009,4,"Newlands, Cape Town",574
+545,Joginder Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,lost,10605,16:00:00,18,2009,4,"Newlands, Cape Town",270
+546,Parthiv Patel,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,lost,10605,16:00:00,18,2009,4,"Newlands, Cape Town",74
+547,MS Dhoni,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,lost,10605,16:00:00,18,2009,4,"Newlands, Cape Town",265
+548,Andrew Flintoff,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,lost,10605,16:00:00,18,2009,4,"Newlands, Cape Town",61
+549,Matthew Hayden,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,lost,10605,16:00:00,18,2009,4,"Newlands, Cape Town",157
+550,Dale Steyn,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,10604,20:40:00,18,2009,4,"Newlands, Cape Town",508
+551,Vinay Kumar,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,10604,20:40:00,18,2009,4,"Newlands, Cape Town",1449
+552,Praveen Kumar,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,10604,20:40:00,18,2009,4,"Newlands, Cape Town",592
+553,Balachandra Akhil,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,10604,20:40:00,18,2009,4,"Newlands, Cape Town",1803
+554,Virat Kohli,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,10604,20:40:00,18,2009,4,"Newlands, Cape Town",1413
+555,Rahul Dravid,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,10604,20:40:00,18,2009,4,"Newlands, Cape Town",27
+556,Kevin Pietersen,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Rajasthan Royals,won,10604,20:40:00,18,2009,4,"Newlands, Cape Town",395
+557,Kamran Khan,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,10604,20:40:00,18,2009,4,"Newlands, Cape Town",1863
+558,Mahesh Rawat,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,10604,20:40:00,18,2009,4,"Newlands, Cape Town",1797
+559,Munaf Patel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,10604,20:40:00,18,2009,4,"Newlands, Cape Town",522
+560,Shane Warne,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,10604,20:40:00,18,2009,4,"Newlands, Cape Town",135
+561,Graeme Smith,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,10604,20:40:00,18,2009,4,"Newlands, Cape Town",207
+562,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,10604,20:40:00,18,2009,4,"Newlands, Cape Town",790
+563,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Royal Challengers Bangalore,lost,10604,20:40:00,18,2009,4,"Newlands, Cape Town",587
+564,Ashok Dinda,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10602,22:20:00,19,2009,4,"Newlands, Cape Town",1467
+565,Ishant Sharma,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10602,22:20:00,19,2009,4,"Newlands, Cape Town",702
+566,Murali Kartik,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10602,22:20:00,19,2009,4,"Newlands, Cape Town",300
+567,Moises Henriques,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10602,22:20:00,19,2009,4,"Newlands, Cape Town",1437
+568,Aakash Chopra,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10602,22:20:00,19,2009,4,"Newlands, Cape Town",257
+569,Laxmi Shukla,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10602,22:20:00,19,2009,4,"Newlands, Cape Town",1600
+570,Brad Hodge,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10602,22:20:00,19,2009,4,"Newlands, Cape Town",283
+571,Herschelle Gibbs,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",212
+572,Rohit Sharma,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",576
+573,VVS Laxman,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",28
+574,Adam Gilchrist,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",36
+575,2,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",
+576,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",
+577,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",
+578,,b Pathan,25,10,3,0,150.00,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",
+579,,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10602,22:20:00,19,2009,4,"Newlands, Cape Town",
+580,Shane Warne,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",135
+581,Abhishek Raut,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",1905
+582,Dimitri Mascarenhas,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",741
+583,Yusuf Pathan,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",790
+584,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",587
+585,Rob Quiney,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",1648
+586,Graeme Smith,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Kolkata Knight Riders,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",207
+587,Ishant Sharma,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",702
+588,Yashpal Singh,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",1832
+589,Ajit Agarkar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",146
+590,Sanjay Bangar,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",1814
+591,Brendon McCullum,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",201
+592,Sourav Ganguly,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",29
+593,Chris Gayle,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Rajasthan Royals,lost,10596,20:15:00,23,2009,4,"Newlands, Cape Town",247
+594,Wilkin Mota,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Rajasthan Royals,won,10591,20:15:00,26,2009,4,"Newlands, Cape Town",1825
+595,Piyush Chawla,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,10591,20:15:00,26,2009,4,"Newlands, Cape Town",466
+596,Irfan Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Rajasthan Royals,won,10591,20:15:00,26,2009,4,"Newlands, Cape Town",73
+597,Yuvraj Singh,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Rajasthan Royals,won,10591,20:15:00,26,2009,4,"Newlands, Cape Town",69
+598,Mahela Jayawardene,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,won,10591,20:15:00,26,2009,4,"Newlands, Cape Town",101
+599,Kumar Sangakkara,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,won,10591,20:15:00,26,2009,4,"Newlands, Cape Town",104
+600,Ravi Bopara,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,won,10591,20:15:00,26,2009,4,"Newlands, Cape Town",571
+601,Mahesh Rawat,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10591,20:15:00,26,2009,4,"Newlands, Cape Town",1797
+602,Shane Warne,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10591,20:15:00,26,2009,4,"Newlands, Cape Town",135
+603,Ravindra Jadeja,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10591,20:15:00,26,2009,4,"Newlands, Cape Town",587
+604,Abhishek Raut,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10591,20:15:00,26,2009,4,"Newlands, Cape Town",1905
+605,Swapnil Asnodkar,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10591,20:15:00,26,2009,4,"Newlands, Cape Town",1462
+606,Dimitri Mascarenhas,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10591,20:15:00,26,2009,4,"Newlands, Cape Town",741
+607,Yusuf Pathan,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kings XI Punjab,lost,10591,20:15:00,26,2009,4,"Newlands, Cape Town",790
+608,Saurabh Tiwary,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1601
+609,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1446
+610,Dwayne Bravo,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",242
+611,Abhishek Nayar,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1463
+612,Jean-Paul Duminy,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",211
+613,Sachin Tendulkar,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",25
+614,Harbhajan Singh,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",75
+615,Ajantha Mendis,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1390
+616,Ashok Dinda,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1467
+617,Ishant Sharma,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",702
+618,Laxmi Shukla,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1600
+619,Yashpal Singh,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1832
+620,Arindam Ghosh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",1887
+621,Sourav Ganguly,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,10589,20:15:00,27,2009,4,"St George's Park, Port Elizabeth",29
+622,Ramesh Powar,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,won,10586,20:00:00,29,2009,4,"Kingsmead, Durban",513
+623,Piyush Chawla,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,won,10586,20:00:00,29,2009,4,"Kingsmead, Durban",466
+624,Irfan Pathan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,won,10586,20:00:00,29,2009,4,"Kingsmead, Durban",73
+625,Wilkin Mota,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,won,10586,20:00:00,29,2009,4,"Kingsmead, Durban",1825
+626,Kumar Sangakkara,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,won,10586,20:00:00,29,2009,4,"Kingsmead, Durban",104
+627,Yuvraj Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,won,10586,20:00:00,29,2009,4,"Kingsmead, Durban",69
+628,Ravi Bopara,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,won,10586,20:00:00,29,2009,4,"Kingsmead, Durban",571
+629,Zaheer Khan,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,lost,10586,20:00:00,29,2009,4,"Kingsmead, Durban",71
+630,Abhishek Nayar,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,10586,20:00:00,29,2009,4,"Kingsmead, Durban",1463
+631,Harbhajan Singh,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,lost,10586,20:00:00,29,2009,4,"Kingsmead, Durban",75
+632,Sanath Jayasuriya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,lost,10586,20:00:00,29,2009,4,"Kingsmead, Durban",102
+633,Dwayne Bravo,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,lost,10586,20:00:00,29,2009,4,"Kingsmead, Durban",242
+634,Shikhar Dhawan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,lost,10586,20:00:00,29,2009,4,"Kingsmead, Durban",1446
+635,Saurabh Tiwary,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,lost,10586,20:00:00,29,2009,4,"Kingsmead, Durban",1601
+636,Albie Morkel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,won,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",484
+637,Jacob Oram,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",59
+638,MS Dhoni,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,won,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",265
+639,Parthiv Patel,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,won,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",74
+640,Matthew Hayden,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,won,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",157
+641,Suresh Raina,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,won,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",413
+642,S Badrinath,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,won,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",574
+643,Siddharth Trivedi,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,lost,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",1594
+644,Kamran Khan,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",1863
+645,Mahesh Rawat,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,lost,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",1797
+646,Munaf Patel,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,lost,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",522
+647,Swapnil Asnodkar,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,lost,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",1462
+648,Rob Quiney,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,lost,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",1648
+649,Shane Warne,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,lost,10584,20:00:00,30,2009,4,"SuperSport Park, Centurion",135
+650,KP Appanna,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,10582,20:15:00,1,2009,5,"Kingsmead, Durban",1804
+651,Anil Kumble,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,10582,20:15:00,1,2009,5,"Kingsmead, Durban",98
+652,Roelof van der Merwe,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,10582,20:15:00,1,2009,5,"Kingsmead, Durban",1669
+653,Praveen Kumar,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,10582,20:15:00,1,2009,5,"Kingsmead, Durban",592
+654,Virat Kohli,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,10582,20:15:00,1,2009,5,"Kingsmead, Durban",1413
+655,Mark Boucher,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,10582,20:15:00,1,2009,5,"Kingsmead, Durban",208
+656,Robin Uthappa,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,won,10582,20:15:00,1,2009,5,"Kingsmead, Durban",527
+657,Simon Katich,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,10582,20:15:00,1,2009,5,"Kingsmead, Durban",280
+658,Yuvraj Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,10582,20:15:00,1,2009,5,"Kingsmead, Durban",69
+659,Karan Goel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,10582,20:15:00,1,2009,5,"Kingsmead, Durban",1823
+660,Tanmay Srivastava,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,10582,20:15:00,1,2009,5,"Kingsmead, Durban",590
+661,Ramesh Powar,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,10582,20:15:00,1,2009,5,"Kingsmead, Durban",513
+662,Piyush Chawla,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,10582,20:15:00,1,2009,5,"Kingsmead, Durban",466
+663,Irfan Pathan,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,lost,10582,20:15:00,1,2009,5,"Kingsmead, Durban",73
+664,Sudeep Tyagi,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Daredevils,won,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",1450
+665,Lakshmipathy Balaji,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",96
+666,Muttiah Muralitharan,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Daredevils,won,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",110
+667,Shadab Jakati,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Daredevils,won,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",1812
+668,Jacob Oram,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Daredevils,won,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",59
+669,Albie Morkel,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Daredevils,won,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",484
+670,MS Dhoni,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Daredevils,won,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",265
+671,Ashish Nehra,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Chennai Super Kings,lost,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",269
+672,AB de Villiers,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",370
+673,Tillakaratne Dilshan,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Chennai Super Kings,lost,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",105
+674,David Warner,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Chennai Super Kings,lost,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",1739
+675,Gautam Gambhir,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Chennai Super Kings,lost,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",308
+676,Amit Mishra,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Chennai Super Kings,lost,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",1454
+677,Rajat Bhatia,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Chennai Super Kings,lost,10580,20:15:00,2,2009,5,"The Wanderers Stadium, Johannesburg",1468
+678,Dwayne Bravo,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",242
+679,Ajinkya Rahane,b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",1447
+680,Jean-Paul Duminy,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",211
+681,Sachin Tendulkar,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",25
+682,Abhishek Nayar,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",1463
+683,Sanath Jayasuriya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",102
+684,,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Royal Challengers Bangalore,lost,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+685,Wasim Jaffer,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",499
+686,Jacques Kallis,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",213
+687,Robin Uthappa,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",527
+688,,not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+689,,not out,116,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+690,,not out,116,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+691,,not out,116,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+692,,lbw b Hopes,2,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+693,,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+694,,lbw b Hopes,2,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+695,,lbw b Hopes,2,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+696,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+697,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+698,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+699,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+700,,b Pathan,25,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+701,,b Pathan,25,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+702,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+703,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Mumbai Indians,won,10578,20:15:00,3,2009,5,"The Wanderers Stadium, Johannesburg",
+704,Wriddhiman Saha,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10575,20:00:00,5,2009,5,"Kingsmead, Durban",1465
+705,Brad Hodge,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10575,20:00:00,5,2009,5,"Kingsmead, Durban",283
+706,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10575,20:00:00,5,2009,5,"Kingsmead, Durban",1437
+707,Brendon McCullum,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10575,20:00:00,5,2009,5,"Kingsmead, Durban",201
+708,Morne van Wyk,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10575,20:00:00,5,2009,5,"Kingsmead, Durban",614
+709,4,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+710,,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+711,Tillakaratne Dilshan,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",105
+712,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",308
+713,David Warner,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",1739
+714,,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+715,,not out,116,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+716,,not out,116,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+717,,not out,116,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+718,,lbw b Hopes,2,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+719,,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+720,,lbw b Hopes,2,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+721,,lbw b Hopes,2,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+722,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+723,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+724,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+725,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+726,,b Pathan,25,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+727,,b Pathan,25,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+728,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+729,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10575,20:00:00,5,2009,5,"Kingsmead, Durban",
+730,Albie Morkel,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kings XI Punjab,won,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",484
+731,MS Dhoni,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",265
+732,Suresh Raina,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kings XI Punjab,won,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",413
+733,S Badrinath,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kings XI Punjab,won,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",574
+734,Matthew Hayden,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kings XI Punjab,won,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",157
+735,6,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",
+736,,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kings XI Punjab,won,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",
+737,Sunny Sohal,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",1827
+738,Yuvraj Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",69
+739,Karan Goel,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",1823
+740,Simon Katich,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",280
+741,Mahela Jayawardene,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",101
+742,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",
+743,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",
+744,,b Pathan,25,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",
+745,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10572,20:00:00,7,2009,5,"SuperSport Park, Centurion",
+746,Shane Harwood,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Chennai Super Kings,lost,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",609
+747,Shane Warne,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",135
+748,Abhishek Raut,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Chennai Super Kings,lost,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",1905
+749,Lee Carseldine,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Chennai Super Kings,lost,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",1859
+750,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Chennai Super Kings,lost,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",587
+751,Yusuf Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Chennai Super Kings,lost,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",790
+752,Swapnil Asnodkar,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Chennai Super Kings,lost,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",1462
+753,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",1597
+754,Matthew Hayden,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",157
+755,S Badrinath,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",574
+756,Jacob Oram,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",59
+757,Suresh Raina,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",413
+758,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",
+759,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",
+760,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",
+761,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Rajasthan Royals,won,10569,20:00:00,9,2009,5,"Diamond Oval, Kimberley",
+762,Murali Kartik,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",300
+763,Ajit Agarkar,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",146
+764,Moises Henriques,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",1437
+765,Yashpal Singh,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",1832
+766,Wriddhiman Saha,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",1465
+767,Morne van Wyk,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",614
+768,Brad Hodge,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Daredevils,lost,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",283
+769,David Warner,not out,31,14,3,2,221.43,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",1739
+770,Gautam Gambhir,b Pathan,13,10,0,1,130.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",308
+771,Dinesh Karthik,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",145
+772,Tillakaratne Dilshan,not out,116,54,8,9,214.81,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",105
+773,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",370
+774,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",
+775,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",
+776,,b Pathan,25,10,3,0,150.00,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",
+777,,b Pathan,25,17,4,1,147.06,Inn2,Delhi Daredevils,Kolkata Knight Riders,won,10567,20:15:00,10,2009,5,"The Wanderers Stadium, Johannesburg",
+778,S Sreesanth,not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Mumbai Indians,lost,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",463
+779,Piyush Chawla,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",466
+780,Brett Lee,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Mumbai Indians,lost,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",42
+781,Karan Goel,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Mumbai Indians,lost,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",1823
+782,Luke Pomersbach,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Mumbai Indians,lost,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",1006
+783,Wilkin Mota,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Mumbai Indians,lost,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",1825
+784,Yuvraj Singh,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Mumbai Indians,lost,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",69
+785,Sanath Jayasuriya,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",102
+786,Dwayne Bravo,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",242
+787,Sachin Tendulkar,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",25
+788,Ajinkya Rahane,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",1447
+789,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+790,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+791,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+792,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+793,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+794,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+795,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+796,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+797,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kings XI Punjab,won,10564,20:00:00,12,2009,5,"SuperSport Park, Centurion",
+798,Shane Warne,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Mumbai Indians,won,10561,20:00:00,14,2009,5,"Kingsmead, Durban",135
+799,Johan Botha,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Mumbai Indians,won,10561,20:00:00,14,2009,5,"Kingsmead, Durban",487
+800,Naman Ojha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Mumbai Indians,won,10561,20:00:00,14,2009,5,"Kingsmead, Durban",1599
+801,Siddharth Chitnis,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Mumbai Indians,won,10561,20:00:00,14,2009,5,"Kingsmead, Durban",1833
+802,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Mumbai Indians,won,10561,20:00:00,14,2009,5,"Kingsmead, Durban",587
+803,Graeme Smith,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Mumbai Indians,won,10561,20:00:00,14,2009,5,"Kingsmead, Durban",207
+804,Yusuf Pathan,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Mumbai Indians,won,10561,20:00:00,14,2009,5,"Kingsmead, Durban",790
+805,Chetanya Nanda,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Rajasthan Royals,lost,10561,20:00:00,14,2009,5,"Kingsmead, Durban",1471
+806,Lasith Malinga,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Rajasthan Royals,lost,10561,20:00:00,14,2009,5,"Kingsmead, Durban",111
+807,Dhawal Kulkarni,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Rajasthan Royals,lost,10561,20:00:00,14,2009,5,"Kingsmead, Durban",1451
+808,Harbhajan Singh,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Rajasthan Royals,lost,10561,20:00:00,14,2009,5,"Kingsmead, Durban",75
+809,Abhishek Nayar,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Rajasthan Royals,lost,10561,20:00:00,14,2009,5,"Kingsmead, Durban",1463
+810,Dwayne Bravo,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Rajasthan Royals,lost,10561,20:00:00,14,2009,5,"Kingsmead, Durban",242
+811,Jean-Paul Duminy,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Rajasthan Royals,lost,10561,20:00:00,14,2009,5,"Kingsmead, Durban",211
+812,Ajit Agarkar,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",146
+813,Mashrafe Mortaza,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",323
+814,Wriddhiman Saha,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",1465
+815,David Hussey,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",562
+816,Sourav Ganguly,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",29
+817,Brad Hodge,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",283
+818,Brendon McCullum,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Deccan Chargers,lost,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",201
+819,Venugopal Rao,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",412
+820,Rohit Sharma,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",576
+821,Tirumalsetti Suman,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",1903
+822,Herschelle Gibbs,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",212
+823,Andrew Symonds,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",39
+824,Adam Gilchrist,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",36
+825,,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Kolkata Knight Riders,won,10606,20:15:00,16,2009,5,"The Wanderers Stadium, Johannesburg",
+826,Dinesh Karthik,not out,31,14,3,2,221.43,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",145
+827,AB de Villiers,b Pathan,13,10,0,1,130.00,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",370
+828,Gautam Gambhir,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",308
+829,Virender Sehwag,not out,116,54,8,9,214.81,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",26
+830,Tillakaratne Dilshan,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",105
+831,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",
+832,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",
+833,,b Pathan,25,10,3,0,150.00,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",
+834,,b Pathan,25,17,4,1,147.06,Inn1,Delhi Daredevils,Rajasthan Royals,won,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",
+835,Munaf Patel,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Daredevils,lost,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",522
+836,Amit Singh,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Daredevils,lost,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",1861
+837,Shane Warne,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Daredevils,lost,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",135
+838,Abhishek Raut,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Daredevils,lost,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",1905
+839,Yusuf Pathan,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Daredevils,lost,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",790
+840,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Daredevils,lost,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",587
+841,Johan Botha,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Daredevils,lost,10608,20:15:00,17,2009,5,"Mangaung Oval, Bloemfontein",487
+842,Lakshmipathy Balaji,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Kings XI Punjab,won,10612,20:00:00,20,2009,5,"Kingsmead, Durban",96
+843,Muttiah Muralitharan,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10612,20:00:00,20,2009,5,"Kingsmead, Durban",110
+844,Thilan Thushara,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Kings XI Punjab,won,10612,20:00:00,20,2009,5,"Kingsmead, Durban",1119
+845,Ravichandran Ashwin,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Kings XI Punjab,won,10612,20:00:00,20,2009,5,"Kingsmead, Durban",1593
+846,Manpreet Gony,lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Kings XI Punjab,won,10612,20:00:00,20,2009,5,"Kingsmead, Durban",1358
+847,Jacob Oram,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Kings XI Punjab,won,10612,20:00:00,20,2009,5,"Kingsmead, Durban",59
+848,MS Dhoni,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Kings XI Punjab,won,10612,20:00:00,20,2009,5,"Kingsmead, Durban",265
+849,Ramesh Powar,not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10612,20:00:00,20,2009,5,"Kingsmead, Durban",513
+850,Piyush Chawla,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10612,20:00:00,20,2009,5,"Kingsmead, Durban",466
+851,Brett Lee,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10612,20:00:00,20,2009,5,"Kingsmead, Durban",42
+852,Simon Katich,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10612,20:00:00,20,2009,5,"Kingsmead, Durban",280
+853,Sunny Sohal,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10612,20:00:00,20,2009,5,"Kingsmead, Durban",1827
+854,Irfan Pathan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10612,20:00:00,20,2009,5,"Kingsmead, Durban",73
+855,Wilkin Mota,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Chennai Super Kings,lost,10612,20:00:00,20,2009,5,"Kingsmead, Durban",1825
+856,Jacques Kallis,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",213
+857,Manish Pandey,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",1836
+858,Roelof van der Merwe,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",1669
+859,Rahul Dravid,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",27
+860,Ross Taylor,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",521
+861,Virat Kohli,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",1413
+862,2,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Deccan Chargers,won,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",
+863,Adam Gilchrist,not out,31,14,3,2,221.43,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",36
+864,Herschelle Gibbs,b Pathan,13,10,0,1,130.00,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",212
+865,Tirumalsetti Suman,c Pathan b Mota,32,13,2,3,246.15,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",1903
+866,Andrew Symonds,not out,116,54,8,9,214.81,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",39
+867,Rohit Sharma,lbw b Hopes,2,3,0,0,66.67,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",576
+868,Venugopal Rao,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",412
+869,Azhar Bilakhia,b Pathan,25,17,4,1,147.06,Inn2,Deccan Chargers,Royal Challengers Bangalore,lost,10614,20:00:00,21,2009,5,"SuperSport Park, Centurion",1906

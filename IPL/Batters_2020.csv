@@ -1,0 +1,911 @@
+,batsman,got_out,Runs,Balls,Fours,Sixes,St.rate,Inning,Team,Opponent,Win/Lost,match_id,time,day,year,Month,Venue,ID
+0,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Kings XI Punjab,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",12094
+1,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Kings XI Punjab,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",1446
+2,Hetmyer,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Kings XI Punjab,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",9789
+3,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Kings XI Punjab,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",9428
+4,Pant (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Kings XI Punjab,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",10744
+5,Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Kings XI Punjab,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",8989
+6,Axar,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Kings XI Punjab,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",8808
+7,Lokesh Rahul (c & wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Capitals,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",8733
+8,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Capitals,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",2195
+9,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Capitals,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",8257
+10,Nicholas Pooran,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Capitals,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",9406
+11,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Capitals,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",7662
+12,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Capitals,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",9429
+13,Krishnappa Gowtham,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Capitals,lost,30340,19:30:00,20,2020,9,"Dubai International Cricket Stadium, Dubai",8925
+14,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",13088
+15,Finch,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",1643
+16,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",1413
+17,de Villiers,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",370
+18,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",11195
+19,Philippe (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",13172
+20,5,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,won,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",
+21,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",1739
+22,Jonny Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",6507
+23,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",1836
+24,Priyam Garg,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",12089
+25,Vijay Shankar,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",8204
+26,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",12086
+27,Rashid Khan,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,lost,30345,19:30:00,21,2020,9,"Dubai International Cricket Stadium, Dubai",10738
+28,Jaiswal,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Chennai Super Kings,won,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",13940
+29,Steven Smith (c),b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Chennai Super Kings,won,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",2250
+30,Samson (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Chennai Super Kings,won,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",8271
+31,Miller,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Chennai Super Kings,won,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",6349
+32,Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Chennai Super Kings,won,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",527
+33,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Chennai Super Kings,won,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",9693
+34,Riyan Parag,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Chennai Super Kings,won,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",12305
+35,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Rajasthan Royals,lost,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",1597
+36,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Rajasthan Royals,lost,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",158
+37,Faf du Plessis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Rajasthan Royals,lost,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",7825
+38,Sam Curran,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Rajasthan Royals,lost,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",10420
+39,Ruturaj Gaikwad,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Rajasthan Royals,lost,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",11813
+40,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Rajasthan Royals,lost,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",1851
+41,MS Dhoni (c & wk),b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Rajasthan Royals,lost,30350,19:30:00,22,2020,9,"Sharjah Cricket Stadium, Sharjah",265
+42,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kolkata Knight Riders,won,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",8520
+43,Rohit (c),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",576
+44,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kolkata Knight Riders,won,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",7915
+45,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kolkata Knight Riders,won,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1601
+46,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kolkata Knight Riders,won,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",9647
+47,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kolkata Knight Riders,won,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",657
+48,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kolkata Knight Riders,won,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",11311
+49,Shubman Gill,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",11808
+50,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",2276
+51,Dinesh Karthik (c & wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",145
+52,Nitish Rana,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",9204
+53,Eoin Morgan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",624
+54,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",7736
+55,Nikhil Naik,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Mumbai Indians,lost,30354,19:30:00,23,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",9295
+56,Rahul (c & wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",8733
+57,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",2195
+58,Pooran,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",9406
+59,Maxwell,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",7662
+60,Nair,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",8257
+61,11,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",
+62,,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Royal Challengers Bangalore,won,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",
+63,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",13088
+64,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",1643
+65,Josh Philippe (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",13172
+66,Virat Kohli (c),not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",1413
+67,AB de Villiers,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",370
+68,Washington Sundar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",10945
+69,Shivam Dube,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kings XI Punjab,lost,30355,19:30:00,24,2020,9,"Dubai International Cricket Stadium, Dubai",11195
+70,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Chennai Super Kings,won,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",12094
+71,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Chennai Super Kings,won,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",1446
+72,Pant (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Chennai Super Kings,won,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",10744
+73,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Chennai Super Kings,won,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",9428
+74,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Chennai Super Kings,won,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",8989
+75,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Chennai Super Kings,won,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",
+76,,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Chennai Super Kings,won,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",
+77,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Delhi Capitals,lost,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",1597
+78,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Delhi Capitals,lost,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",158
+79,Faf du Plessis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Delhi Capitals,lost,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",7825
+80,Ruturaj Gaikwad,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Delhi Capitals,lost,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",11813
+81,Kedar Jadhav,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Delhi Capitals,lost,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",1851
+82,MS Dhoni (c & wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Delhi Capitals,lost,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",265
+83,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Delhi Capitals,lost,30360,19:30:00,25,2020,9,"Dubai International Cricket Stadium, Dubai",587
+84,Warner (c),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1739
+85,Bairstow,b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",6507
+86,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1836
+87,W Saha (wk),not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1465
+88,Nabi,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",3007
+89,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",12086
+90,7,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",
+91,Shubman Gill,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",11808
+92,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",2276
+93,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",9204
+94,Dinesh Karthik (c & wk),not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",145
+95,Eoin Morgan,lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",624
+96,7,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",
+97,,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Sunrisers Hyderabad,won,30365,19:30:00,26,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",
+98,Rahul (c & wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",8733
+99,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",2195
+100,Maxwell,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",7662
+101,Pooran,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",9406
+102,10,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",
+103,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",
+104,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",
+105,,b Pathan,25,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",
+106,,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",
+107,Jos Buttler (wk),not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kings XI Punjab,won,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",2258
+108,Steven Smith (c),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kings XI Punjab,won,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",2250
+109,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kings XI Punjab,won,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",8271
+110,Rahul Tewatia,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kings XI Punjab,won,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",9693
+111,Robin Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kings XI Punjab,won,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",527
+112,Jofra Archer,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kings XI Punjab,won,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",11540
+113,Riyan Parag,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kings XI Punjab,won,30369,19:30:00,27,2020,9,"Sharjah Cricket Stadium, Sharjah",12305
+114,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",13088
+115,Finch,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",1643
+116,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",1413
+117,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",370
+118,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",11195
+119,10,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",
+120,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",
+121,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",576
+122,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",8520
+123,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",7915
+124,Ishan Kishan,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",10276
+125,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",9647
+126,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",657
+127,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,lost,30370,19:30:00,28,2020,9,"Dubai International Cricket Stadium, Dubai",11311
+128,Warner (c),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1739
+129,Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",6507
+130,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1836
+131,Williamson,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",6326
+132,Abdul Samad,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",14628
+133,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",12086
+134,7,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",
+135,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",12094
+136,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1446
+137,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",9428
+138,Rishabh Pant (wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",10744
+139,Shimron Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",9789
+140,Marcus Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",8989
+141,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30375,19:30:00,29,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",8808
+142,Shubman Gill,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",11808
+143,Narine,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",2276
+144,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",9204
+145,Russell,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",7736
+146,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",145
+147,Morgan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",624
+148,Cummins,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",8095
+149,Jos Buttler (wk),not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",2258
+150,Steven Smith (c),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",2250
+151,Sanju Samson,c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",8271
+152,Robin Uthappa,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",527
+153,Riyan Parag,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",12305
+154,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",9693
+155,Tom Curran,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30380,19:30:00,30,2020,9,"Dubai International Cricket Stadium, Dubai",9522
+156,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kings XI Punjab,won,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8520
+157,Rohit (c),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kings XI Punjab,won,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",576
+158,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kings XI Punjab,won,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7915
+159,Ishan Kishan,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kings XI Punjab,won,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10276
+160,Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kings XI Punjab,won,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",657
+161,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kings XI Punjab,won,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9647
+162,6,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kings XI Punjab,won,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+163,Lokesh Rahul (c & wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Mumbai Indians,lost,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8733
+164,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2195
+165,Karun Nair,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Mumbai Indians,lost,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8257
+166,Nicholas Pooran,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Mumbai Indians,lost,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9406
+167,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Mumbai Indians,lost,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7662
+168,James Neesham,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8983
+169,Sarfaraz Khan,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Mumbai Indians,lost,30384,19:30:00,1,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9429
+170,Warner (c),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",1739
+171,Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",6507
+172,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",1836
+173,Williamson,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",6326
+174,Priyam Garg,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",12089
+175,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",12086
+176,Abdul Samad,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Chennai Super Kings,won,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",14628
+177,Faf du Plessis,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",7825
+178,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",158
+179,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",6311
+180,Kedar Jadhav,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",1851
+181,MS Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",265
+182,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",587
+183,Sam Curran,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Sunrisers Hyderabad,lost,30385,19:30:00,2,2020,10,"Dubai International Cricket Stadium, Dubai",10420
+184,Jos Buttler (wk),not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2258
+185,Steven Smith (c),b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2250
+186,Samson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8271
+187,Uthappa,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",527
+188,Lomror,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10954
+189,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",12305
+190,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9693
+191,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",13088
+192,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1643
+193,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1413
+194,AB de Villiers (wk),not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",370
+195,3,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+196,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+197,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+198,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+199,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30390,15:30:00,3,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+200,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",576
+201,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",8520
+202,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",7915
+203,Ishan Kishan,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",10276
+204,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",9647
+205,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",657
+206,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Sunrisers Hyderabad,won,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",11311
+207,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",1739
+208,Jonny Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",6507
+209,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",1836
+210,Kane Williamson,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",6326
+211,Priyam Garg,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",12089
+212,Abhishek Sharma,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",12086
+213,Abdul Samad,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,lost,30399,15:30:00,4,2020,10,"Sharjah Cricket Stadium, Sharjah",14628
+214,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Royal Challengers Bangalore,won,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",12094
+215,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Royal Challengers Bangalore,won,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",1446
+216,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Royal Challengers Bangalore,won,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",9428
+217,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Royal Challengers Bangalore,won,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",10744
+218,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Royal Challengers Bangalore,won,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",8989
+219,Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Royal Challengers Bangalore,won,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",9789
+220,10,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Royal Challengers Bangalore,won,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",
+221,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Delhi Capitals,lost,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",13088
+222,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Delhi Capitals,lost,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",1643
+223,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Delhi Capitals,lost,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",1413
+224,AB de Villiers (wk),not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Delhi Capitals,lost,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",370
+225,Moeen Ali,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Delhi Capitals,lost,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",6692
+226,Washington Sundar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Delhi Capitals,lost,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",10945
+227,Shivam Dube,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Delhi Capitals,lost,30409,19:30:00,5,2020,10,"Dubai International Cricket Stadium, Dubai",11195
+228,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,won,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8520
+229,Rohit (c),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,won,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",576
+230,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,won,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7915
+231,Ishan Kishan,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,won,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10276
+232,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,won,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11311
+233,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,won,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9647
+234,14,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,won,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+235,Yashasvi Jaiswal,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,lost,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",13940
+236,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2258
+237,Steven Smith (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,lost,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2250
+238,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,lost,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8271
+239,Mahipal Lomror,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,lost,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10954
+240,Tom Curran,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,lost,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9522
+241,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,lost,30414,19:30:00,6,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9693
+242,Tripathi,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Chennai Super Kings,won,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9012
+243,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,won,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11808
+244,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Chennai Super Kings,won,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9204
+245,Narine,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Chennai Super Kings,won,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2276
+246,Morgan,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Chennai Super Kings,won,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",624
+247,Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,won,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7736
+248,Karthik (c & wk),b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Chennai Super Kings,won,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",145
+249,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kolkata Knight Riders,lost,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",158
+250,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,lost,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7825
+251,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,lost,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6311
+252,MS Dhoni (c & wk),not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,lost,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",265
+253,Sam Curran,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,lost,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10420
+254,Kedar Jadhav,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,lost,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1851
+255,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,lost,30415,19:30:00,7,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",587
+256,Warner (c),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",1739
+257,Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",6507
+258,Abdul Samad,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",14628
+259,Manish Pandey,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",1836
+260,Williamson,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",6326
+261,Priyam Garg,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",12089
+262,Abhishek Sharma,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Kings XI Punjab,won,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",12086
+263,KL Rahul (c),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",8733
+264,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",2195
+265,Simran Singh (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",14254
+266,Nicholas Pooran,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",9406
+267,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",7662
+268,Mandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",6319
+269,Mujeeb Ur Rahman,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Sunrisers Hyderabad,lost,30419,19:30:00,8,2020,10,"Dubai International Cricket Stadium, Dubai",12071
+270,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Rajasthan Royals,won,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",12094
+271,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Rajasthan Royals,won,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",1446
+272,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Rajasthan Royals,won,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",9428
+273,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Rajasthan Royals,won,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",10744
+274,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Rajasthan Royals,won,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",8989
+275,Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Rajasthan Royals,won,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",9789
+276,Harshal Patel,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Rajasthan Royals,won,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",8175
+277,Yashasvi Jaiswal,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Capitals,lost,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",13940
+278,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Capitals,lost,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",2258
+279,Steven Smith (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Capitals,lost,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",2250
+280,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Capitals,lost,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",8271
+281,Mahipal Lomror,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Capitals,lost,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",10954
+282,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Capitals,lost,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",9693
+283,Andrew Tye,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Capitals,lost,30420,19:30:00,9,2020,10,"Sharjah Cricket Stadium, Sharjah",9617
+284,Tripathi,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9012
+285,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11808
+286,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9204
+287,Morgan,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",624
+288,Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",145
+289,Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7736
+290,Cummins,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,won,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8095
+291,KL Rahul (c),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8733
+292,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2195
+293,Nicholas Pooran,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9406
+294,Simran Singh (wk),not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",14254
+295,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7662
+296,Mandeep Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6319
+297,Chris Jordan,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,lost,30424,15:30:00,10,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6532
+298,Warner (c),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",1739
+299,Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",6507
+300,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",1836
+301,Williamson,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",6326
+302,Priyam Garg,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",12089
+303,3,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",
+304,,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Rajasthan Royals,lost,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",
+305,Ben Stokes,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",6557
+306,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",2258
+307,Steven Smith (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",2250
+308,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",8271
+309,Robin Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",527
+310,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",12305
+311,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Sunrisers Hyderabad,won,30430,15:30:00,11,2020,10,"Dubai International Cricket Stadium, Dubai",9693
+312,Finch,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",1643
+313,Devdutt Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",13088
+314,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",1413
+315,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",370
+316,9,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",
+317,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",
+318,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",
+319,,b Pathan,25,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",
+320,,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kolkata Knight Riders,won,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",
+321,Tom Banton,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",12254
+322,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",11808
+323,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",9204
+324,Eoin Morgan,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",624
+325,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",145
+326,Andre Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",7736
+327,Rahul Tripathi,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30439,19:30:00,12,2020,10,"Sharjah Cricket Stadium, Sharjah",9012
+328,Sam Curran,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",10420
+329,du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",7825
+330,Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",158
+331,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",6311
+332,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",265
+333,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",587
+334,DJ Bravo,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Sunrisers Hyderabad,won,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",242
+335,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",1739
+336,Jonny Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",6507
+337,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",1836
+338,Kane Williamson,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",6326
+339,Priyam Garg,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",12089
+340,Vijay Shankar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",8204
+341,Rashid Khan,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Chennai Super Kings,lost,30440,19:30:00,13,2020,10,"Dubai International Cricket Stadium, Dubai",10738
+342,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Rajasthan Royals,won,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",12094
+343,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Rajasthan Royals,won,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",1446
+344,Rahane,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Rajasthan Royals,won,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",1447
+345,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Rajasthan Royals,won,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",9428
+346,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Rajasthan Royals,won,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",8989
+347,Alex Carey (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Rajasthan Royals,won,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",9200
+348,Axar,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Rajasthan Royals,won,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",8808
+349,Ben Stokes,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Delhi Capitals,lost,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",6557
+350,Jos Buttler (wk),b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Delhi Capitals,lost,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",2258
+351,Steven Smith (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Delhi Capitals,lost,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",2250
+352,Sanju Samson,not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Delhi Capitals,lost,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",8271
+353,Robin Uthappa,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Delhi Capitals,lost,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",527
+354,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Delhi Capitals,lost,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",12305
+355,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Delhi Capitals,lost,30445,19:30:00,14,2020,10,"Dubai International Cricket Stadium, Dubai",9693
+356,Finch,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",1643
+357,Devdutt Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",13088
+358,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",1413
+359,Washington Sundar,not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",10945
+360,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",11195
+361,de Villiers (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",370
+362,Chris Morris,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Kings XI Punjab,lost,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",8333
+363,KL Rahul (c & wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",8733
+364,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",2195
+365,Chris Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",247
+366,Nicholas Pooran,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",9406
+367,12,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",
+368,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",
+369,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",
+370,,b Pathan,25,10,3,0,150.00,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",
+371,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Royal Challengers Bangalore,won,30449,19:30:00,15,2020,10,"Sharjah Cricket Stadium, Sharjah",
+372,Tripathi,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9012
+373,Shubman Gill,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11808
+374,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9204
+375,Karthik (wk),not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",145
+376,Morgan (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",624
+377,Russell,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7736
+378,Cummins,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Mumbai Indians,lost,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8095
+379,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",576
+380,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8520
+381,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7915
+382,Hardik Pandya,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9647
+383,5,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+384,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+385,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+386,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+387,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Kolkata Knight Riders,won,30450,19:30:00,16,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+388,Uthappa,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",527
+389,Stokes,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",6557
+390,Samson (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",8271
+391,Steven Smith (c),not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",2250
+392,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",2258
+393,Rahul Tewatia,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",9693
+394,Jofra Archer,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Royal Challengers Bangalore,lost,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",11540
+395,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",13088
+396,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",1643
+397,Virat Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",1413
+398,AB de Villiers (wk),not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",370
+399,Gurkeerat Singh Mann,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",8298
+400,13,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",
+401,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Rajasthan Royals,won,30454,15:30:00,17,2020,10,"Dubai International Cricket Stadium, Dubai",
+402,Shubman Gill,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11808
+403,Tripathi,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9012
+404,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9204
+405,Russell,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7736
+406,Morgan (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",624
+407,Karthik (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",145
+408,3,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Sunrisers Hyderabad,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+409,Jonny Bairstow (wk),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6507
+410,Kane Williamson,b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6326
+411,Priyam Garg,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",12089
+412,David Warner (c),not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1739
+413,Manish Pandey,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1836
+414,Vijay Shankar,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8204
+415,Abdul Samad,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kolkata Knight Riders,lost,30460,15:30:00,18,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",14628
+416,Sam Curran,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Rajasthan Royals,lost,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10420
+417,du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7825
+418,Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Rajasthan Royals,lost,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",158
+419,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Rajasthan Royals,lost,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6311
+420,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Rajasthan Royals,lost,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",265
+421,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Rajasthan Royals,lost,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",587
+422,Kedar Jadhav,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Rajasthan Royals,lost,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1851
+423,Ben Stokes,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Chennai Super Kings,won,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6557
+424,Robin Uthappa,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",527
+425,Sanju Samson (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Chennai Super Kings,won,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8271
+426,Steven Smith (c),not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Chennai Super Kings,won,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2250
+427,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Chennai Super Kings,won,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2258
+428,7,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Chennai Super Kings,won,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+429,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Chennai Super Kings,won,30465,19:30:00,19,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+430,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Kings XI Punjab,lost,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",12094
+431,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Kings XI Punjab,lost,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",1446
+432,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Kings XI Punjab,lost,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",9428
+433,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Kings XI Punjab,lost,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",10744
+434,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Kings XI Punjab,lost,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",8989
+435,Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Kings XI Punjab,lost,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",9789
+436,4,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Kings XI Punjab,lost,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",
+437,KL Rahul (c & wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Delhi Capitals,won,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",8733
+438,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Delhi Capitals,won,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",2195
+439,Chris Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Delhi Capitals,won,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",247
+440,Nicholas Pooran,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Delhi Capitals,won,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",9406
+441,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Delhi Capitals,won,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",7662
+442,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Delhi Capitals,won,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",9427
+443,James Neesham,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Delhi Capitals,won,30469,19:30:00,20,2020,10,"Dubai International Cricket Stadium, Dubai",8983
+444,Shubman Gill,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11808
+445,Tripathi,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9012
+446,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9204
+447,Tom Banton,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",12254
+448,Karthik (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",145
+449,Morgan (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",624
+450,Cummins,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Royal Challengers Bangalore,lost,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8095
+451,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",13088
+452,Aaron Finch,b Pathan,13,10,0,1,130.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1643
+453,Gurkeerat Singh Mann,c Pathan b Mota,32,13,2,3,246.15,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8298
+454,Virat Kohli (c),not out,116,54,8,9,214.81,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1413
+455,5,lbw b Hopes,2,3,0,0,66.67,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+456,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+457,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+458,,b Pathan,25,10,3,0,150.00,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+459,,b Pathan,25,17,4,1,147.06,Inn2,Royal Challengers Bangalore,Kolkata Knight Riders,won,30474,19:30:00,21,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+460,Uthappa,not out,31,14,3,2,221.43,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",527
+461,Stokes,b Pathan,13,10,0,1,130.00,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",6557
+462,Samson (wk),c Pathan b Mota,32,13,2,3,246.15,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",8271
+463,Jos Buttler,not out,116,54,8,9,214.81,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",2258
+464,Steven Smith (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",2250
+465,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",12305
+466,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn1,Rajasthan Royals,Sunrisers Hyderabad,lost,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",9693
+467,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",1739
+468,Jonny Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",6507
+469,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",1836
+470,Vijay Shankar,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",8204
+471,7,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",
+472,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",
+473,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",
+474,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",
+475,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Rajasthan Royals,won,30475,19:30:00,22,2020,10,"Dubai International Cricket Stadium, Dubai",
+476,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Mumbai Indians,lost,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",11813
+477,du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",7825
+478,Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Mumbai Indians,lost,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",6311
+479,N Jagadeesan,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Mumbai Indians,lost,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",11675
+480,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Mumbai Indians,lost,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",265
+481,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Mumbai Indians,lost,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",587
+482,Sam Curran,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Mumbai Indians,lost,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",10420
+483,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",8520
+484,Ishan Kishan,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",10276
+485,2,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+486,,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+487,,not out,116,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+488,,not out,116,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+489,,not out,116,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+490,,lbw b Hopes,2,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+491,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+492,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+493,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+494,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+495,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+496,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+497,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+498,,b Pathan,25,54,8,9,214.81,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+499,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+500,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+501,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Chennai Super Kings,won,30479,19:30:00,23,2020,10,"Sharjah Cricket Stadium, Sharjah",
+502,Shubman Gill,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Delhi Capitals,won,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11808
+503,Nitish Rana,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Delhi Capitals,won,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9204
+504,Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Delhi Capitals,won,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9012
+505,Karthik (wk),not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Delhi Capitals,won,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",145
+506,Narine,lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Delhi Capitals,won,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2276
+507,Morgan (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Delhi Capitals,won,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",624
+508,Cummins,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Delhi Capitals,won,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8095
+509,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Kolkata Knight Riders,lost,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1447
+510,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Kolkata Knight Riders,lost,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1446
+511,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Kolkata Knight Riders,lost,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9428
+512,Rishabh Pant (wk),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Kolkata Knight Riders,lost,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10744
+513,Shimron Hetmyer,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Kolkata Knight Riders,lost,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9789
+514,Marcus Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Kolkata Knight Riders,lost,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8989
+515,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Kolkata Knight Riders,lost,30484,15:30:00,24,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8808
+516,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",13088
+517,Finch,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",1643
+518,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",1413
+519,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",370
+520,Moeen,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",6692
+521,Chris Morris,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",8333
+522,Gurkeerat Singh,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,lost,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",8298
+523,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",11813
+524,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",7825
+525,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",6311
+526,MS Dhoni (c & wk),not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",265
+527,2,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",
+528,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",
+529,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",
+530,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",
+531,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,won,30494,15:30:00,25,2020,10,"Dubai International Cricket Stadium, Dubai",
+532,Shubman Gill,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",11808
+533,Nitish Rana,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",9204
+534,Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",9012
+535,Karthik (wk),not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",145
+536,Morgan (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",624
+537,Narine,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",2276
+538,K Nagarkoti,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Kings XI Punjab,lost,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",12092
+539,KL Rahul (c & wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",8733
+540,Mandeep Singh,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",6319
+541,Chris Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",247
+542,Nicholas Pooran,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",9406
+543,3,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",
+544,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",
+545,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",
+546,,b Pathan,25,10,3,0,150.00,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",
+547,,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Kolkata Knight Riders,won,30500,19:30:00,26,2020,10,"Sharjah Cricket Stadium, Sharjah",
+548,Warner (c),not out,31,14,3,2,221.43,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",1739
+549,W Saha (wk),b Pathan,13,10,0,1,130.00,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",1465
+550,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",1836
+551,Williamson,not out,116,54,8,9,214.81,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",6326
+552,11,lbw b Hopes,2,3,0,0,66.67,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",
+553,,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",
+554,,c Sangakkara b Lee,15,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",
+555,,b Pathan,25,10,3,0,150.00,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",
+556,,b Pathan,25,17,4,1,147.06,Inn1,Sunrisers Hyderabad,Delhi Capitals,won,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",
+557,Ajinkya Rahane,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",1447
+558,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",1446
+559,Marcus Stoinis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",8989
+560,Shimron Hetmyer,not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",9789
+561,Rishabh Pant (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",10744
+562,Shreyas Iyer (c),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",9428
+563,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Sunrisers Hyderabad,lost,30504,19:30:00,27,2020,10,"Dubai International Cricket Stadium, Dubai",8808
+564,Philippe,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",13172
+565,Devdutt Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",13088
+566,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1413
+567,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",370
+568,Shivam Dube,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11195
+569,Chris Morris,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8333
+570,Gurkeerat Singh,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Mumbai Indians,lost,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8298
+571,Quinton de Kock (wk),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8520
+572,Ishan Kishan,b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10276
+573,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7915
+574,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1601
+575,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11311
+576,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9647
+577,Kieron Pollard (c),b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Royal Challengers Bangalore,won,30505,19:30:00,28,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",657
+578,Shubman Gill,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",11808
+579,Nitish Rana,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",9204
+580,Narine,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",2276
+581,Rinku Singh,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",10896
+582,Morgan (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",624
+583,Karthik (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",145
+584,Tripathi,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Chennai Super Kings,lost,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",9012
+585,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",158
+586,Ruturaj Gaikwad,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",11813
+587,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",6311
+588,MS Dhoni (c & wk),not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",265
+589,Sam Curran,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",10420
+590,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",587
+591,9,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kolkata Knight Riders,won,30510,19:30:00,29,2020,10,"Dubai International Cricket Stadium, Dubai",
+592,Rahul (c & wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8733
+593,Mandeep,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6319
+594,Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",247
+595,Pooran,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9406
+596,Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7662
+597,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9427
+598,11,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Rajasthan Royals,lost,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+599,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kings XI Punjab,won,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",527
+600,Ben Stokes,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kings XI Punjab,won,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6557
+601,Sanju Samson (wk),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kings XI Punjab,won,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8271
+602,Steven Smith (c),not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kings XI Punjab,won,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2250
+603,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kings XI Punjab,won,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2258
+604,5,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kings XI Punjab,won,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+605,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kings XI Punjab,won,30515,19:30:00,30,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+606,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Mumbai Indians,lost,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",12094
+607,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Mumbai Indians,lost,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",1446
+608,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Mumbai Indians,lost,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",9428
+609,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Mumbai Indians,lost,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",10744
+610,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Mumbai Indians,lost,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",8989
+611,Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Mumbai Indians,lost,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",9789
+612,Harshal Patel,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Mumbai Indians,lost,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",8175
+613,Ishan Kishan,not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",10276
+614,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",8520
+615,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",7915
+616,1,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+617,,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+618,,lbw b Hopes,2,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+619,,lbw b Hopes,2,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+620,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+621,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+622,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+623,,b Pathan,25,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+624,,b Pathan,25,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+625,,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Capitals,won,30519,15:30:00,31,2020,10,"Dubai International Cricket Stadium, Dubai",
+626,Rahul (c & wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",8733
+627,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",2195
+628,Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",247
+629,Pooran,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",9406
+630,Mandeep,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",6319
+631,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",9427
+632,Neesham,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",8983
+633,Ruturaj Gaikwad,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",11813
+634,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",7825
+635,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",6311
+636,14,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+637,,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+638,,lbw b Hopes,2,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+639,,lbw b Hopes,2,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+640,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+641,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+642,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+643,,b Pathan,25,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+644,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+645,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,30524,15:30:00,1,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+646,Philippe,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Delhi Capitals,lost,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",13172
+647,Devdutt Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Delhi Capitals,lost,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",13088
+648,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Delhi Capitals,lost,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1413
+649,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Delhi Capitals,lost,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",370
+650,Chris Morris,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Delhi Capitals,lost,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",8333
+651,Shivam Dube,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Delhi Capitals,lost,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",11195
+652,Washington Sundar,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Delhi Capitals,lost,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",10945
+653,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Royal Challengers Bangalore,won,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",12094
+654,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Royal Challengers Bangalore,won,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1446
+655,Ajinkya Rahane,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Royal Challengers Bangalore,won,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1447
+656,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Royal Challengers Bangalore,won,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",9428
+657,Rishabh Pant (wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Royal Challengers Bangalore,won,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",10744
+658,Marcus Stoinis,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Royal Challengers Bangalore,won,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",8989
+659,6,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Royal Challengers Bangalore,won,30534,19:30:00,2,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+660,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",576
+661,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",8520
+662,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",7915
+663,Ishan Kishan,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",10276
+664,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",11311
+665,Saurabh Tiwary,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",1601
+666,Pollard,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Sunrisers Hyderabad,lost,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",657
+667,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",1739
+668,Wriddhiman Saha (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",1465
+669,8,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+670,,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+671,,not out,116,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+672,,not out,116,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+673,,not out,116,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+674,,lbw b Hopes,2,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+675,,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+676,,lbw b Hopes,2,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+677,,lbw b Hopes,2,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+678,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+679,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+680,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+681,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+682,,b Pathan,25,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+683,,b Pathan,25,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+684,,b Pathan,25,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+685,,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Mumbai Indians,won,30539,19:30:00,3,2020,11,"Sharjah Cricket Stadium, Sharjah",
+686,de Kock (wk),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Delhi Capitals,won,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",8520
+687,Rohit (c),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Delhi Capitals,won,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",576
+688,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Delhi Capitals,won,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",7915
+689,Ishan Kishan,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Delhi Capitals,won,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",10276
+690,Pollard,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Delhi Capitals,won,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",657
+691,Krunal Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Delhi Capitals,won,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",11311
+692,Hardik Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Delhi Capitals,won,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",9647
+693,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Mumbai Indians,lost,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",12094
+694,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Mumbai Indians,lost,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",1446
+695,Ajinkya Rahane,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Mumbai Indians,lost,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",1447
+696,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Mumbai Indians,lost,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",9428
+697,Marcus Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Mumbai Indians,lost,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",8989
+698,Rishabh Pant (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Mumbai Indians,lost,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",10744
+699,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Mumbai Indians,lost,31613,19:30:00,5,2020,11,"Dubai International Cricket Stadium, Dubai",8808
+700,Kohli (c),not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1413
+701,Devdutt Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",13088
+702,Finch,c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1643
+703,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",370
+704,Moeen,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",6692
+705,Shivam Dube,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",11195
+706,Washington Sundar,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",10945
+707,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1739
+708,Shreevats Goswami (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1807
+709,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1836
+710,Kane Williamson,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",6326
+711,Priyam Garg,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",12089
+712,Jason Holder,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",8313
+713,10,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,31617,19:30:00,6,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+714,Stoinis,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",8989
+715,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1446
+716,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",9428
+717,Hetmyer,not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",9789
+718,Pant (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",10744
+719,8,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+720,,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Sunrisers Hyderabad,won,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",
+721,Priyam Garg,not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",12089
+722,David Warner (c),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1739
+723,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",1836
+724,Kane Williamson,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",6326
+725,Jason Holder,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",8313
+726,Abdul Samad,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",14628
+727,Rashid Khan,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Delhi Capitals,lost,31618,19:30:00,8,2020,11,"Sheikh Zayed Stadium, Abu Dhabi",10738
+728,Stoinis,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Mumbai Indians,lost,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",8989
+729,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Mumbai Indians,lost,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",1446
+730,Rahane,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Mumbai Indians,lost,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",1447
+731,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Mumbai Indians,lost,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",9428
+732,Pant (wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Mumbai Indians,lost,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",10744
+733,Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Mumbai Indians,lost,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",9789
+734,Axar,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Mumbai Indians,lost,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",8808
+735,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Capitals,won,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",576
+736,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Capitals,won,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",8520
+737,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Capitals,won,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",7915
+738,Ishan Kishan,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Capitals,won,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",10276
+739,Kieron Pollard,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Capitals,won,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",657
+740,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Capitals,won,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",9647
+741,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Capitals,won,31622,19:30:00,10,2020,11,"Dubai International Cricket Stadium, Dubai",11311
+742,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Chennai Super Kings,lost,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",576
+743,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",8520
+744,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Chennai Super Kings,lost,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",7915
+745,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Chennai Super Kings,lost,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1601
+746,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Chennai Super Kings,lost,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",9647
+747,Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Chennai Super Kings,lost,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",657
+748,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Chennai Super Kings,lost,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",11311
+749,Murali Vijay,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Mumbai Indians,won,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",1597
+750,Shane Watson,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Mumbai Indians,won,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",158
+751,Faf du Plessis,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Mumbai Indians,won,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",7825
+752,Ambati Rayudu,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Mumbai Indians,won,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",6311
+753,Ravindra Jadeja,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Mumbai Indians,won,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",587
+754,Sam Curran,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Mumbai Indians,won,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",10420
+755,MS Dhoni (c & wk),b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Mumbai Indians,won,30330,19:30:00,19,2020,9,"Sheikh Zayed Stadium, Abu Dhabi",265
+756,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Kolkata Knight Riders,won,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",12094
+757,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Kolkata Knight Riders,won,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",1446
+758,Shreyas Iyer (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Kolkata Knight Riders,won,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",9428
+759,Pant (wk),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Kolkata Knight Riders,won,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",10744
+760,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Kolkata Knight Riders,won,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",8989
+761,Hetmyer,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Kolkata Knight Riders,won,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",9789
+762,2,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Kolkata Knight Riders,won,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",
+763,Shubman Gill,not out,31,14,3,2,221.43,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",11808
+764,Sunil Narine,b Pathan,13,10,0,1,130.00,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",2276
+765,Nitish Rana,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",9204
+766,Andre Russell,not out,116,54,8,9,214.81,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",7736
+767,Dinesh Karthik (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",145
+768,Eoin Morgan,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",624
+769,Pat Cummins,b Pathan,25,17,4,1,147.06,Inn2,Kolkata Knight Riders,Delhi Capitals,lost,30395,19:30:00,3,2020,10,"Sharjah Cricket Stadium, Sharjah",8095
+770,Rahul (c),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",8733
+771,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",2195
+772,Mandeep,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",6319
+773,Pooran (wk),not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",9406
+774,Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",7662
+775,Sarfaraz Khan,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",9429
+776,4,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Chennai Super Kings,lost,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+777,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",158
+778,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",7825
+779,11,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+780,,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+781,,not out,116,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+782,,not out,116,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+783,,not out,116,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+784,,lbw b Hopes,2,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+785,,lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+786,,lbw b Hopes,2,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+787,,lbw b Hopes,2,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+788,,c Sangakkara b Lee,15,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+789,,c Sangakkara b Lee,15,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+790,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+791,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+792,,b Pathan,25,54,8,9,214.81,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+793,,b Pathan,25,3,0,0,66.67,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+794,,b Pathan,25,10,3,0,150.00,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+795,,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Kings XI Punjab,won,30404,19:30:00,4,2020,10,"Dubai International Cricket Stadium, Dubai",
+796,Devdutt Padikkal,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",13088
+797,Finch,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",1643
+798,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",1413
+799,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",370
+800,Washington Sundar,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",10945
+801,Shivam Dube,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",11195
+802,12,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Chennai Super Kings,won,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",
+803,Shane Watson,not out,31,14,3,2,221.43,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",158
+804,Faf du Plessis,b Pathan,13,10,0,1,130.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",7825
+805,Ambati Rayudu,c Pathan b Mota,32,13,2,3,246.15,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",6311
+806,N Jagadeesan,not out,116,54,8,9,214.81,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",11675
+807,MS Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",265
+808,Sam Curran,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",10420
+809,Ravindra Jadeja,b Pathan,25,17,4,1,147.06,Inn2,Chennai Super Kings,Royal Challengers Bangalore,lost,30429,19:30:00,10,2020,10,"Dubai International Cricket Stadium, Dubai",587
+810,Prithvi Shaw,not out,31,14,3,2,221.43,Inn1,Delhi Capitals,Mumbai Indians,lost,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",12094
+811,Dhawan,b Pathan,13,10,0,1,130.00,Inn1,Delhi Capitals,Mumbai Indians,lost,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1446
+812,Rahane,c Pathan b Mota,32,13,2,3,246.15,Inn1,Delhi Capitals,Mumbai Indians,lost,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1447
+813,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn1,Delhi Capitals,Mumbai Indians,lost,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9428
+814,Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn1,Delhi Capitals,Mumbai Indians,lost,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8989
+815,Alex Carey (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Delhi Capitals,Mumbai Indians,lost,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9200
+816,5,b Pathan,25,17,4,1,147.06,Inn1,Delhi Capitals,Mumbai Indians,lost,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+817,Rohit Sharma (c),not out,31,14,3,2,221.43,Inn2,Mumbai Indians,Delhi Capitals,won,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",576
+818,Quinton de Kock (wk),b Pathan,13,10,0,1,130.00,Inn2,Mumbai Indians,Delhi Capitals,won,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8520
+819,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn2,Mumbai Indians,Delhi Capitals,won,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7915
+820,Ishan Kishan,not out,116,54,8,9,214.81,Inn2,Mumbai Indians,Delhi Capitals,won,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10276
+821,Hardik Pandya,lbw b Hopes,2,3,0,0,66.67,Inn2,Mumbai Indians,Delhi Capitals,won,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9647
+822,Kieron Pollard,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Mumbai Indians,Delhi Capitals,won,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",657
+823,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn2,Mumbai Indians,Delhi Capitals,won,30434,19:30:00,11,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11311
+824,Sam Curran,not out,31,14,3,2,221.43,Inn1,Chennai Super Kings,Delhi Capitals,lost,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",10420
+825,du Plessis,b Pathan,13,10,0,1,130.00,Inn1,Chennai Super Kings,Delhi Capitals,lost,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",7825
+826,Watson,c Pathan b Mota,32,13,2,3,246.15,Inn1,Chennai Super Kings,Delhi Capitals,lost,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",158
+827,Rayudu,not out,116,54,8,9,214.81,Inn1,Chennai Super Kings,Delhi Capitals,lost,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",6311
+828,Dhoni (c & wk),lbw b Hopes,2,3,0,0,66.67,Inn1,Chennai Super Kings,Delhi Capitals,lost,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",265
+829,Ravindra Jadeja,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Chennai Super Kings,Delhi Capitals,lost,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",587
+830,4,b Pathan,25,17,4,1,147.06,Inn1,Chennai Super Kings,Delhi Capitals,lost,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",
+831,Prithvi Shaw,not out,31,14,3,2,221.43,Inn2,Delhi Capitals,Chennai Super Kings,won,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",12094
+832,Shikhar Dhawan,b Pathan,13,10,0,1,130.00,Inn2,Delhi Capitals,Chennai Super Kings,won,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",1446
+833,Ajinkya Rahane,c Pathan b Mota,32,13,2,3,246.15,Inn2,Delhi Capitals,Chennai Super Kings,won,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",1447
+834,Shreyas Iyer (c),not out,116,54,8,9,214.81,Inn2,Delhi Capitals,Chennai Super Kings,won,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",9428
+835,Marcus Stoinis,lbw b Hopes,2,3,0,0,66.67,Inn2,Delhi Capitals,Chennai Super Kings,won,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",8989
+836,Alex Carey (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Delhi Capitals,Chennai Super Kings,won,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",9200
+837,Axar Patel,b Pathan,25,17,4,1,147.06,Inn2,Delhi Capitals,Chennai Super Kings,won,30459,19:30:00,17,2020,10,"Sharjah Cricket Stadium, Sharjah",8808
+838,Rohit (c),not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Kings XI Punjab,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",576
+839,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Kings XI Punjab,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",8520
+840,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Kings XI Punjab,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",7915
+841,Ishan Kishan,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Kings XI Punjab,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",10276
+842,Krunal Pandya,lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Kings XI Punjab,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",11311
+843,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Kings XI Punjab,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",9647
+844,Pollard,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Kings XI Punjab,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",657
+845,KL Rahul (c & wk),not out,31,14,3,2,221.43,Inn2,Kings XI Punjab,Mumbai Indians,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",8733
+846,Mayank Agarwal,b Pathan,13,10,0,1,130.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",2195
+847,Chris Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn2,Kings XI Punjab,Mumbai Indians,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",247
+848,Nicholas Pooran,not out,116,54,8,9,214.81,Inn2,Kings XI Punjab,Mumbai Indians,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",9406
+849,Glenn Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn2,Kings XI Punjab,Mumbai Indians,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",7662
+850,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Kings XI Punjab,Mumbai Indians,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",9427
+851,Chris Jordan,b Pathan,25,17,4,1,147.06,Inn2,Kings XI Punjab,Mumbai Indians,lost,30464,19:30:00,18,2020,10,"Dubai International Cricket Stadium, Dubai",6532
+852,Rahul (c & wk),not out,31,14,3,2,221.43,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",8733
+853,Mandeep,b Pathan,13,10,0,1,130.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",6319
+854,Gayle,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",247
+855,Pooran,not out,116,54,8,9,214.81,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",9406
+856,Maxwell,lbw b Hopes,2,3,0,0,66.67,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",7662
+857,Deepak Hooda,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",9427
+858,Chris Jordan,b Pathan,25,17,4,1,147.06,Inn1,Kings XI Punjab,Sunrisers Hyderabad,won,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",6532
+859,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",1739
+860,Jonny Bairstow (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",6507
+861,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",1836
+862,Abdul Samad,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",14628
+863,Vijay Shankar,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",8204
+864,Jason Holder,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",8313
+865,Priyam Garg,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Kings XI Punjab,lost,30489,19:30:00,24,2020,10,"Dubai International Cricket Stadium, Dubai",12089
+866,Ishan Kishan,not out,31,14,3,2,221.43,Inn1,Mumbai Indians,Rajasthan Royals,lost,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",10276
+867,de Kock (wk),b Pathan,13,10,0,1,130.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8520
+868,Suryakumar Yadav,c Pathan b Mota,32,13,2,3,246.15,Inn1,Mumbai Indians,Rajasthan Royals,lost,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",7915
+869,Saurabh Tiwary,not out,116,54,8,9,214.81,Inn1,Mumbai Indians,Rajasthan Royals,lost,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",1601
+870,Pollard (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Mumbai Indians,Rajasthan Royals,lost,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",657
+871,Hardik Pandya,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Mumbai Indians,Rajasthan Royals,lost,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",9647
+872,Krunal Pandya,b Pathan,25,17,4,1,147.06,Inn1,Mumbai Indians,Rajasthan Royals,lost,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",11311
+873,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",527
+874,Ben Stokes,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",6557
+875,Steven Smith (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",2250
+876,Sanju Samson (wk),not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",8271
+877,11,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+878,,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+879,,c Sangakkara b Lee,15,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+880,,b Pathan,25,10,3,0,150.00,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+881,,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Mumbai Indians,won,30495,19:30:00,25,2020,10,"Sheikh Zayed Stadium, Abu Dhabi",
+882,Philippe,not out,31,14,3,2,221.43,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",13172
+883,Devdutt Padikkal,b Pathan,13,10,0,1,130.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",13088
+884,Kohli (c),c Pathan b Mota,32,13,2,3,246.15,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",1413
+885,de Villiers (wk),not out,116,54,8,9,214.81,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",370
+886,Washington Sundar,lbw b Hopes,2,3,0,0,66.67,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",10945
+887,Gurkeerat Singh,c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",8298
+888,Chris Morris,b Pathan,25,17,4,1,147.06,Inn1,Royal Challengers Bangalore,Sunrisers Hyderabad,lost,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",8333
+889,David Warner (c),not out,31,14,3,2,221.43,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",1739
+890,Wriddhiman Saha (wk),b Pathan,13,10,0,1,130.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",1465
+891,Manish Pandey,c Pathan b Mota,32,13,2,3,246.15,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",1836
+892,Kane Williamson,not out,116,54,8,9,214.81,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",6326
+893,Abhishek Sharma,lbw b Hopes,2,3,0,0,66.67,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",12086
+894,Jason Holder,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",8313
+895,Abdul Samad,b Pathan,25,17,4,1,147.06,Inn2,Sunrisers Hyderabad,Royal Challengers Bangalore,won,30520,19:30:00,31,2020,10,"Sharjah Cricket Stadium, Sharjah",14628
+896,Shubman Gill,not out,31,14,3,2,221.43,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",11808
+897,Nitish Rana,b Pathan,13,10,0,1,130.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",9204
+898,Tripathi,c Pathan b Mota,32,13,2,3,246.15,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",9012
+899,Narine,not out,116,54,8,9,214.81,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",2276
+900,Morgan (c),lbw b Hopes,2,3,0,0,66.67,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",624
+901,Karthik (wk),c Sangakkara b Lee,15,10,3,0,150.00,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",145
+902,Russell,b Pathan,25,17,4,1,147.06,Inn1,Kolkata Knight Riders,Rajasthan Royals,won,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",7736
+903,Robin Uthappa,not out,31,14,3,2,221.43,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",527
+904,Ben Stokes,b Pathan,13,10,0,1,130.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",6557
+905,Steven Smith (c),c Pathan b Mota,32,13,2,3,246.15,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",2250
+906,Sanju Samson (wk),not out,116,54,8,9,214.81,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",8271
+907,Jos Buttler,lbw b Hopes,2,3,0,0,66.67,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",2258
+908,Riyan Parag,c Sangakkara b Lee,15,10,3,0,150.00,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",12305
+909,Rahul Tewatia,b Pathan,25,17,4,1,147.06,Inn2,Rajasthan Royals,Kolkata Knight Riders,lost,30529,19:30:00,1,2020,11,"Dubai International Cricket Stadium, Dubai",9693
